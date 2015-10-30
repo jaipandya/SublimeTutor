@@ -13,6 +13,12 @@ Requirements
 2. **Git**[^git] is installed (for cloning from github)
 3. Level - beginning / intermediate
 
+Installation
+-------------
+
+Search for Sublime Tutor on [Package Control](https://sublime.wbond.net/)!
+
+
 Symbols Used in this guide
 ---------------------------
 

@@ -1,0 +1,18 @@
+[
+    {
+        "id": "help",
+        "children":
+        [
+            {
+                "caption": "-"
+            },
+            {
+                "caption": "Sublime Tutor",
+                "command": "sublime_tutor"
+            },
+            {
+                "caption": "-"
+            }
+        ]
+    }
+]
