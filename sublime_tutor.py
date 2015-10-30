@@ -18,4 +18,4 @@ class SublimeTutorCommand(sublime_plugin.WindowCommand):
 			app_path = executable_path[:executable_path.rfind(".app/")+5]
 			executable_path = app_path+"Contents/SharedSupport/bin/subl"
 
-		subprocess.Popen([executable_path, './Tutorial'], cwd='/Users/jai/Library/Application Support/Sublime Text 3/Packages/SublimeTutor/')
+		subprocess.Popen([executable_path, './Tutorial', './Tutorial/chapter_1.md'], cwd='/Users/jai/Library/Application Support/Sublime Text 3/Packages/SublimeTutor/')
