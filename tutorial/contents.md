@@ -1,7 +1,7 @@
 Contents
 =========
 
-1. Goto Anywhere (Navigation)
+1. Goto Anything (Navigation)
 ------------------------------
 
 2. Editing text
@@ -10,10 +10,9 @@ Contents
 =1.  Insert line before / after - ⌘ + ⏎ / ⌘ + ⇧ + ⏎
 =2.  Delete word backward / forward - ⌥ + ⌫ / fn + ⌥ + ⌫
 =3.  Delete to beginning / end - ⌘ + ⌫ / ^ + K
-=4.  Deleting a line - ^ + ⇧ + K
-=5.  Cut a line - ⌘ + X
-5.  Soft Undo / Redo - ⌘ + U / ⌘ + ⇧ + U
-6.  Upper / lower case - ⌘ + K, ⌘ + U / ⌘ + K, ⌘ + L
+=4.  Delete / Cut a line - ^ + ⇧ + K / ⌘ + X
+=5.  Soft Undo / Redo - ⌘ + U / ⌘ + ⇧ + U
+=6.  Upper / lower case - ⌘ + K, ⌘ + U / ⌘ + K, ⌘ + L
 7.  Joining Lines - ⌘ + J
 8.  Bubble the line up / down - ^ + ⌘ + up / ^ + ⌘ + down
 9.  Duplicating a line - ⌘ + ⇧ + D
@@ -61,23 +60,23 @@ Goto
 5. Find
 --------
 
-Find - ⌘ + F
-Find next - ⌘ + G
-Find previous - ⌘ + ⇧ + G
-Find all - ⌥ + ⏎ (while find window is open)
-Incremental find - ⌘ + I
-Incremental find previous - ⌘ + ⇧ + I
-Find all with incremental find - ⌥ + ⏎
+1.  Find - ⌘ + F
+2.  Find next - ⌘ + G
+3.  Find previous - ⌘ + ⇧ + G
+4.  Find all - ⌥ + ⏎ (while find window is open)
+5.  Incremental find - ⌘ + I
+6.  Incremental find previous - ⌘ + ⇧ + I
+7.  Find all with incremental find - ⌥ + ⏎
 
-Replace panel - ⌘ + ⌥ + F
-Replace next - ⌘ + ⌥ + E
-Replace all - ^ + ⌥ + ⏎
+8.  Replace panel - ⌘ + ⌥ + F
+9.  Replace next - ⌘ + ⌥ + E
+10. Replace all - ^ + ⌥ + ⏎
 
-Quick find - ⌥ + ⌘ + G
-Quick find previous - ⌥ + ⌘ + ⇧ + G
-Quick find all - ^ + ⌘ + G
+11. Quick find - ⌥ + ⌘ + G
+12. Quick find previous - ⌥ + ⌘ + ⇧ + G
+13. Quick find all - ^ + ⌘ + G
 
-Find in project - ⌘ + ⇧ + F
+14. Find in project - ⌘ + ⇧ + F
 
 6. Others
 ----------

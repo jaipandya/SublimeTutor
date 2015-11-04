@@ -1,4 +1,4 @@
-Go To Anywhere
+Goto Anything
 ===============
 
 Probably the most frequently used command in Sublime Text. While a project is
@@ -10,4 +10,4 @@ Let's try this now. Do as per the following instructions:
 1. Press ⌘ (`Command`) + P
 2. This shows you Goto Anything panel. Typing name of a file should filter out
    names of files.
-3. Type `c1rb` and press ⏎ `enter`
+3. Type `c1rb` and press ⏎ (`enter`)

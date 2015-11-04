@@ -1,4 +1,4 @@
-Editing Text
+Editing text
 =============
 
 In this module we'll learn all the important quick editing actions that sublime
@@ -9,9 +9,9 @@ module!
 
 Let's move to the first unit.
 
-1. Press ⌘ (`Command`) + P (`Goto Anywhere` command)
+1. Press ⌘ (`Command`) + P (`Goto Anything` command)
 2. Type `c21` and press ⏎ (`enter`)
 
-Pro tip: `Goto Anywhere` does fuzzy matching with the file names when you start
+Pro tip: `Goto Anything` does fuzzy matching with the file names when you start
 typing. In the case above you could also type 21 or chap21 and the result would
 be the same.

@@ -1,4 +1,4 @@
-Insert Line Before / After
+Insert line before / after
 ===========================
 
 If your cursor is place on a line, you can directly add a line above or below
@@ -23,14 +23,14 @@ I have been sandwiched between the two above and below <==
 This is last line
 ```
 
-first block
+First block
 ------------
 
 This is first line
 I have been sandwiched between the two above and below <==
 This is last line
 
-second block
+Second block
 ------------
 
 This is first line
@@ -38,12 +38,12 @@ I have been sandwiched between the two above and below <==
 This is last line
 
 
-third block
+Third block
 ------------
 
 This is first line
 I have been sandwiched between the two above and below <==
 This is last line
 
-Now proceed to next chapter with your familiar `Goto Anywhere` shortcut. The 
+Now proceed to next chapter with your familiar `Goto Anything` shortcut. The 
 filename is chapter_2_2.md
