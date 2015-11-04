@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"option",
+				"option"
+			],
+			[
 				"referral",
 				"referral_code"
 			],
@@ -151,6 +155,14 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "Contents.md",
+			"settings":
+			{
+				"buffer_size": 1810,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -159,10 +171,18 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 207.0,
-		"last_filter": "install ",
+		"height": 47.0,
+		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"sublimegit",
+				"SublimeGit: Version"
+			],
+			[
+				"sublime tuto",
+				"Sublime Tutor: Start"
+			],
 			[
 				"install ",
 				"Package Control: Install Package"
@@ -300,7 +320,7 @@
 				"Git: Status"
 			]
 		],
-		"width": 548.0
+		"width": 575.0
 	},
 	"console":
 	{
@@ -350,17 +370,27 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/jai/Library/Application Support/Sublime Text 3/Packages/SublimeTutor/Tutorial"
+		"/Users/jai/Library/Application Support/Sublime Text 3/Packages/SublimeTutor/tutorial",
+		"/Users/jai/Library/Application Support/Sublime Text 3/Packages/SublimeTutor/tutorial/code"
 	],
 	"file_history":
 	[
+		"/Users/jai/Library/Application Support/Sublime Text 3/Packages/SublimeTutor/tutorial/README.md",
+		"/Users/jai/Library/Application Support/Sublime Text 3/Packages/SublimeTutor/tutorial/chapter_2.md",
+		"/Users/jai/Library/Application Support/Sublime Text 3/Packages/SublimeTutor/tutorial/chapter_1.md",
+		"/Users/jai/Library/Application Support/Sublime Text 3/Packages/SublimeTutor/tutorial/code/chapter_1.rb",
+		"/Users/jai/Library/Application Support/Sublime Text 3/Packages/SublimeTutor/tutorial/Contents.md",
+		"/Users/jai/Library/Application Support/Sublime Text 3/Packages/SublimeTutor/tutorial/tutorial.sublime-completions",
+		"/Users/jai/Library/Application Support/Sublime Text 3/Packages/SublimeTutor/tutorial/sublimetutor.sublime-project",
+		"/Users/jai/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/jai/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/jai/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/jai/Library/Application Support/Sublime Text 3/Packages/SublimeTutor/Tutorial/chapter_1.md",
 		"/Users/jai/Library/Application Support/Sublime Text 3/Packages/SublimeTutor/Tutorial/sublimetutor.sublime-project",
 		"/Users/jai/Library/Application Support/Sublime Text 3/Packages/SublimeLinter/Default.sublime-commands",
 		"/Users/jai/Library/Application Support/Sublime Text 3/Packages/SublimeTutor/Default.sublime-commands",
 		"/Users/jai/Library/Application Support/Sublime Text 3/Packages/SublimeTutor/sublime_tutor.py",
-		"/Users/jai/Library/Application Support/Sublime Text 3/Packages/SublimeTutor/Tutorial/chapter_1.md",
 		"/Users/jai/Library/Application Support/Sublime Text 3/Packages/SublimeTutor/Main.sublime-menu",
-		"/Users/jai/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
 		"/Users/jai/Library/Application Support/Sublime Text 3/Packages/SublimeTutor/SublimeTutor.sublime-commands",
 		"/Users/jai/Library/Application Support/Sublime Text 3/Packages/KeyBindingInspector/KeyBindingListener.py",
 		"/Users/jai/Workspace/sublimetutor/CONTRIBUTORS.md",
@@ -472,20 +502,11 @@
 		"/Users/jai/Workspace/trevo/db/migrate/20151005140605_remove_uniq_index_from_buses.rb",
 		"/tmp/subl stdin X3ZJJP.txt",
 		"/tmp/subl stdin o52LQY.txt",
-		"/tmp/subl stdin wfN1bc.txt",
-		"/Users/jai/Workspace/trevo/app/controllers/api/v1/sessions_controller.rb",
-		"/tmp/subl stdin 72UPks.txt",
-		"/Users/jai/Workspace/trevo/app/controllers/api/v1/bus_sessions_controller.rb",
-		"/tmp/subl stdin DNzsgc.txt",
-		"/tmp/subl stdin zmqiV8.txt",
-		"/Users/jai/Workspace/trevo/app/controllers/concerns/authenticable.rb",
-		"/Users/jai/Workspace/trevo/app/controllers/api/v1/buses_controller.rb",
-		"/Users/jai/Workspace/trevo/db/migrate/20151003104401_add_is_active_to_buses.rb",
-		"/Users/jai/Workspace/trevo/db/migrate/20151003112122_add_is_active_to_drivers.rb"
+		"/tmp/subl stdin wfN1bc.txt"
 	],
 	"find":
 	{
-		"height": 23.0
+		"height": 35.0
 	},
 	"find_in_files":
 	{
@@ -593,6 +614,20 @@
 		"case_sensitive": true,
 		"find_history":
 		[
+			"Quick",
+			"/",
+			" /",
+			"/ ",
+			"Upper",
+			"⌘ + L",
+			"⌘",
+			"DrMJG_HN ",
+			"line",
+			"word",
+			"lower",
+			"Selecting",
+			"The",
+			"tab",
 			"subprocess",
 			"run",
 			"on_modified",
@@ -706,21 +741,7 @@
 			"unprocess",
 			"fail '",
 			"Referral.create",
-			"API",
-			"after_create",
-			"referral_code",
-			"passcode",
-			"passcodere",
-			"generate_referral_code",
-			"find_each",
-			"find_",
-			"recipient",
-			"recepient",
-			"free_booking",
-			".order(",
-			".order",
-			"bookings",
-			"foreign_key: '"
+			"API"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -764,11 +785,47 @@
 			"sheets":
 			[
 			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Contents.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1810,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								116,
+								116
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": -0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
 		}
 	],
 	"incremental_find":
 	{
-		"height": 23.0
+		"height": 35.0
 	},
 	"input":
 	{
@@ -783,11 +840,18 @@
 				0,
 				1,
 				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
 			]
 		],
 		"cols":
 		[
 			0.0,
+			0.519772318754,
 			1.0
 		],
 		"rows":
@@ -809,7 +873,7 @@
 	"project": "sublimetutor.sublime-project",
 	"replace":
 	{
-		"height": 42.0
+		"height": 64.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -1344,10 +1408,14 @@
 	},
 	"select_symbol":
 	{
-		"height": 207.0,
+		"height": 87.0,
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"",
+				"bar1"
+			]
 		],
 		"width": 392.0
 	},
@@ -1355,7 +1423,7 @@
 	"settings":
 	{
 	},
-	"show_minimap": true,
+	"show_minimap": false,
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,

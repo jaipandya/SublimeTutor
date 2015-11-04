@@ -1,8 +1,6 @@
 [
     {
         "caption": "Sublime Tutor: Start",
-        "command": "sublime_tutor", "args":
-        {
-        }
+        "command": "sublime_tutor"
     }
 ]
