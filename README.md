@@ -64,3 +64,7 @@ Navigate to the first chapter
 The first and foremost feature you'll learn is 'Go to anywhere' shortcut. Use
 `⌘ + T` and then type `1`, this would give you a list of files matched. Select
 the first option (`1.md`) using `↓` (down) arrow key followed by `⏎` (return)
+
+
+[^git]: Git is a version control system - https://git-scm.com/
+[^resources]: Unofficial Sublime Text Guide is an excellent resource - http://docs.sublimetext.info/en/latest/basic_concepts.html
