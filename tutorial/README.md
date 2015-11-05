@@ -30,13 +30,13 @@ Search for Sublime Tutor on [Package Control](https://sublime.wbond.net/)!
 Symbols Used in this guide
 ---------------------------
 
-⌘ – he Command Key symbol
-⌥ – he Option Key symbol
-⇧ – he Shift Key symbol
-⎋ – he ESC Key symbol
-⇪ – he Capslock symbol
-⏎ – he Return symbol
-⌫ – he Delete / Backspace symbol
+    ⌘ – he Command Key symbol
+    ⌥ – he Option Key symbol
+    ⇧ – he Shift Key symbol
+    ⎋ – he ESC Key symbol
+    ⇪ – he Capslock symbol
+    ⏎ – he Return symbol
+    ⌫ – he Delete / Backspace symbol
 
 Getting Started
 ----------------
@@ -67,4 +67,5 @@ the first option (`1.md`) using `↓` (down) arrow key followed by `⏎` (return
 
 
 [^git]: Git is a version control system - https://git-scm.com/
+
 [^resources]: Unofficial Sublime Text Guide is an excellent resource - http://docs.sublimetext.info/en/latest/basic_concepts.html
