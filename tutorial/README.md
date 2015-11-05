@@ -66,5 +66,5 @@ The first and foremost feature you'll learn is 'Go to anywhere' shortcut. Use
 the first option (`1.md`) using `↓` (down) arrow key followed by `⏎` (return)
 
 
-[git]: https://git-scm.com/
-[resources]: http://docs.sublimetext.info/en/latest/basic_concepts.html
+[^git]: Git is a version control system - https://git-scm.com/
+[^resources]: Unofficial Sublime Text Guide is an excellent resource - http://docs.sublimetext.info/en/latest/basic_concepts.html
