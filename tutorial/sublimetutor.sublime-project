@@ -11,6 +11,7 @@
     "rulers": [80],
     "word_wrap": "true",
     "wrap_width": 80,
-    "remember_open_files": true
+    "remember_open_files": true,
+    "translate_tabs_to_spaces": true
   }
 }

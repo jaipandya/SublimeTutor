@@ -1,7 +1,7 @@
 Delete to end / beginning of the line
 ======================================
 
-Delete to beginning of the line - ⌘ (`command`) + ⌫ (delete)
+Delete to beginning of the line - ⌘ (`command`) + ⌫ (`delete`)
 Delete to end of the line - ^ (`control`) + K
 
 
