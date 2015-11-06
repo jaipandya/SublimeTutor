@@ -52,23 +52,22 @@ Contents
 5. Find
 --------
 
-1.  Find - ⌘ + F
-    Find next - ⌘ + G
-    Find previous - ⌘ + ⇧ + G
-    Find all - ⌥ + ⏎ (while find window is open)
-2.  Incremental find - ⌘ + I
-    Incremental find previous - ⌘ + ⇧ + I
-    Find all with incremental find - ⌥ + ⏎
-
-3.  Replace panel - ⌘ + ⌥ + F
-    Replace next - ⌘ + ⌥ + E
-    Replace all - ^ + ⌥ + ⏎
-
-11. Quick find - ⌥ + ⌘ + G
-12. Quick find previous - ⌥ + ⌘ + ⇧ + G
-13. Quick find all - ^ + ⌘ + G
-
-14. Find in project - ⌘ + ⇧ + F
+1.  Find - `⌘ + F`
+    Find next - `⌘ + G`
+    Find previous - `⌘ + ⇧ + G`
+    Find all - `⌥ + ⏎` (while find window is open)
+    Add selection to find - `⌘ + E`
+2.  Incremental find - `⌘ + I`
+    Incremental find previous - `⌘ + ⇧ + I`
+    Find all with incremental find - `⌥ + ⏎`
+3.  Replace panel - `⌘ + ⌥ + F`
+    Replace next - `⌘ + ⌥ + E`
+    Replace all - `^ + ⌥ + ⏎`
+    Add selection to replace - `⌘ + ⇧ + E`
+4.  Quick find - `⌥ + ⌘ + G`
+    Quick find previous - `⌥ + ⌘ + ⇧ + G`
+    Quick find all - `^ + ⌘ + G`
+5.  Find in project - `⌘ + ⇧ + F`
 
 6. Others
 ----------

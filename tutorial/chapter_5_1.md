@@ -45,3 +45,19 @@ windows
 
 ```
 
+Use selection for find
+-----------------------
+
+Shortcut - ⌘ (`command`) + E
+
+This commands puts the selection or the word on which the cursor is pointing
+into the find buffer. So next time when you open find panel, or press `⌘ + G`
+this search term is used for finding stuff.
+
+Exercise
+---------
+
+In the text block given above, put your cursor on the word `ubuntu` and then
+press `⌘ + G`, you'll notice that it now finds `ubuntu` word on subsequent
+hits.
+
