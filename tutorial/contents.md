@@ -42,30 +42,27 @@ Contents
 4. Navigation
 --------------
 
-### Goto
-
-1.  Symbol in project - `⌘ + ⇧ + R`
-2.  definition - `⌥ + ⌘ + down`
-3.  Beginning / End of a line - `^ + A` / `^ + E`
-9.  Goto matching bracket - `^ + M`
-6.  Back in history - `^ + -`
-7.  Forward in history - `^ + ⇧ + -`
-8.  Code fold / unfold - `⌥ + ⌘ + [` / `⌥ + ⌘ + ]`
+1.  Goto symbol in project - `⌘ + ⇧ + R`
+2.  Goto definition - `⌥ + ⌘ + down`
+3.  Goto beginning / end of a line - `^ + A` / `^ + E`
+4.  Goto matching bracket - `^ + M`
+5.  Move back / forward in history - `^ + -` / `^ + ⇧ + -`
+6.  Code fold / unfold - `⌥ + ⌘ + [` / `⌥ + ⌘ + ]`
 
 5. Find
 --------
 
 1.  Find - ⌘ + F
-2.  Find next - ⌘ + G
-3.  Find previous - ⌘ + ⇧ + G
-4.  Find all - ⌥ + ⏎ (while find window is open)
-5.  Incremental find - ⌘ + I
-6.  Incremental find previous - ⌘ + ⇧ + I
-7.  Find all with incremental find - ⌥ + ⏎
+    Find next - ⌘ + G
+    Find previous - ⌘ + ⇧ + G
+    Find all - ⌥ + ⏎ (while find window is open)
+2.  Incremental find - ⌘ + I
+    Incremental find previous - ⌘ + ⇧ + I
+    Find all with incremental find - ⌥ + ⏎
 
-8.  Replace panel - ⌘ + ⌥ + F
-9.  Replace next - ⌘ + ⌥ + E
-10. Replace all - ^ + ⌥ + ⏎
+3.  Replace panel - ⌘ + ⌥ + F
+    Replace next - ⌘ + ⌥ + E
+    Replace all - ^ + ⌥ + ⏎
 
 11. Quick find - ⌥ + ⌘ + G
 12. Quick find previous - ⌥ + ⌘ + ⇧ + G
