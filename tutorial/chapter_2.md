@@ -1,7 +1,7 @@
 Editing text
 =============
 
-In this module we'll learn all the important quick editing actions that sublime
+In this module we'll learn all the important quick editing actions that Sublime
 text supports. This would include indenting blocks, inserting line, deleting
 words, upper case / lower case transforming, bubbling lines up and down joining
 lines and much more. Tighten your gears, this is going to be an interesting

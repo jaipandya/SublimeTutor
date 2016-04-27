@@ -1,7 +1,7 @@
 Upper / lower case
 ===================
 
-You can use two handy shortcuts to change the case any text block in sublime.
+You can use two handy shortcuts to change the case any text block in Sublime.
 
 Lower case - ⌘ (`command`) + K, ⌘ + L
 Upper case - ⌘ + K, ⌘ + U

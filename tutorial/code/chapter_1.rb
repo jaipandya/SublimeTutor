@@ -1,9 +1,9 @@
 # encoding: UTF-8
 # If you followed the instructions from chapter 1 of this tutorial correctly,
-# you would have reached here. That means you have successfully executed Goto
+# you have reached here. That means you have successfully executed Goto
 # Anything command.
 
-# There are couple of modifiers to Goto Anything command that we are going to
+# There are a couple of modifiers to Goto Anything command that we are going to
 # try out in this unit.
 
 # Goto Symbol

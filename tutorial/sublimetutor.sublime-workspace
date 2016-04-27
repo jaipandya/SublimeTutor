@@ -155,62 +155,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "contents.md",
-			"settings":
-			{
-				"buffer_size": 2124,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "chapter_4_3.md",
-			"settings":
-			{
-				"buffer_size": 1270,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "chapter_4.md",
-			"settings":
-			{
-				"buffer_size": 720,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "chapter_4_1.md",
-			"settings":
-			{
-				"buffer_size": 514,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "chapter_4_2.md",
-			"settings":
-			{
-				"buffer_size": 517,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "code/chapter_1.rb",
-			"settings":
-			{
-				"buffer_size": 1424,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "README.md",
-			"settings":
-			{
-				"buffer_size": 2386,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -219,8 +163,8 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 187.0,
-		"last_filter": "sublime tuto",
+		"height": 392.0,
+		"last_filter": "",
 		"selected_items":
 		[
 			[
@@ -368,7 +312,7 @@
 				"Git: Status"
 			]
 		],
-		"width": 575.0
+		"width": 539.0
 	},
 	"console":
 	{
@@ -419,11 +363,25 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/jai/Library/Application Support/Sublime Text 3/Packages/SublimeTutor/tutorial",
-		"/Users/jai/Library/Application Support/Sublime Text 3/Packages/SublimeTutor/tutorial/code"
+		"/Users/jai/Library/Application Support/Sublime Text 3/Packages/sublimetutor/tutorial"
 	],
 	"file_history":
 	[
+		"/Users/jai/Library/Application Support/Sublime Text 3/Packages/sublimetutor/tutorial/code/chapter_1.rb",
+		"/Users/jai/Library/Application Support/Sublime Text 3/Packages/sublimetutor/tutorial/chapter_1.md",
+		"/Users/jai/Library/Application Support/Sublime Text 3/Packages/sublimetutor/tutorial/tutorial.sublime-completions",
+		"/Users/jai/Library/Application Support/Sublime Text 3/Packages/sublimetutor/tutorial/README.md",
+		"/Users/jai/Library/Application Support/Sublime Text 3/Packages/sublimetutor/README.md",
+		"/Users/jai/Library/Application Support/Sublime Text 3/Packages/sublimetutor/tutorial/chapter_6.md",
+		"/Users/jai/Library/Application Support/Sublime Text 3/Packages/sublimetutor/tutorial/chapter_2_6.md",
+		"/Users/jai/Library/Application Support/Sublime Text 3/Packages/sublimetutor/tutorial/chapter_2_5.md",
+		"/Users/jai/Library/Application Support/Sublime Text 3/Packages/sublimetutor/tutorial/chapter_2.md",
+		"/Users/jai/Library/Application Support/Sublime Text 3/Packages/sublimetutor/tutorial/chapter_2_14.md",
+		"/Users/jai/Library/Application Support/Sublime Text 3/Packages/sublimetutor/tutorial/contents.md",
+		"/Users/jai/Library/Application Support/Sublime Text 3/Packages/sublimetutor/tutorial/chapter_4_3.md",
+		"/Users/jai/Library/Application Support/Sublime Text 3/Packages/sublimetutor/tutorial/chapter_4.md",
+		"/Users/jai/Library/Application Support/Sublime Text 3/Packages/sublimetutor/tutorial/chapter_4_1.md",
+		"/Users/jai/Library/Application Support/Sublime Text 3/Packages/sublimetutor/tutorial/chapter_4_2.md",
 		"/Users/jai/Library/Application Support/Sublime Text 3/Packages/SublimeTutor/tutorial/code/chapter_1.rb",
 		"/Users/jai/Library/Application Support/Sublime Text 3/Packages/SublimeTutor/tutorial/chapter_3_2.md",
 		"/Users/jai/Library/Application Support/Sublime Text 3/Packages/SublimeTutor/tutorial/chapter_3_3.md",
@@ -536,22 +494,7 @@
 		"/Users/jai/Workspace/trevo/app/serializers/user_serializer.rb",
 		"/Users/jai/Workspace/trevo/app/serializers/free_booking_serializer.rb",
 		"/Users/jai/Workspace/trevo/config/routes.rb",
-		"/Users/jai/Workspace/trevo/app/serializers/wallet_transaction_serializer.rb",
-		"/Users/jai/Workspace/trevo/app/controllers/api/v1/trips_controller.rb",
-		"/Users/jai/Workspace/trevo/app/serializers/referral_serializer.rb",
-		"/Users/jai/Workspace/trevo/app/serializers/driver_serializer.rb",
-		"/Users/jai/Workspace/trevo/app/serializers/payment_serializer.rb",
-		"/Users/jai/Workspace/trevo/lib/trevo_utilities.rb",
-		"/Users/jai/Workspace/trevo/app/controllers/application_controller.rb",
-		"/Users/jai/Workspace/trevo/app/workers/logout_drivers_worker.rb",
-		"/Users/jai/Workspace/trevo/lib/tasks/trevo.rake",
-		"/Users/jai/Workspace/trevo/db/migrate/20151008110827_create_referrals.rb",
-		"/Users/jai/Workspace/trevo/app/models/bus.rb",
-		"/Users/jai/Workspace/trevo/log/development.log",
-		"/Users/jai/Workspace/trevo/spec/factories/referrals.rb",
-		"/Users/jai/Workspace/trevo/app/models/location.rb",
-		"/Users/jai/Workspace/trevo/app/serializers/bus_serializer.rb",
-		"/Users/jai/Workspace/trevo/db/migrate/20151008130311_create_bookings_free_bookings.rb"
+		"/Users/jai/Workspace/trevo/app/serializers/wallet_transaction_serializer.rb"
 	],
 	"find":
 	{
@@ -663,6 +606,15 @@
 		"case_sensitive": true,
 		"find_history":
 		[
+			"Sublime",
+			"sublime",
+			"tutor[^i]",
+			"tutor ",
+			"Tutorial",
+			"Tutor",
+			"tutor",
+			"Tutor",
+			"sublime",
 			"resources",
 			"^",
 			"phone",
@@ -781,23 +733,16 @@
 			"short",
 			"booking: true",
 			"options[:booking]",
-			"wallet_transaction",
-			"ams_serialize_data",
-			"serializer",
-			"FreeBooking.create",
-			"free_bookings_remaining",
-			"free_bookings_credited",
-			"free_bookings",
-			"search_routes",
-			"free_bookings",
-			"@para"
+			"wallet_transaction"
 		],
 		"highlight": true,
 		"in_selection": false,
 		"preserve_case": false,
-		"regex": false,
+		"regex": true,
 		"replace_history":
 		[
+			"Tutor",
+			"Sublime",
 			"Goto Anything",
 			"recipient",
 			"TrevoUtilities",
@@ -832,208 +777,8 @@
 	"groups":
 	[
 		{
-			"selected": 6,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "contents.md",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2124,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1330,
-								1330
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 630.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "chapter_4_3.md",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1270,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1033,
-								1033
-							]
-						],
-						"settings":
-						{
-							"open_with_edit": true,
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "chapter_4.md",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 720,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								719,
-								719
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 6,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "chapter_4_1.md",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 514,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								513,
-								513
-							]
-						],
-						"settings":
-						{
-							"open_with_edit": true,
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 5,
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "chapter_4_2.md",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 517,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								474,
-								474
-							]
-						],
-						"settings":
-						{
-							"open_with_edit": true,
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "code/chapter_1.rb",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1424,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								152,
-								152
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Ruby/Ruby.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 38.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 4,
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "README.md",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2386,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								2357
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		}
 	],
@@ -1089,6 +834,14 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"c1rb",
+				"code/chapter_1.rb"
+			],
+			[
+				"1",
+				"chapter_1.md"
+			],
 			[
 				"readme",
 				"README.md"
@@ -1592,14 +1345,6 @@
 			[
 				"locationscont",
 				"app/controllers/api/v1/locations_controller.rb"
-			],
-			[
-				"actiontaken",
-				"db/migrate/20151001082619_add_action_taken_to_feedbacks.rb"
-			],
-			[
-				"feedback",
-				"app/admin/feedback.rb"
 			]
 		],
 		"width": 0.0
