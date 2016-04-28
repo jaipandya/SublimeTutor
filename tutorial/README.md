@@ -6,7 +6,11 @@ interface beautifully hides all the complexity behind. You can start using the
 editor without knowing any details, which is great for beginners.
 
 When I started using Sublime Text, I was a migrant from the world of TextMate
-and Vim. While a lot of keyboard shortcuts and features were similar to TextMate, some looked alien as well. Earlier, when I was learning Vim, I had found vimtutor to be of great help. In my early days with Sublime, I was looking for a similar solution which could interactively teach new shortcuts inside the editor itself.
+and Vim. While a lot of keyboard shortcuts and features were similar to
+TextMate, some looked alien as well. Earlier, when I was learning Vim, I had
+found vimtutor to be of great help. In my early days with Sublime, I was
+looking for a similar solution which could interactively teach new shortcuts 
+inside the editor itself.
 
 This tutorial is inspired from classic vimtutor. You will get to learn
 some handy shortcuts to work with Sublime Text 3. By the end of this tutorial,
@@ -28,17 +32,18 @@ Requirements
 Installation
 -------------
 
-Via [Package Control](https://Sublime.wbond.net/)!:
+Via [Package Control](https://Sublime.wbond.net/):
 
 Press `⌘ + ⇧ + P` to bring Package Control search dialog in front and search
 for `Sublime Tutor`
 
 Manual Installation:
 
-1. `cd` into the `Packages` directory of Sublime Text 3. On Mac, it usually 
+1. Make sure you have [git](^git) is already installed.
+2. `cd` into the `Packages` directory of Sublime Text 3. On Mac, it usually 
    resides at the following path: `~/Library/Application Support/Sublime Text 3
    /Packages/`
-2. Once you are inside Packages directory, clone this repository:
+3. Once you are inside Packages directory, clone this repository:
    `git clone git@bitbucket.org:jai/sublimetutor.git`
 4. Restart Sublime Text
 
@@ -73,7 +78,8 @@ folder on Mac, and that you have ~/bin directory in your `PATH`, you can run:
 
     $ ln -s "/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl" /usr/local/bin/Sublime
 
-Now you can use `sublime` command in your terminal to open Sublime Text 3. If you put a `.` after the command, it will open the current directory in Sublime.
+Now you can use `sublime` command in your terminal to open Sublime Text 3. If 
+you put a `.` after the command, it will open the current directory in Sublime.
 
     $ sublime
 
@@ -96,5 +102,3 @@ Tip:
 If you want to see contents of this tutorial, you can open contents.md anytime.
 
 [^git]: Git is a version control system - https://git-scm.com/
-
-[^resources]: Unofficial Sublime Text Guide is an excellent resource - http://docs.Sublimetext.info/en/latest/basic_concepts.html
