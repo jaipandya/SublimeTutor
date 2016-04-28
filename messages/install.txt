@@ -1,6 +1,3 @@
-Sublime Tutor
-==============
-
 I always believed that the best way to learn anything is by doing it. On the 
 path of learning Sublime, I realized that this being an editor, there is a
 possibility of a tutor which could teach all the features inside Sublime itself
