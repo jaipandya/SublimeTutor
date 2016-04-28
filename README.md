@@ -87,16 +87,6 @@ or
     
     $ sublime .
 
-Navigate to the first chapter
-------------------------------
-
-The first feature you'll learn is 'Go to anywhere' shortcut. Use `⌘ + T` and 
-then type `1`, this would give you a list of files matched. Select
-the first option (`1.md`) using `↓` (down) arrow key followed by `⏎` (return).
-
-When you press `↓` arrow key, Sublime show you a preview of the contents of the
-file. You can exit it anytime by pressing `⎋` (escape) key on you keyboard.
-
 Tip:
 
 If you want to see contents of this tutorial, you can open contents.md anytime.
