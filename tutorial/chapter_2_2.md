@@ -31,3 +31,21 @@ end of the word that needs to be deleted and use `⌘ + ⌫` shortcut to remove 
 ```
 There are a some words fun that don't belong paper in this sentence.
 ```
+
+Revision
+---------
+
+You studied couple of shortcuts to insert a line before and after. Place your cursor on the line with `<==` below. Use the shortcut to add line before and then add a line after.
+
+```
+This line should have a line's gap with the second line
+The line where you need to place your cursor <==
+This line should have a line's gap with the previous line
+```
+
+Goto Anywhere - ⌘ + T
+Goto Anything - ⌘ + P
+Goto Symbol - ⌘ + R
+Goto Line number - ^ + G
+
+Goto next chapter now.

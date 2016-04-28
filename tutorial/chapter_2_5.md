@@ -21,3 +21,12 @@ words, select some area, then again delete some words. Once you are done with
 that, use soft undo with `⌘ + U` shortcut to delete all this. Then try redoing
 it with `⌘ + ⇧ + U` and then undo that action again and come in the original
 position.
+
+Revision
+---------
+
+Delete to beginning of the line - ⌘ (`command`) + ⌫ (`delete`)
+Delete to end of the line - ^ (`control`) + K
+Delete word back - ⌘ + ⌫
+Delete a line - ^ (`control`) + ⇧ (`shift`) + K
+Cut a line - ⌘ (`command`) + X

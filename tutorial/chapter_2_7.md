@@ -9,7 +9,8 @@ Exercise
 ---------
 
 You can notice pairs of lines below. Join the pair of lines into one to form 
-one long sentence. Put the cursor anywhere on the first line and press ⌘ (`command`) + J
+one long sentence. Put the cursor anywhere on the first line and press
+⌘ (`command`) + J
 
 ```
 This is a candidate for joining with
@@ -21,3 +22,9 @@ two lines.
 Join this line with
 this line to form a longer line.
 ```
+
+Revision
+---------
+
+Use soft undo and redo commands to trace all the steps back and forward in this
+exercise.

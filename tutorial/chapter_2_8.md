@@ -33,3 +33,21 @@ Let's do the same exercise again using these shortcuts now.
 3. This is line number three
 
 ```
+
+Revision
+---------
+
+Toggle the case of all the words given below. If the existing case is lower
+then make it upper, if the existing case is upper, then make it lower.
+
+```
+TOGGLE
+case
+OF
+all
+the
+WORDS
+of
+this
+BLOCK
+```
