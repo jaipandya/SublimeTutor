@@ -53,7 +53,7 @@ just 6 items. To do this, use `⌘ + X` to cut a line, `⌥ + ⏎` to enter a ne
 Revision
 ---------
 
-Delete to beginning of the line - ⌘ (`command`) + ⌫ (`delete`)
-Delete to end of the line - ^ (`control`) + K
-Delete word back - ⌘ + ⌫
-Delete word forward - ⌘ + fn + ⌫
+* Delete to beginning of the line - ⌘ (`command`) + ⌫ (`delete`)
+* Delete to end of the line - ^ (`control`) + K
+* Delete word back - ⌘ + ⌫
+* Delete word forward - ⌘ + fn + ⌫

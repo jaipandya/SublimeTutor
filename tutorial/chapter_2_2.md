@@ -43,9 +43,9 @@ The line where you need to place your cursor <==
 This line should have a line's gap with the previous line
 ```
 
-Goto Anywhere - ⌘ + T
-Goto Anything - ⌘ + P
-Goto Symbol - ⌘ + R
-Goto Line number - ^ + G
+* Goto Anywhere - ⌘ + T
+* Goto Anything - ⌘ + P
+* Goto Symbol - ⌘ + R
+* Goto Line number - ^ + G
 
 Goto next chapter now.

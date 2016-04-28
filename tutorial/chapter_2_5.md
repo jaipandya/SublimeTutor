@@ -25,8 +25,8 @@ position.
 Revision
 ---------
 
-Delete to beginning of the line - ⌘ (`command`) + ⌫ (`delete`)
-Delete to end of the line - ^ (`control`) + K
-Delete word back - ⌘ + ⌫
-Delete a line - ^ (`control`) + ⇧ (`shift`) + K
-Cut a line - ⌘ (`command`) + X
+* Delete to beginning of the line - ⌘ (`command`) + ⌫ (`delete`)
+* Delete to end of the line - ^ (`control`) + K
+* Delete word back - ⌘ + ⌫
+* Delete a line - ^ (`control`) + ⇧ (`shift`) + K
+* Cut a line - ⌘ (`command`) + X

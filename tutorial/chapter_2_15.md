@@ -26,24 +26,24 @@ place your cursor between the letters `e` and `s` and use the shortcut `^ + T`
 Shortcuts you learned in this module
 -------------------------------------
 
-Insert line before - ⌘ (`command`) + ⇧ (shift) + ⏎ (enter/return)
-Insert line after - ⌘ + ⏎
-Delete to beginning of the line - ⌘ (`command`) + ⌫ (`delete`)
-Delete to end of the line - ^ (`control`) + K
-Delete a line - ^ (`control`) + ⇧ (`shift`) + K
-Cut a line - ⌘ (`command`) + X
-Soft undo - ⌘ (`command`) + U
-Soft redo - ⌘ + ⇧ (`shift`) + U
-Lower case - ⌘ (`command`) + K, ⌘ + L
-Upper case - ⌘ + K, ⌘ + U
-Join two lines - ⌘ (`command`) + J
-Bubble the line up - ^ (`control`) + ⌘ (`commadn`) + up
-Bubble the line down - ^ + ⌘ + down
-Sort lines - F5
-Duplicate a line - ⌘ (`command`) + ⇧ (`shift`) + D
-Indent - ⌘ (`command`) + ]
-Unindent - ⌘ (`command`) + [
-Toggle comments - ⌘ (`command`) + /
-Close an HTML tag - ⌘ (`commadn`) + ⌥ (`option`) + .
-Wrap lines at ruler position - ⌘ (`command`) + ⌥ (`option`) + Q
-Transpose - ^ (`control`) + T
+* Insert line before - ⌘ (`command`) + ⇧ (shift) + ⏎ (enter/return)
+* Insert line after - ⌘ + ⏎
+* Delete to beginning of the line - ⌘ (`command`) + ⌫ (`delete`)
+* Delete to end of the line - ^ (`control`) + K
+* Delete a line - ^ (`control`) + ⇧ (`shift`) + K
+* Cut a line - ⌘ (`command`) + X
+* Soft undo - ⌘ (`command`) + U
+* Soft redo - ⌘ + ⇧ (`shift`) + U
+* Lower case - ⌘ (`command`) + K, ⌘ + L
+* Upper case - ⌘ + K, ⌘ + U
+* Join two lines - ⌘ (`command`) + J
+* Bubble the line up - ^ (`control`) + ⌘ (`commadn`) + up
+* Bubble the line down - ^ + ⌘ + down
+* Sort lines - F5
+* Duplicate a line - ⌘ (`command`) + ⇧ (`shift`) + D
+* Indent - ⌘ (`command`) + ]
+* Unindent - ⌘ (`command`) + [
+* Toggle comments - ⌘ (`command`) + /
+* Close an HTML tag - ⌘ (`commadn`) + ⌥ (`option`) + .
+* Wrap lines at ruler position - ⌘ (`command`) + ⌥ (`option`) + Q
+* Transpose - ^ (`control`) + T

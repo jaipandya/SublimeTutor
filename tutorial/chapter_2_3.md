@@ -31,7 +31,7 @@ chapter. (select all, copy and paste have usual system level shortcuts)
 Revision
 ---------
 
-Delete word back - ⌘ + ⌫
-Delete word forward - ⌘ + fn + ⌫
-Insert line after - ⌘ + ⏎
-Insert line before - ⌘ + ⇧ + ⏎
+* Delete word back - ⌘ + ⌫
+* Delete word forward - ⌘ + fn + ⌫
+* Insert line after - ⌘ + ⏎
+* Insert line before - ⌘ + ⇧ + ⏎
