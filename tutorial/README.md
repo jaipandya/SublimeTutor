@@ -39,7 +39,7 @@ for `Sublime Tutor`
 
 Manual Installation:
 
-1. Make sure you have [git](^git) is already installed.
+1. Make sure you have [git][1] already installed.
 2. `cd` into the `Packages` directory of Sublime Text 3. On Mac, it usually 
    resides at the following path: `~/Library/Application Support/Sublime Text 3
    /Packages/`
@@ -101,4 +101,4 @@ Tip:
 
 If you want to see contents of this tutorial, you can open contents.md anytime.
 
-[^git]: Git is a version control system - https://git-scm.com/
+[1]: https://git-scm.com/ "Git is a version control system"
