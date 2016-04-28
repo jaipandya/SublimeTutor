@@ -6,7 +6,7 @@ Delete word back / forward
 If the cursor is in the middle of a word, it deletes the word from the cursor position to the beginning of this word. If the cursor is placed at the word beginning or whitespace, then it deletes the previous word.
 
 
-# Delete the word forward - fn + ⌥ + ⌫
+## Delete the word forward - fn + ⌥ + ⌫
 
 If the cursor is in the middle of a word, it deletes the word from the cursor position to the end of this word. If the cursor is placed at the word end or whitespace, then it deletes the next word.
 
