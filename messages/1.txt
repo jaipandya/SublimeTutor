@@ -1,0 +1,2 @@
+This is a beta release of Sublime Tutor. It is not tested on Linux and Windows, so it could potentially have issues on both the platforms. If you find any problems or you have a feedback, please send it to hello@jai.im.
+
