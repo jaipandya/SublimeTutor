@@ -1,6 +1,21 @@
 Sublime Tutor
 ==============
 
+    
+         _______. __    __  .______    __       __  .___  ___.  _______    
+        /       ||  |  |  | |   _  \  |  |     |  | |   \/   | |   ____|   
+       |   (----`|  |  |  | |  |_)  | |  |     |  | |  \  /  | |  |__      
+        \   \    |  |  |  | |   _  <  |  |     |  | |  |\/|  | |   __|     
+    .----)   |   |  `--'  | |  |_)  | |  `----.|  | |  |  |  | |  |____    
+    |_______/   .___________.________ |.___________.|________|.________|   
+                |           |  |  |  | |           |/  __  \  |   _  \     
+                `---|  |----|  |  |  | `---|  |----|  |  |  | |  |_)  |    
+                    |  |    |  |  |  |     |  |    |  |  |  | |      /     
+                    |  |    |  `--'  |     |  |    |  `--'  | |  |\  \----.
+                    |__|     \______/      |__|     \______/  | _| `._____|
+                                                         FOR SUBLIME TEXT 3
+
+
 Sublime Text 3 is a powerful and easy to use text editor. An ultra simple user
 interface beautifully hides all the complexity behind. You can start using the
 editor without knowing any details, which is great for beginners.

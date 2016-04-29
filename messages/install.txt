@@ -1,3 +1,16 @@
+     _______. __    __  .______    __       __  .___  ___.  _______    
+    /       ||  |  |  | |   _  \  |  |     |  | |   \/   | |   ____|   
+   |   (----`|  |  |  | |  |_)  | |  |     |  | |  \  /  | |  |__      
+    \   \    |  |  |  | |   _  <  |  |     |  | |  |\/|  | |   __|     
+.----)   |   |  `--'  | |  |_)  | |  `----.|  | |  |  |  | |  |____    
+|_______/   .___________.________ |.___________.|________|.________|   
+            |           |  |  |  | |           |/  __  \  |   _  \     
+            `---|  |----|  |  |  | `---|  |----|  |  |  | |  |_)  |    
+                |  |    |  |  |  |     |  |    |  |  |  | |      /     
+                |  |    |  `--'  |     |  |    |  `--'  | |  |\  \----.
+                |__|     \______/      |__|     \______/  | _| `._____|
+
+
 I always believed that the best way to learn anything is by doing it. On the 
 path of learning Sublime, I realized that this being an editor, there is a
 possibility of a tutor which could teach all the features inside Sublime itself
