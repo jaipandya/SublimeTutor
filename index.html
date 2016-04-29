@@ -1,0 +1,240 @@
+<!DOCTYPE html>
+<!--[if IE 8 ]><html class="ie" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US"> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!--><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US"><!--<![endif]-->
+<head>
+	<meta charset="utf-8">
+
+	<title>Sublime Tutor - An interactive in-editor keyboard shortcuts tutorial for Sublime Text 3</title>
+
+	<!-- Behavioral Meta Data -->
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+
+	<!-- Core Meta Data -->
+	<meta name="description" content="This tutorial is inspired from classic vimtutor. You will get to learn some handy shortcuts to work with Sublime Text 3. By the end of this tutorial, you would be familiar with ST's most important and frequently used shortcuts and features.">
+	<meta name="keywords" content="sublime tutor, tutorial, sublime text 3, sublime text, shortcuts, learn, skills, computer programming">
+
+	<!-- Favicon -->
+	<link rel="shortcut icon" href="favicon.png" type="image/png">
+	
+	<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+	<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+	<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+	<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+	<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+	<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+	<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+	<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+	<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+	<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+	<link rel="manifest" href="/manifest.json">
+	<meta name="msapplication-TileColor" content="#ffffff">
+	<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+	<meta name="theme-color" content="#ffffff">
+
+	<!--[if lt IE 9]>
+		<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+
+	<!-- Fonts -->
+	<link href='https://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet' type='text/css'>
+	<link href='https://fonts.googleapis.com/css?family=Cardo' rel='stylesheet' type='text/css'>
+
+	<!-- Styles -->
+	<link rel="stylesheet" type="text/css" href="css/loader.css"/>
+	<link rel="stylesheet" type="text/css" href="css/framework.css"/>
+	<link rel="stylesheet" type="text/css" href="css/style.css"/>
+
+	<!--[if lt IE 9]>
+		<link rel="stylesheet" type="text/css" href="css/ie.css" />
+	<![endif]-->
+
+	<!-- Javascript -->
+	<script src="js/modernizr.js"></script>
+	<script src="js/jquery.js"></script>
+</head>
+<body>
+	<section id="hero" class="dark">
+		<ul id="scene" class="scene"
+			data-friction-x="0.1"
+			data-friction-y="0.1"
+			data-scalar-x="25"
+			data-scalar-y="15"
+			>
+
+			<li class="layer" data-depth="1.00">
+				<div class="depth-5"><p>console</p></div>
+			</li>
+			<li class="layer" data-depth="0.80">
+				<div class="depth-4"><p>find in project</p></div>
+			</li>
+			<li class="layer" data-depth="0.60">
+				<div class="depth-3 flake1"><p>goto definition</p></div>
+				<div class="depth-3 flake2"><p>goto matching bracket</p></div>
+				<div class="depth-3 flake3"><p>code fold / unfold</p></div>
+				<div class="depth-3 flake4"><p>move in history</p></div>
+			</li>
+			<li class="layer" data-depth="0.50">
+				<div class="depth-2 flake1"><p>multiple selection</p></div>
+				<div class="depth-2 flake2"><p>column selection</p></div>
+			</li>
+			<li class="layer" data-depth="0.40">
+				<div class="depth-1 flake1"><p>goto anywhere</p></div>
+				<div class="depth-1 flake2"><p>upper / lower Case</p></div>
+				<div class="depth-1 flake3"><p>duplicate a line</p></div>
+				<div class="depth-1 flake4"><p>bubble a line up and down</p></div>
+			</li>
+			<li class="layer" data-depth="0.30" data-0="opacity: 1;" data-top-bottom="opacity: 0;">
+				<div class="hero-content">
+					<h1><img class="has-retina" src="images/logo.png" alt="Sublime Tutor"> Sublime Tutor</h1>
+					<p class="sub-title">An interactive in-editor keyboard shortcuts <br> tutorial for Sublime Text 3</p>
+					<a class="btn btn-2 btn-2b" href="https://github.com/jaipandya/SublimeTutor"> Download </a>
+					<img class="hero-image-bg"src="images/sublimetutor.png">
+				</div>
+				<div>
+
+				</div>
+			</li>
+
+		</ul>
+		<a id="action" href="#intro" data-depth="0.30" data-0="opacity: 1;" data-top-bottom="opacity: 0;"></a>
+	</section>
+
+	<section id="intro" class="container center padded">
+
+		<!-- Intro -->
+		<div class="row">
+			<div class="col-xs-12 col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
+				<h3>What is inside?</h3>
+				<span class="line"></span>
+				<h2>6 Modules, 39 Chapters, 70 Features and Shortcuts Covered</h2>
+				<p>We believe in the concept of learning by doing. Sublime Tutor takes you methodically from the most
+				basic commands to very advanced ones. All of this happens inside the editor itself.</p>
+			</div>
+		</div>
+
+	</section>
+
+	<section class="container padded-bottom center-mobile relative list">
+
+		<!-- Blocks -->
+		<div class="row">
+			<div class="block col-xs-12 col-sm-5">
+				<i class="icon icon-basic-eye"></i>
+				<h3>Learning By Doing</h3>
+				<p>Number of interesting exercises keep you entertained throughout the course. The shortcuts taught can be instantly tried out. Spaced repetition ensures that you remember them.</p>
+			</div>
+			<div class="block col-xs-12 col-sm-5 col-sm-offset-2">
+				<i class="icon icon-basic-webpage-img-txt"></i>
+				<h3>No Context Switching</h3>
+				<p>Unlike a web based course, you don't need to switch tabs which breaks your focus. Feel like home in Sublime Text's interface and learn new commands.</p>
+			</div>
+		</div>
+
+		<span class="separator"></span>
+
+	</section>
+
+	<section class="full padded-top center dark" style="background-image: url(images/dark-image.jpg);">
+		<div class="container">
+
+			<!-- Intro -->
+			<div class="row">
+				<div class="col-xs-12 col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
+					<h3>Screenshots</h3>
+					<span class="line"></span>
+					<h2>Changing the world one screen at a time</h2>
+					<p>Post installation, the tutor can be accessed through the menu item or via a handy shortcut. The whole package is full of interesting exercises involving Sublime shortcuts.</p>
+				</div>
+			</div>
+
+			<!-- Folio pt.1 -->
+			<div class="row">
+				<div class="col-xs-12 padded">
+					<ul class="shots-list">
+						<li class="col-xs-4"><a class ="lightbox" href="images/screenshots/sublimetutor1.png" title="Goto symbol, Goto line number chapter"><img src="images/screenshots/sublimetutor1.png" alt="thumbnail"></a></li>
+						<li class="col-xs-4"><a class ="lightbox" href="images/screenshots/sublimetutor2.png" title="Menu access"><img src="images/screenshots/sublimetutor2.png" alt="thumbnail"></a></li>
+						<li class="col-xs-4"><a class ="lightbox" href="images/screenshots/sublimetutor3.png" title="Multiple cursors and multiple selection"><img src="images/screenshots/sublimetutor3.png" alt="thumbnail"></a></li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</section>
+
+	<section class="full padded center">
+		<div class="container">
+
+			<!-- Folio pt.2 -->
+			<div class="row">
+				<div class="col-xs-12 padded-bottom">
+					<ul class="shots-list">
+						<li class="col-xs-4"><a class ="lightbox" href="images/screenshots/sublimetutor4.png" title="Expand selection to scope"><img src="images/screenshots/sublimetutor4.png" alt="thumbnail"></a></li>
+						<li class="col-xs-4"><a class ="lightbox" href="images/screenshots/sublimetutor5.png" title="Jump back and forward in the history"><img src="images/screenshots/sublimetutor5.png" alt="thumbnail"></a></li>
+						<li class="col-xs-4"><a class ="lightbox" href="images/screenshots/sublimetutor6.png" title="Find in project"><img src="images/screenshots/sublimetutor6.png" alt="thumbnail"></a></li>
+					</ul>
+				</div>
+			</div>
+
+			<!-- Quote -->
+			<div class="row">
+				<div class="col-xs-12 col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
+					<span class="large-accent">“</span>
+					<h2>4 hours of Sublime Tutor will get you 1000 saved hours of your actual development time.</h2>
+					<span class="line no-accent"></span>
+					<h3>Vishu Singh</h3>
+					<h4>Design Lead at PepperTap, Gurgaon</h4>
+					<a class="btn btn-2 btn-2b" href="https://github.com/jaipandya/SublimeTutor"> Try Sublime Tutor </a>
+				</div>
+			</div>
+		</div>
+	</section>
+
+	<section class="container padded center">
+		<!-- Subscribe -->
+		<div class="row">
+			<div class="col-xs-12 col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
+				<h3>Sublime Text Tips</h3>
+				<p>Get Sublime Text tips delivered in your mailbox</p>
+			</div>
+		</div>
+		<!-- Footer -->
+		<div class="row padded-bottom">
+			<div class="col-xs-12 col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
+				<form
+					id="subscribe-form"
+					action="" 
+					method="get">
+					<input type="email" name="EMAIL" onfocus="if(this.value == 'Enter E-mail Address') { this.value = ''; }" onblur="if(this.value == '') { this.value = 'Enter E-mail Address'; }" value="Enter E-mail Address" class="text">
+					<input type="submit" value="Subscribe" name="subscribe" class="submit" id="subscribe">
+
+					<div id="subscribe-result"></div>
+				</form>
+				<ul class="social-list padded">
+					<li><a href="#">Twitter</a></li>
+					<li><a href="#">Facebook</a></li>
+					<li><a href="#">Github</a></li>
+				</ul>
+				<p class="copyright">© 2016 <a href="http://jai.im">Jai Pandya</a>. All rights reserved.<br>Made with love from <a href="http://mutabl.es">Mutables</a>.<br> Disclaimer: SublimeTutor is in noway affiliate with <a href="https://www.sublimetext.com">Sublime Text</a>.</p>
+			</div>
+		</div>
+	</section>
+
+	<!-- Begin Pageloader -->
+	<div id="pageloader">
+		<!-- Content -->
+		<div class="pageloader-content">
+			<h4>Loading...</h4>
+			<span class="progress"></span>
+		</div><!-- END Content -->
+	</div><!-- END Pageloader -->
+
+	<!-- Javascript -->
+	<script src="js/loader.js"></script>
+	<script src="js/parallax-2.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/ScrollMagic/2.0.5/ScrollMagic.min.js"></script>
+	<script src="js/plugins.js"></script>
+	<script src="js/main.js"></script>
+</body>
+</html>
