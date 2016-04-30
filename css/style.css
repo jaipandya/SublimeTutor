@@ -333,6 +333,8 @@ p { margin: 10px 0; }
 #hero.dark #action {
 	background: url(../images/arrow@2x-dark.png) no-repeat center bottom;
 	background-size: 30px 30px;
+	position: fixed;
+	bottom: 50px;
 }
 
 #action:hover { opacity: 1; }
