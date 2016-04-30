@@ -14,6 +14,7 @@ Sublime Tutor
                     |__|     \______/      |__|     \______/  | _| `._____|
                                                          FOR SUBLIME TEXT 3         
 
+![Sublime Tutor Screenshot](https://raw.githubusercontent.com/jaipandya/SublimeTutor/gh-pages/images/screenshots/sublimetutor1.jpg)
 
 Sublime Text 3 is a powerful and easy to use text editor. An ultra simple user
 interface beautifully hides all the complexity behind. You can start using the
