@@ -292,8 +292,18 @@ p { margin: 10px 0; }
 }
 
 /* Button 2b */
-.btn-2b {
+.btn-2 {
 	border-radius: 0 0 5px 5px;
+}
+
+.btn-2:active {
+    box-shadow: 0 0 #00D9EC;
+    top: 6px;
+}
+
+.btn-2:hover {
+    box-shadow: 0 8px #00D9EC;
+    top: -2px;
 }
 
 
