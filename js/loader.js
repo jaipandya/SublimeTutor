@@ -1,3 +1,9 @@
+$(function() {
+    $("img.lazy").lazyload({
+    threshold : 400
+});
+});
+
 /* =HTML Positioning
 -------------------------------------------------------------- */
 $("html").addClass('html-onload');
