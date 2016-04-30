@@ -23,7 +23,7 @@ Contents
 14. Wrap line at ruler - `⌥ + ⌘ + Q`
 15. Transpose - `^ + T`
 
-3. Selection`
+3. Selection
 -------------
 
 1.  Multiple selection
