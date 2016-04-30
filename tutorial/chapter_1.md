@@ -1,9 +1,12 @@
 Goto Anything (`⌘ + P`)
 =======================
 
-Probably the most frequently used command in Sublime Text. While a project is
-open, you can use this command to move from one file to another, search
-symbols defined in a file, go to a specific line number.
+Give yourself a pat on the back. You have already used your first Sublime
+Text Shortcut. Let's learn about a similar command `Goto Anything` now.
+
+This is Probably the most frequently used command in Sublime Text. While a
+project is open, you can use this command to move from one file to another,
+search symbols defined in a file, go to a specific line number.
 
 Note: It is similar to `Goto Anywhere` command that you used to reach this
 chapter, but there are differences which will be highlighted in later chapters.

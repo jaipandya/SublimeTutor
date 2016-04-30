@@ -67,6 +67,7 @@ Symbols Used in this guide
 ---------------------------
 
     ⌘ – the Command Key symbol
+    ^ - the Control Key symbol
     ⌥ – the Option Key symbol
     ⇧ – the Shift Key symbol
     ⎋ – the ESC Key symbol

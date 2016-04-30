@@ -33,9 +33,9 @@ end
 #
 # 1. ^ (`control`) + G gives you a goto line number palette
 # 2. Type the number `23` and press ⏎ (`enter`) to reach this line
-# 3. Now change the statement to reflect the correct method name
+# 3. Now change the quoted word to `bar_1`
 # 4. Type the number `27` and press ⏎ (`enter`) to reach this line
-# 5. Now change the statement to reflect the correct method name
+# 5. Now change the quoted word to `bar_2`
 
 # Move to next chapter
 # ---------------------

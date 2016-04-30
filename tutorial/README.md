@@ -35,38 +35,11 @@ and features.
 The tutorial uses spaced repetition technique to make sure that your newly 
 acquired skills are well persisted.
 
-Requirements
--------------
-
-1. You have Sublime Text 3 installed on your system. If not, you can download
-   it from here: https://www.sublimetext.com/3
-2. You are a Mac user (Window / Linux users should also be okay with minimal 
-   changes, but for now the guide is only tested on Mac)
-3. Level - beginner / intermediate
-
-Installation
--------------
-
-Via [Package Control](https://Sublime.wbond.net/):
-
-Press `⌘ + ⇧ + P` to bring Package Control search dialog in front and search
-for `Sublime Tutor`
-
-Manual Installation:
-
-1. Make sure you have [git][1] already installed.
-2. `cd` into the `Packages` directory of Sublime Text 3. On Mac, it usually 
-   resides at the following path: `~/Library/Application Support/Sublime Text 3
-   /Packages/`
-3. Once you are inside Packages directory, clone this repository:
-   `git clone git@github.org:jai/sublimetutor.git`
-4. Restart Sublime Text
-
-
 Symbols Used in this guide
 ---------------------------
 
     ⌘ – the Command Key symbol
+    ^ - the Control Key symbol
     ⌥ – the Option Key symbol
     ⇧ – the Shift Key symbol
     ⎋ – the ESC Key symbol
@@ -77,14 +50,8 @@ Symbols Used in this guide
 Getting Started
 ----------------
 
-If you haven't already, install Sublime Tutor using the installation steps
-given above.
-
-Once Sublime Tutor is installed, press `^ + ⌥ + K` keyboard shortcut to open
-this file in Sublime Text. Another option is to go to `Help > Sublime 
-Tutor` menu option to open this.
-
-Now navigate to the first chapter as described below.
+You can use `^ + ⌥ + K` keyboard anytime shortcut to open sublime tutor.
+Another option is to go to `Help > Sublime Tutor` menu option to open this.
 
 Tip: Invoke Sublime Text 3 from OSX command line:
 
@@ -115,5 +82,3 @@ file. You can exit it anytime by pressing `⎋` (escape) key on you keyboard.
 Tip:
 
 If you want to see contents of this tutorial, you can open contents.md anytime.
-
-[1]: https://git-scm.com/ "Git is a version control system"
