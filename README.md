@@ -1,6 +1,8 @@
 Sublime Tutor
 ==============
 
+![Sublime Tutor Screenshot](https://raw.githubusercontent.com/jaipandya/SublimeTutor/gh-pages/images/screenshots/sublimetutor1.jpg)
+
          _______. __    __  .______    __       __  .___  ___.  _______    
         /       ||  |  |  | |   _  \  |  |     |  | |   \/   | |   ____|   
        |   (----`|  |  |  | |  |_)  | |  |     |  | |  \  /  | |  |__      
@@ -13,8 +15,6 @@ Sublime Tutor
                     |  |    |  `--'  |     |  |    |  `--'  | |  |\  \----.
                     |__|     \______/      |__|     \______/  | _| `._____|
                                                          FOR SUBLIME TEXT 3         
-
-![Sublime Tutor Screenshot](https://raw.githubusercontent.com/jaipandya/SublimeTutor/gh-pages/images/screenshots/sublimetutor1.jpg)
 
 Sublime Text 3 is a powerful and easy to use text editor. An ultra simple user
 interface beautifully hides all the complexity behind. You can start using the
@@ -84,27 +84,5 @@ given above.
 Once Sublime Tutor is installed, press `^ + ⌥ + K` keyboard shortcut to open
 this file in Sublime Text. Another option is to go to `Help > Sublime 
 Tutor` menu option to open this.
-
-Now navigate to the first chapter as described below.
-
-Tip: Invoke Sublime Text 3 from OSX command line:
-
-Make a symlink to `subl`. Assuming you've placed Sublime Text in `Applications`
-folder on Mac, and that you have ~/bin directory in your `PATH`, you can run:
-
-    $ ln -s "/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl" /usr/local/bin/Sublime
-
-Now you can use `sublime` command in your terminal to open Sublime Text 3. If 
-you put a `.` after the command, it will open the current directory in Sublime.
-
-    $ sublime
-
-or
-    
-    $ sublime .
-
-Tip:
-
-If you want to see contents of this tutorial, you can open contents.md anytime.
 
 [1]: https://git-scm.com/ "Git is a version control system"
