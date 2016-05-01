@@ -1,51 +1,60 @@
-Delete word back / forward
-===========================
+Copy and pasting with a twist
+==============================
 
-## Delete the word backward - ⌥ (`option`) + ⌫ (`delete`)
+## Copy
 
-If the cursor is in the middle of a word, it deletes the word from the cursor position to the beginning of this word. If the cursor is placed at the word beginning or whitespace, then it deletes the previous word.
+1. Selection
 
+Select an area, press `Ctrl + C` to copy its contents. It is now in your clip-
+board. You can use `Ctrl + P` to paste it anywhere. This is how copy and paste
+works system wide. Fair enough.
 
-## Delete the word forward - fn + ⌥ + ⌫
+2. Line
 
-If the cursor is in the middle of a word, it deletes the word from the cursor position to the end of this word. If the cursor is placed at the word end or whitespace, then it deletes the next word.
+What if you don't have anything selected? Pressing `Ctrl + C` now copies the
+line at which the cursor is currently positioned.
 
-Exercise 1
------------
+## Exercise
 
-The block given below has some words which are spelled incorrectly. Place your
-cursor inside those words so that you can use the two shortcuts you learned
-to correct those spellings.
-
-```
-tttThere areee some words iiiin this blblblock which are writtennnn 
-incorrectly. Correct tttthem using deleteee word back / forwardddd shortcutssss.
-```
-
-Exercise 2
------------
-
-The block below has some words that need to be deleted. Move your cursor to the
-end of the word that needs to be deleted and use `⌘ + ⌫` shortcut to remove that word.
+1. Let's put our learnings to some action. Copy first single quoted word in the
+block given below, then paste on line 31. Follow this process for all other 
+singly quoted words.
 
 ```
-There are a some words fun that don't belong paper in this sentence.
+In a 'split' second, '65-million' years ago, a huge, 'plummeting' asteroid
+wiped out the entire 'race' of 'dinosaurs'.
+
+So, save your work 'often'. It could 'happen' again.
 ```
 
-Revision
----------
+Paste the words here =>
 
-You studied couple of shortcuts to insert a line before and after. Place your cursor on the line with `<==` below. Use the shortcut to add line before and then add a line after.
+2. You copied all the words pretty well. Now, from the same block above, copy the second line and paste it below.
 
-```
-This line should have a line's gap with the second line
-The line where you need to place your cursor <==
-This line should have a line's gap with the previous line
-```
+Paste the line here => 
 
-* Goto Anywhere - ⌘ + T
-* Goto Anything - ⌘ + P
-* Goto Symbol - ⌘ + R
-* Goto Line number - ^ + G
+## Paste with a twist
 
-Goto next chapter now.
+What if I told you now, repeat the process you followed above and paste it
+below? Well, that would be some work. But there is a way to cut down some of 
+it.
+
+Sublime sports a feature that lets you access your clipboard history and paste
+stuff from there. Let's visit that corner.
+
+Press `Ctrl + K, Ctrl + V`, sublime will show you a list of contents that
+we earlier copied in the clipboard. Selecting any of them will paste it here.
+
+Now use this shortcut to paste all the stuff one by one below:
+
+Paste all the words here =>
+
+--------
+
+## Revision
+
+* Goto Anything - `Ctrl + P`
+* Goto Symbol - `Ctrl + R`
+* Goto Line number - `Ctrl + G`
+
+Good progress! Take some break and goto next chapter now.

@@ -3,14 +3,14 @@ Joining lines
 
 Sublime Text makes it conveniently easy for you two join two lines into one.
 
-Join two lines - ⌘ (`command`) + J
+Join two lines - `Ctrl + J`
 
 Exercise
 ---------
 
 You can notice pairs of lines below. Join the pair of lines into one to form 
 one long sentence. Put the cursor anywhere on the first line and press
-⌘ (`command`) + J
+`Ctrl + J`
 
 ```
 This is a candidate for joining with
@@ -23,8 +23,10 @@ Join this line with
 this line to form a longer line.
 ```
 
-Revision
----------
+Revision Exercise
+------------------
 
 Use soft undo and redo commands to trace all the steps back and forward in this
 exercise.
+
+Next - Chapter_2_8.md

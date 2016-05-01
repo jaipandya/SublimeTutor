@@ -3,13 +3,13 @@ Upper / lower case
 
 You can use two handy shortcuts to change the case any text block in Sublime.
 
-Lower case - ⌘ (`command`) + K, ⌘ + L
-Upper case - ⌘ + K, ⌘ + U
+Lower case - `Ctrl + K, Ctrl + L`
+Upper case - `Ctrl + K, Ctrl + U`
 
-That is, press `⌘ + K` directly followed by `⌘ + L` or `⌘ + U` to change the 
-case. In practice, you don't need to pull your finger from the `⌘ command` key
-while doing that. So, press `⌘` with `K` and then lift your finger from `K` 
-and press `U` to make an upper case transform.
+That is, press `Ctrl + K` directly followed by `Ctrl + L` or `Ctrl + U` to
+change the case. In practice, you don't need to pull your finger from the `Ctrl`
+key while doing that. So, press `Ctrl` with `K` and then lift your finger from
+`K` and press `U` to make an upper case transform.
 
 Exercise
 ---------
@@ -28,3 +28,8 @@ of
 this
 BLOCK
 ```
+
+Awesome! You just completed one more chapter. You are raging fast on the road
+to become a Sublime Text ninja.
+
+Next - Chapter_2_7.md

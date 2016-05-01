@@ -7,16 +7,16 @@ idea, how frequently you are going to use this shortcut.
 
 This is equivalent to `grep` command of the shell world.
 
-Shortcut - ⌘ (`command`) + ⇧ (`shift`) + F
+Shortcut - ^ (`control`) + ⇧ (`shift`) + F
 
 Let us search for some terms project wide and come back to this chapter then.
 
 Exercise
 ---------
 
-1. Press `⌘ + ⇧ + F` to open `Find in project` panel.
+1. Press `^ + ⇧ + F` to open `Find in project` panel.
 2. In the `Find` field type `class Foo` and press ⏎ (`enter/return`).
-   (Quick tip here: `⌘ + E` and `⌘ + ⇧ + E` for add select to find / replace
+   (Quick tip here: `^ + E` and `^ + ⇧ + E` for add select to find / replace
    shortcuts work here as well)
 3. You get a list of matched terms in a new tab. If found, the search term
    will be highlighted. Double clicking on a line with highlighted search term

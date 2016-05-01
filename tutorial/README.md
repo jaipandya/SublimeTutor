@@ -38,19 +38,17 @@ acquired skills are well persisted.
 Symbols Used in this guide
 ---------------------------
 
-    ⌘ – the Command Key symbol
-    ^ - the Control Key symbol
-    ⌥ – the Option Key symbol
-    ⇧ – the Shift Key symbol
-    ⎋ – the ESC Key symbol
-    ⇪ – the Capslock symbol
-    ⏎ – the Return symbol
-    ⌫ – the Delete / Backspace symbol
+    Ctrl - the Control Key
+    Alt – the Option Key
+    Shift – the Shift Key
+    Esc – the ESC Key
+    Return – the Return
+    Delete – the Delete / Backspace
 
 Getting Started
 ----------------
 
-You can use `^ + ⌥ + K` keyboard anytime shortcut to open sublime tutor.
+You can use `Ctrl + Alt + K` keyboard anytime shortcut to open sublime tutor.
 Another option is to go to `Help > Sublime Tutor` menu option to open this.
 
 Tip: Invoke Sublime Text 3 from OSX command line:
@@ -72,12 +70,12 @@ or
 Navigate to the first chapter
 ------------------------------
 
-The first feature you'll learn is 'Goto anything' shortcut. Use `⌘ + P` and 
+The first feature you'll learn is 'Goto anything' shortcut. Use `Ctrl + P` and 
 then type `1`, this would give you a list of files matched. Select
-the first option (`1.md`) using `↓` (down) arrow key followed by `⏎` (return).
+the first option (`1.md`) using `Down` arrow key followed by `Return`
 
-When you press `↓` arrow key, Sublime show you a preview of the contents of the
-file. You can exit it anytime by pressing `⎋` (escape) key on you keyboard.
+When you press `Down` arrow key, Sublime show you a preview of the contents of
+the file. You can exit it anytime by pressing `Esc` key on you keyboard.
 
 Tip:
 

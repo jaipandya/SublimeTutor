@@ -1,7 +1,7 @@
 Duplicating lines
 ==================
 
-Duplicate a line - ⌘ (`command`) + ⇧ (`shift`) + D
+Duplicate a line - `Ctrl + Shift + D`
 
 Put a cursor anywhere on a line and use this shortcut to create a duplicate
 copy of the line. If something is selected, then instead of the line, selection
@@ -28,3 +28,6 @@ block.
 5. The previous line lied it seems
 
 ```
+
+Next chapter will introduce you to how sublime can indent a block of text for
+you. Off to chapter_2_11.md

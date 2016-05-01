@@ -8,9 +8,9 @@ the two.
 
 Let's learn the shortcuts first:
 
-Incremental find - ⌘ (`command`) + I (pressing again would find next)
-Incremental find previous - ⌘ (`command`) + ⇧ (`shift`) + I
-Incremental find all - ⌥ (`option`) + ⏎ (`return`)
+Incremental find - ^ (`control`) + I (pressing again would find next)
+Incremental find previous - ^ (`control`) + ⇧ (`shift`) + I
+Incremental find all - ⌥ (`alt`) + ⏎ (`return`)
 
 These commands work exactly as `Find...` except for just one difference. When
 we find something using `incremental find`, pressing ⏎ (`return`) directly
@@ -23,14 +23,14 @@ following exercise.
 Exercise
 ---------
 
-1. Press `⌘ + I` to open the incremental find panel
+1. Press `^ + I` to open the incremental find panel
 2. Search for the term `phone` in this document
 3. Press ⏎ (`enter/return`) to exit the incremental find. If found, the search
    term will be preselected in the document.
-4. Press `⌘ + I` and type `phone` again.
-3. Cycle through all the occurrences using `⌘ + I`, press this multiple times
+4. Press `^ + I` and type `phone` again.
+3. Cycle through all the occurrences using `^ + I`, press this multiple times
    until you get comfortable with this command.
-4. Cycle in the opposite order using `⌘ + ⇧ + I`, press this multiple times
+4. Cycle in the opposite order using `^ + ⇧ + I`, press this multiple times
    until you get comfortable with this command.
 5. Now press `⌥ + ⏎` to find all the instances of `phone` and enter
    `multiple selection` mode described in earlier module.

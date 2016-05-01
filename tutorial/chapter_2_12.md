@@ -7,9 +7,9 @@ interpreter ignores them. Sublime Text provides a shortcut to mark lines as
 comments.
 
 For different programming languages comment construct could be different. e.g.
-for `html` it is `<!-- comment -->` while for JavaScript it is `//` or `/* */`
+for `HTML` it is `<!-- comment -->` while for JavaScript it is `//` or `/* */`
 
-Toggle comments - ⌘ (`command`) + /
+Toggle comments - `Ctrl + /`
 
 Exercise
 ---------
@@ -32,3 +32,17 @@ the toggle comments keyboard shortcut learned above to uncomment those lines.
   </div> -->
 </div>
 ```
+
+Sublime wraps / unwraps them in HTML comments because this particular file is
+a markdown file where HTML comments can be used. Depending upon the language
+used, or selected in the lower right corner, this functionality would change.
+
+Try changing the syntax from `Markdown` to `JavaScript` or `Ruby` by clicking
+clicking at he lower right corner of Sublime Text. Play with this command a
+bit then.
+
+While writing programs and code, this shortcut frequently comes in handy when
+you want to debug a section of the program. Comment out the lines of code that
+you suspect, run the program again, possibly some clue lies there.
+
+Let's move to next chapter - chapter_2_13.md

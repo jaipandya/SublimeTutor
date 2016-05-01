@@ -4,14 +4,14 @@ Insert line before / after
 You can directly add a line above or below your cursor position
 and move your cursor directly to that location.
 
-Insert line before - ⌘ (`command`) + ⇧ (shift) + ⏎ (enter/return)
-Insert line after - ⌘ + ⏎
+Insert line before - `Ctrl + Shift + Return`
+Insert line after - `Ctrl + Return`
 
 Exercise
 ---------
 
 1. Place your cursor anywhere on the line marked `<==` in the first block below
-2. Insert a line before and after using the shortcut `⌘ + ⇧ + ⏎` and `⌘ + ⏎`
+2. Insert a line before and after using the shortcut `^ + ⇧ + ⏎` and `^ + ⏎`
    consecutively
 3. Do the same thing with other blocks as well.
 3. Each block should now look as the block below:

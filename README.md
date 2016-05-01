@@ -40,8 +40,8 @@ Requirements
 
 1. You have Sublime Text 3 installed on your system. If not, you can download
    it from here: https://www.sublimetext.com/3
-2. You are a Mac user (Window / Linux users should also be okay with minimal 
-   changes, but for now the guide is only tested on Mac)
+2. The guide was well tested on a Mac, but with different version of Windows /
+   linux, there could be some issues.
 3. Level - beginner / intermediate
 
 Installation
@@ -49,7 +49,7 @@ Installation
 
 Via [Package Control](https://Sublime.wbond.net/):
 
-Press `⌘ + ⇧ + P` to bring Package Control search dialog in front and search
+Press `^ + ⇧ + P` to bring Package Control search dialog in front and search
 for `Sublime Tutor`
 
 Manual Installation:
@@ -66,9 +66,8 @@ Manual Installation:
 Symbols Used in this guide
 ---------------------------
 
-    ⌘ – the Command Key symbol
     ^ - the Control Key symbol
-    ⌥ – the Option Key symbol
+    ⌥ – the Alt / Option Key symbol
     ⇧ – the Shift Key symbol
     ⎋ – the ESC Key symbol
     ⇪ – the Capslock symbol

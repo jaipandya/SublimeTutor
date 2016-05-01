@@ -1,11 +1,11 @@
 Column Selection
 =================
 
-If you want to have multiple cursors in a column, then ⌘ (`command`) + click
+If you want to have multiple cursors in a column, then ^ (`control`) + click
 could become cumbersome pretty soon. For this, there is a more convenient
 method that Sublime Text provides.
 
-Column selection using mouse - ⌥ (`option`) + click and drag
+Column selection using mouse - ⌥ (`alt`) + click and drag
 Keyboard shortcut - ^ (`control`) + ⇧ (`)
 
 On the current version of Mac OSX, this keyboard shortcut is already bound to

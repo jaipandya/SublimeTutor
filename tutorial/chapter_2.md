@@ -9,8 +9,8 @@ interesting module!
 
 Let's move to the first unit.
 
-1. Press ⌘ (`Command`) + P (`Goto Anything` command)
-2. Type `c21` and press ⏎ (`enter`)
+1. Press ^ (`control`) + P (`Goto Anything` command)
+2. Type `c21` and press ⏎ (`return`)
 
 Pro tip: `Goto Anything` does fuzzy matching with the file names when you start
 typing. In the case above you could also type 21 or chap21 and the result would

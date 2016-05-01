@@ -6,8 +6,8 @@ had to cut the lines first and insert a new line above/below and then paste
 the line back. If all you wanted to do was to move the complete line above
 or below, you could use this handy shortcut that Sublime Text provides.
 
-Bubble the line up - ^ (`control`) + ⌘ (`commadn`) + up
-Bubble the line down - ^ + ⌘ + down
+Bubble the line up - `Ctrl + Shift + Up`
+Bubble the line down - `Ctrl + Shift + Down`
 
 Exercise
 ---------
@@ -15,7 +15,7 @@ Exercise
 Let's do the same exercise again using these shortcuts now.
 
 1. First sort the block given below using the newly learned shortcut
-   in this unit (^ + ⌘ + up, ^ + ⌘ + down)
+   in this unit (`Ctrl + Shift + Up`, `Ctrl + Shift + Down`)
 2. Now delete the lines using `delete line` shortcut you learned in unit 4 of 
    this module. Let's see if you still remember that or not?
 
@@ -34,8 +34,8 @@ Let's do the same exercise again using these shortcuts now.
 
 ```
 
-Revision
----------
+Revision Exercise
+------------------
 
 Toggle the case of all the words given below. If the existing case is lower
 then make it upper, if the existing case is upper, then make it lower.
@@ -51,3 +51,6 @@ of
 this
 BLOCK
 ```
+
+You are moving ahead with flying colors. Way to go. We have reached mid-way
+of this module. Take some time off, and then get back to chapter_2_9.md

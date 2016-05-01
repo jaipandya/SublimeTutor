@@ -6,12 +6,12 @@ location in forward or backward direction. What if you want to delete the whole
 line? This unit introduces you to a couple of shortcuts that you can use for
 the same purpose.
 
-Delete a line - ^ (`control`) + ⇧ (`shift`) + K
+Delete a line - `Ctrl + Shift + K`
 
-Cut a line - ⌘ (`command`) + X
-  If you put the cursor on any line and press `⌘ + X` then it would cut the
-  whole line and put it in the clipboard. You can later paste it using `⌘ + V`
-  as usual.
+Cut a line - `Ctrl + X`
+  If you put the cursor on any line and press `^ + X` then it would cut the
+  whole line and put it in the clipboard. You can later paste it using
+  `Ctrl + V` as usual.
 
 Exercise 1
 -----------
@@ -37,7 +37,10 @@ Exercise 2
 
 There are six unique lines written below, you need to sort them and make sure
 all their duplicates are deleted. So in the end the remaining list should have
-just 6 items. To do this, use `⌘ + X` to cut a line, `⌥ + ⏎` to enter a new line below a certain line, `⌘ + V` to paste that line back. Once they are sorted, delete the lines which are not required using `^ + ⇧ + K`.
+just 6 items. To do this, use `Ctrl + X` to cut a line, `Alt + Return` to enter
+a new line below a certain line, `Ctrl + V` to paste that line back. Once 
+they are sorted, delete the lines which are not required using
+`Ctrl + Shift + K`.
 
 
 6. This is line number six
@@ -53,7 +56,8 @@ just 6 items. To do this, use `⌘ + X` to cut a line, `⌥ + ⏎` to enter a ne
 Revision
 ---------
 
-* Delete to beginning of the line - ⌘ (`command`) + ⌫ (`delete`)
-* Delete to end of the line - ^ (`control`) + K
-* Delete word back - ⌘ + ⌫
-* Delete word forward - ⌘ + fn + ⌫
+* Delete to beginning of the line - `Ctrl + Shift + Backspace`
+* Delete to end of the line - `Ctrl + K`
+* Paste from history - `Ctrl + K, Ctrl + V`
+
+Move to next chapter now.

@@ -7,7 +7,7 @@ setting and its python console.
 Sublime Text Settings
 ======================
 
-Shortcut - ⌘ (`command`) + ,
+Shortcut - ^ (`control`) + ,
 
 This gives you Sublime Text User settings. It is a json file where you can
 override the default Sublime Text settings. `Preferences -> Settings - Default`
@@ -15,7 +15,7 @@ override the default Sublime Text settings. `Preferences -> Settings - Default`
 Exercise
 ---------
 
-Try this command by typing `⌘ + ,` and add the key value pair given below on
+Try this command by typing `^ + ,` and add the key value pair given below on
 on the top level:
 
 ```
