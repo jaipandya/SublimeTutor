@@ -49,7 +49,7 @@ Installation
 
 Via [Package Control](https://Sublime.wbond.net/):
 
-Press `⌘ + ⇧ + P` to bring Package Control search dialog in front and search
+Press `Cmd + Shift + P` to bring Package Control search dialog in front and search
 for `Sublime Tutor`
 
 Manual Installation:
@@ -66,14 +66,13 @@ Manual Installation:
 Symbols Used in this guide
 ---------------------------
 
-    ⌘ – the Command Key symbol
-    ^ - the Control Key symbol
-    ⌥ – the Option Key symbol
-    ⇧ – the Shift Key symbol
-    ⎋ – the ESC Key symbol
-    ⇪ – the Capslock symbol
-    ⏎ – the Return symbol
-    ⌫ – the Delete / Backspace symbol
+    Cmd – the Command Key symbol
+    Ctrl - the Control Key symbol
+    Option – the Option Key symbol
+    Shift – the Shift Key symbol
+    Esc – the ESC Key symbol
+    Return – the Return symbol
+    Delete – the Delete / Backspace symbol
 
 Getting Started
 ----------------
@@ -81,7 +80,7 @@ Getting Started
 If you haven't already, install Sublime Tutor using the installation steps
 given above.
 
-Once Sublime Tutor is installed, press `^ + ⌥ + K` keyboard shortcut to open
+Once Sublime Tutor is installed, press `Ctrl + Option + K` keyboard shortcut to open
 this file in Sublime Text. Another option is to go to `Help > Sublime 
 Tutor` menu option to open this.
 

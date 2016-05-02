@@ -1,7 +1,7 @@
 Duplicating lines
 ==================
 
-Duplicate a line - ⌘ (`command`) + ⇧ (`shift`) + D
+Duplicate a line - `Cmd + Shift + D`
 
 Put a cursor anywhere on a line and use this shortcut to create a duplicate
 copy of the line. If something is selected, then instead of the line, selection

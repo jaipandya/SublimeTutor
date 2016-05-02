@@ -1,9 +1,9 @@
 Selecting lines
 ================
 
-Shortcut - ⌘ (`command`) + L
+Shortcut - `Cmd + L`
 
-If you want to select a line, use the `⌘ + L` shortcut. Pressing it again
+If you want to select a line, use the `Cmd + L` shortcut. Pressing it again
 selects next line consecutively.
 
 Exercise
@@ -11,7 +11,7 @@ Exercise
 
 In the block given below, select the line with `<==` mark on them. Use the
 shortcut you learned in this unit to do so. Once all four lines are selected,
-use `⌘ + U` to `soft-undo` this. Then repeat the process four times.
+use `Cmd + U` to `soft-undo` this. Then repeat the process four times.
 
 ```
 

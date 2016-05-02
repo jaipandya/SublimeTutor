@@ -7,8 +7,8 @@ across the tabs?
 
 Well, we have a solution here.
 
-Jump back in history - `^ (`control`) + -`
-Jump forward in history - `^ (`control`) + ⇧ (`shift`) + -`
+Jump back in history - `Ctrl + -`
+Jump forward in history - `Ctrl + Shift + -`
 
 
 Exercise

@@ -16,7 +16,7 @@ path of learning Sublime, I realized that this being an editor, there is a
 possibility of a tutor which could teach all the features inside Sublime itself
 
 You can start using Sublime Tutor by opening it from the help menu above or you
-can alternatively use the shortcut: ^ (`control`) + ⌥ (`option`) + K
+can alternatively use the shortcut: Ctrl + Option + K
 
 The tutor was tested on a Mac for Sublime Text 3. I'm in the process of testing
 / porting it for other platforms meanwhile.

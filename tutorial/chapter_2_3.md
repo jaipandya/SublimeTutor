@@ -1,8 +1,8 @@
 Delete to end / beginning of the line
 ======================================
 
-Delete to beginning of the line - ⌘ (`command`) + ⌫ (`delete`)
-Delete to end of the line - ^ (`control`) + K
+Delete to beginning of the line - `Cmd + Delete`
+Delete to end of the line - `Ctrl + K`
 
 
 Exercise
@@ -24,14 +24,14 @@ This one as well.lasdn
 And this one falls in a similar bucket.ljsad kjhsadf asdlkfjasd lkjasd f
 ```
 
-Create a new file with `⌘ + N`, copy and paste the contents of this file and
+Create a new file with `Cmd + N`, copy and paste the contents of this file and
 then delete all the lines one by one using the shortcuts you learned in this 
 chapter. (select all, copy and paste have usual system level shortcuts)
 
 Revision
 ---------
 
-* Delete word back - ⌘ + ⌫
-* Delete word forward - ⌘ + fn + ⌫
-* Insert line after - ⌘ + ⏎
-* Insert line before - ⌘ + ⇧ + ⏎
+* Delete word back - `Cmd + Delete`
+* Delete word forward - `Cmd + fn + Delete`
+* Insert line after - `Cmd + Return`
+* Insert line before - `Cmd + Shift + Return`

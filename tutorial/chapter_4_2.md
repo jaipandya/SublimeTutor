@@ -4,7 +4,7 @@ Goto definition
 Starting version 3 only, Sublime Text also supports `Goto definition` command.
 This depends upon the indexing strategy and recognized symbols.
 
-Shortcut - ⌘ (`command`) + ⇧ (`shift`) + down
+Shortcut - `Cmd + Option + down`
 
 Exercise
 ---------

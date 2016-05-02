@@ -4,7 +4,7 @@ Expand selection to indentation
 If you want to select some text which is below the same indentation level as
 this text, then you can use the shortcut given below.
 
-Shortcut - ⌘ (`command`) + ⇧ (`shift`) + J
+Shortcut - `Cmd + Shift + J`
 
 Exercise
 ---------

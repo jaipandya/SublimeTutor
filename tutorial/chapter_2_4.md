@@ -6,19 +6,19 @@ location in forward or backward direction. What if you want to delete the whole
 line? This unit introduces you to a couple of shortcuts that you can use for
 the same purpose.
 
-Delete a line - ^ (`control`) + ⇧ (`shift`) + K
+Delete a line - `Ctrl + Shift + K`
 
-Cut a line - ⌘ (`command`) + X
-  If you put the cursor on any line and press `⌘ + X` then it would cut the
-  whole line and put it in the clipboard. You can later paste it using `⌘ + V`
+Cut a line - `Cmd + X`
+  If you put the cursor on any line and press `Cmd + X` then it would cut the
+  whole line and put it in the clipboard. You can later paste it using `Cmd + V`
   as usual.
 
 Exercise 1
 -----------
 
 There are some lines written below, some of them are repeated. You need to make
-sure that all the lines appear only once. Use the command `^ + ⇧ + K` to delete
-those lines.
+sure that all the lines appear only once. Use the command `Ctrl + Shift + K` to
+delete those lines.
 
 
 1. This is line number one
@@ -37,7 +37,10 @@ Exercise 2
 
 There are six unique lines written below, you need to sort them and make sure
 all their duplicates are deleted. So in the end the remaining list should have
-just 6 items. To do this, use `⌘ + X` to cut a line, `⌥ + ⏎` to enter a new line below a certain line, `⌘ + V` to paste that line back. Once they are sorted, delete the lines which are not required using `^ + ⇧ + K`.
+just 6 items. To do this, use `Cmd + X` to cut a line, `Option + Return` to 
+enter a new line below a certain line, `Cmd + V` to paste that line back. Once
+they are sorted, delete the lines which are not required using
+`Ctrl + Shift + K`.
 
 
 6. This is line number six
@@ -53,7 +56,7 @@ just 6 items. To do this, use `⌘ + X` to cut a line, `⌥ + ⏎` to enter a ne
 Revision
 ---------
 
-* Delete to beginning of the line - ⌘ (`command`) + ⌫ (`delete`)
-* Delete to end of the line - ^ (`control`) + K
-* Delete word back - ⌘ + ⌫
-* Delete word forward - ⌘ + fn + ⌫
+* Delete to beginning of the line - `Cmd + Delete`
+* Delete to end of the line - `Ctrl + K`
+* Delete word back - `Cmd + Delete`
+* Delete word forward - `Cmd + fn + Delete`

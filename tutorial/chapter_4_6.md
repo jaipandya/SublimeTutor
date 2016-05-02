@@ -4,8 +4,8 @@ Code folding / unfolding
 When you are working with nested code structures, you can see a folded view
 of your code to get a larger picture.
 
-Fold one level - ⌘ (`command`) + ⌥ (`option`) + [
-Unfold code one level - ⌘ (`command`) + ⌥ (`option`) + ]
+Fold one level - `Cmd + Option + [`
+Unfold code one level - `Cmd + Option + ]`
 
 Exercise
 ---------
@@ -13,10 +13,10 @@ Exercise
 Let's try this with the following HTML code structure.
 
 1. Put your cursor inside the `p` text somewhere.
-2. Use the `Fold one level` shortcut `⌘ + ⌥ + [`
-3. While `⌘` and `⌥` keys are depressed, press `[` key multiple times
+2. Use the `Fold one level` shortcut `Cmd + Option + [`
+3. While `Cmd` and `Option` keys are depressed, press `[` key multiple times
    so that whole code structure is completely folded.
-4. Now use the shortcut for unfolding code `⌘ + ⌥ + ]` until full code
+4. Now use the shortcut for unfolding code `Cmd + Option + ]` until full code
    is visible.
 
 ```

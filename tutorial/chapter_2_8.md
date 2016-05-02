@@ -6,8 +6,8 @@ had to cut the lines first and insert a new line above/below and then paste
 the line back. If all you wanted to do was to move the complete line above
 or below, you could use this handy shortcut that Sublime Text provides.
 
-Bubble the line up - ^ (`control`) + ⌘ (`commadn`) + up
-Bubble the line down - ^ + ⌘ + down
+Bubble the line up - `Ctrl + Cmd + up`
+Bubble the line down - `Ctrl + Cmd + down`
 
 Exercise
 ---------
@@ -15,9 +15,9 @@ Exercise
 Let's do the same exercise again using these shortcuts now.
 
 1. First sort the block given below using the newly learned shortcut
-   in this unit (^ + ⌘ + up, ^ + ⌘ + down)
-2. Now delete the lines using `delete line` shortcut you learned in unit 4 of 
-   this module. Let's see if you still remember that or not?
+   in this unit (`Ctrl + Cmd + up`, `Ctrl + Cmd + down`)
+2. Now delete the lines using the shortcut to delete line you learned in unit 4
+   of this module. Let's see if you still remember that or not?
 
 
 ```
