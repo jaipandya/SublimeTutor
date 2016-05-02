@@ -9,7 +9,7 @@ the same purpose.
 Delete a line - `Ctrl + Shift + K`
 
 Cut a line - `Ctrl + X`
-  If you put the cursor on any line and press `^ + X` then it would cut the
+  If you put the cursor on any line and press `Ctrl + X` then it would cut the
   whole line and put it in the clipboard. You can later paste it using
   `Ctrl + V` as usual.
 
@@ -17,8 +17,8 @@ Exercise 1
 -----------
 
 There are some lines written below, some of them are repeated. You need to make
-sure that all the lines appear only once. Use the command `^ + ⇧ + K` to delete
-those lines.
+sure that all the lines appear only once. Use the command `Ctrl + Shift + K` to
+delete those lines.
 
 
 1. This is line number one

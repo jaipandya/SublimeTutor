@@ -11,9 +11,9 @@ your stay at Sublime Text a pleasurable experience.
 Let's start with refreshing our memory with the shortcuts that we studied in
 the first module.
 
-Goto anything - ^ (`control`) + P
-Goto line - ^ (`control`) + G
-Goto symbol - ^ (`control`) + R
+Goto anything - `Ctrl + P`
+Goto line - `Ctrl + G`
+Goto symbol - `Ctrl + R`
 
 While it is quite easy to look for a symbol in a specific file, Sublime Text 3
 comes with a feature that lets you search for a symbol or definition project-

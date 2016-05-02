@@ -17,14 +17,15 @@ column number 4 (four spaces)
 There are two way to do it.
 
 1. Indent every line individually except for 8,9,10.
-2. For 8,9,10 select all three and then use `^ + [` five times to indent it at
-   column 4.
+2. For 8,9,10 select all three and then use `Ctrl + [` five times to indent it
+   at column 4.
 
 Another way would be quicker.
 
 1. Select the whole block
-2. Now use unindent command (`^ + [`) untill all statements are indented at
-   first column. Now indent (`^ + ]`) twice to move the whole block to column 4
+2. Now use unindent command (`Ctrl + [`) untill all statements are indented at
+   first column. Now indent (`Ctrl + ]`) twice to move the whole block to
+   column 4
 
 ```
 

@@ -4,14 +4,14 @@ Expand selection to indentation
 If you want to select some text which is below the same indentation level as
 this text, then you can use the shortcut given below.
 
-Shortcut - ^ (`control`) + ⇧ (`shift`) + J
+Shortcut - `Ctrl + Shift + J`
 
 Exercise
 ---------
 
 Use the command you learned in this unit to select the region which is indented
-at eighth level, and `unindent` it once (Using shortcut you learned in the
-previous module) to indent it at seventh level.
+at eighth level, and `unindent` it once. Use the shortcut you earlier learned
+for indenting / unindenting a block of text.
 
 ```
 

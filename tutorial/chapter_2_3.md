@@ -24,7 +24,7 @@ This one as well.lasdn
 And this one falls in a similar bucket.ljsad kjhsadf asdlkfjasd lkjasd f
 ```
 
-Create a new file with `^ + N`, copy and paste the contents of this file and
+Create a new file with `Ctrl + N`, copy and paste the contents of this file and
 then delete all the lines one by one using the shortcuts you learned in this 
 chapter.
 

@@ -20,8 +20,8 @@ Exercise
 Move your cursor using your mouse from one position to another, delete some
 words, select some area, then again delete some words. Once you are done with
 that, use soft undo with `Ctrl + U` shortcut to delete all this. Then try
-redoing it with `^ + ⇧ + U` and then undo that action again and come in the
-original position.
+redoing it with `Ctrl + Shift + U` and then undo that action again and come in
+the original position.
 
 Revision
 ---------

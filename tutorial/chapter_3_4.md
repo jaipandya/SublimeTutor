@@ -1,15 +1,15 @@
 Select word with multiple occurrences
 ======================================
 
-Select word once - ^ (`control`) + D
-Select occurrences of this word - Press `^ + D` multiple times for each
+Select word once - `Ctrl + D`
+Select occurrences of this word - Press `Ctrl + D` multiple times for each
 occurrence
 
 If you want to quickly select all the occurrences of a word, this shortcut
-could come in handy. Put the cursor on the word that needs to be selected,
-now press ^ + D as many times as it appears in the document. This puts us
-in multiple cursor mode and we do some editing operations on the selected
-occurrences.
+would prove to be very useful. Put the cursor on the word that needs to be
+selected, now press `Ctrl + D` as many times as it appears in the document.
+This puts us in multiple cursor mode and we can do some editing operations
+on the selected occurrences.
 
 Exercise
 ---------
@@ -18,7 +18,7 @@ In the block given below, select all the occurrences of the word `phone`
 and change it to `android`. 
 
 1. Place your cursor on the word `phone`.
-2. Press `^ + D` as many times as it appears in the list.
+2. Press `Ctrl + D` as many times as it appears in the list.
 3. Once all of them are selected, delete them and replace with `android`.
 
 ```
@@ -40,9 +40,9 @@ windows
 Quick skip word
 ----------------
 
-While you use `^ + D` to select multiple occurrences of a word, if there is a
-word that you don't want to select, use `^ + K followed by ^ + D` to skip the
-word under cursor.
+While you use `Ctrl + D` to select multiple occurrences of a word, if there is
+a word that you don't want to select, use `Ctrl + K followed by `Ctrl + D` to skip
+the word under cursor.
 
 Exercise
 ---------
@@ -51,8 +51,8 @@ In the block given below, select all the occurrences of the word `phone`
 and change it to `android`. 
 
 1. Place your cursor on the word `phone`.
-2. Press `^ + D` as many times as it appears in the list.
-3. When 'phone' in 'iphone' gets selected, skip it using `^ + K, ^ + D`.
+2. Press `Ctrl + D` as many times as it appears in the list.
+3. When 'phone' in 'iphone' gets selected, skip it using `Ctrl + K, Ctrl + D`.
 4. Once all of them are selected, delete them and replace with `android`.
 
 ```
@@ -72,3 +72,5 @@ phone
 windows
 
 ```
+
+See, how easy it is.
