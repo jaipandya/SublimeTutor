@@ -1,8 +1,8 @@
 Indent / Unindent
 ==================
 
-Indent - `Ctrl + ]`
-Unindent - `Ctrl + [`
+* Indent - `Ctrl + ]`
+* Unindent - `Ctrl + [`
 
 These shortcuts indent / unindent the selected text. If no content is selected
 then the current line is moved.

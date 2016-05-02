@@ -7,9 +7,9 @@ There would always be cases when you would want to search for a specific term
 and get it replaced with some other term. In such cases, this shortcut would
 come in handy.
 
-Replace panel - `Ctrl + H`
-Replace next - `Ctrl + Shift + H`
-Replace all - `Ctrl + Alt + Return` (Only when replace panel is open)
+* Replace panel - `Ctrl + H`
+* Replace next - `Ctrl + Shift + H`
+* Replace all - `Ctrl + Alt + Return` (Only when replace panel is open)
 
 Exercise
 ---------

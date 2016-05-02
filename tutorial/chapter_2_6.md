@@ -3,8 +3,8 @@ Upper / lower case
 
 You can use two handy shortcuts to change the case any text block in Sublime.
 
-Lower case - `Ctrl + K, Ctrl + L`
-Upper case - `Ctrl + K, Ctrl + U`
+* Lower case - `Ctrl + K, Ctrl + L`
+* Upper case - `Ctrl + K, Ctrl + U`
 
 That is, press `Ctrl + K` directly followed by `Ctrl + L` or `Ctrl + U` to
 change the case. In practice, you don't need to pull your finger from the `Ctrl`

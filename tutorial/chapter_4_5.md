@@ -7,8 +7,8 @@ across the tabs?
 
 Well, we have a solution here.
 
-Jump back in history - `Alt + -`
-Jump forward in history - `Alt + Shift + -`
+* Jump back in history - `Alt + -`
+* Jump forward in history - `Alt + Shift + -`
 
 
 Exercise

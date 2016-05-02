@@ -6,8 +6,8 @@ had to cut the lines first and insert a new line above/below and then paste
 the line back. If all you wanted to do was to move the complete line above
 or below, you could use this handy shortcut that Sublime Text provides.
 
-Bubble the line up - `Ctrl + Shift + Up`
-Bubble the line down - `Ctrl + Shift + Down`
+* Bubble the line up - `Ctrl + Shift + Up`
+* Bubble the line down - `Ctrl + Shift + Down`
 
 Exercise
 ---------

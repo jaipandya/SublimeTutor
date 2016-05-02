@@ -8,8 +8,8 @@ the two.
 
 Let's learn the shortcuts first:
 
-Incremental find - `Ctrl + I` (pressing again would find next)
-Incremental find previous - `Ctrl + Shift + I`
+* Incremental find - `Ctrl + I` (pressing again would find next)
+* Incremental find previous - `Ctrl + Shift + I`
 
 These commands work exactly as `Find...` except for just one difference. When
 we find something using `incremental find`, pressing `Return` directly
@@ -31,9 +31,9 @@ Exercise
    until you get comfortable with this command.
 4. Cycle in the opposite order using `Ctrl + Shift + I`, press this multiple times
    until you get comfortable with this command.
-5. Now press `Alt + F3` to find all the instances of `phone` and enter
+5. Now press `Alt + Return` to find all the instances of `phone` and enter
    `multiple selection` mode described in earlier module.
-6. Press return (`escape`) to exit the multiple selection mode.
+6. Press `Return` to exit the multiple selection mode.
 
 ```
 

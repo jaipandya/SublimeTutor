@@ -9,10 +9,10 @@ mode as well.
 For more advanced cases, we would like to open the `Find...` panel.
 
 
-Find - `Ctrl + F`
-Find next - `F3`
-Find previous - `Shift + F3`
-Find all - `Alt + F3`
+* Find - `Ctrl + F`
+* Find next - `F3`
+* Find previous - `Shift + F3`
+* Find all - `Alt + F3` or `Alt + Return` when find panel is open
 
 Exercise
 ---------

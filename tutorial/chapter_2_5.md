@@ -11,8 +11,8 @@ easily undo these 'soft' actions as well.
 
 Shortcuts for soft undo and redo are:
 
-Soft undo - `Ctrl + U`
-Soft redo - `Ctrl + Shift + U`
+* Soft undo - `Ctrl + U`
+* Soft redo - `Ctrl + Shift + U`
 
 Exercise
 ---------
@@ -26,8 +26,8 @@ the original position.
 Revision
 ---------
 
-Delete to beginning of the line - `Ctrl + Shift + Backspace`
-Delete to end of the line - `Ctrl + K`
+* Delete to beginning of the line - `Ctrl + Shift + Backspace`
+* Delete to end of the line - `Ctrl + K`
 * Delete a line - `Ctrl + Shift + K`
 * Cut a line - `Ctrl + X`
 

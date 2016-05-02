@@ -41,8 +41,12 @@ Try changing the syntax from `Markdown` to `JavaScript` or `Ruby` by clicking
 clicking at he lower right corner of Sublime Text. Play with this command a
 bit then.
 
-While writing programs and code, this shortcut frequently comes in handy when
-you want to debug a section of the program. Comment out the lines of code that
-you suspect, run the program again, possibly some clue lies there.
+Another way of changing the language is through command palette. (Formal intro
+will follow later in the last module). Press `Ctrl + Shift + P` and type
+`syntax javascript` to select JavaScript language from the list of languages.
+
+While writing programs and code, commenting shortcut frequently comes in handy
+when you want to debug a section of the program. Comment out the lines of code
+that you suspect, run the program again, possibly some clue lies there.
 
 Let's move to next chapter - chapter_2_13.md
