@@ -4,6 +4,10 @@ Contents
 1. Goto Anything (Navigation)
 ------------------------------
 
+1. Goto Anything: `Cmd + P`
+2. Goto Symbol: `Cmd + R`
+3. Goto Line: `Ctrl + G`
+
 2. Editing text
 ----------------
 
