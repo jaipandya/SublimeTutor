@@ -4,76 +4,80 @@ Contents
 1. Goto Anything (Navigation)
 ------------------------------
 
+1. Goto Anything: `Ctrl + P`
+2. Goto Symbol: `Ctrl + R`
+3. Goto Line: `Ctrl + G`
+
 2. Editing text
 ----------------
 
-1.  Insert line before / after - `^ + ⏎` / `^ + ⇧ + ⏎`
-2.  Delete word backward / forward - `⌥ + ⌫` / `fn + ⌥ + ⌫`
-3.  Delete to beginning / end - `^ + ⌫` / `^ + K`
-4.  Delete / Cut a line - `^ + ⇧ + K` / `^ + X`
-5.  Soft Undo / Redo - `^ + U` / `^ + ⇧ + U`
-6.  Upper / lower case - `^ + K, ^ + U` / `^ + K, ^ + L`
-7.  Joining Lines - `^ + J`
-8.  Bubble the line up / down - `^ + ⇧ + up` / `^ + ⇧ + down`
-9.  Sort a line - `F5`
-10. Duplicating a line - `^ + ⇧ + D`
-11. Indent - Unindent - `^ + ]`, `^ + [`
-12. Commenting a line - `^ + /`
-13. Close HTML tag - `^ + ⌥ + .`
-14. Wrap line at ruler - `⌥ + ^ + Q`
-15. Transpose - `^ + T`
+1.  Insert line before / after - `Ctrl + Shift + Return` / `Ctrl + Return`
+2.  Copy line / Paste from history - `Ctrl + C` / `Ctrl + K, Ctrl + V`
+3.  Delete to beginning / end - `Ctrl + Shift + Backspace` / `Ctrl + K`
+4.  Delete / Cut a line - `Ctrl + Shift + K` / `Ctrl + X`
+5.  Soft Undo / Redo - `Ctrl + U` / `Ctrl + Shift + U`
+6.  Upper / lower case - `Ctrl + K, Ctrl + U` / `Ctrl + K, Ctrl + L`
+7.  Joining Lines - `Ctrl + J`
+8.  Bubble the line up / down - `Ctrl + Shift + up` / `Ctrl + Shift + down`
+9.  Sort a line - `F9`
+10. Duplicating a line - `Ctrl + Shift + D`
+11. Indent - Unindent - `Ctrl + ]`, `Ctrl + [`
+12. Commenting a line - `Ctrl + /`
+13. Close HTML tag - `Alt + .`
+14. Wrap line at ruler - `Alt + Q`
+15. Transpose - `Ctrl + T`
 
 3. Selection
 -------------
 
-1.  Multiple selection
+1.  Multiple selection - `Ctrl + clicks at multiple places`
 2.  Column Selection
-      http://stackoverflow.com/a/23893819/410367
-      `^ + ⇧ + up` / `^ + ⇧ + down` / `⎋` for going back to single
-3.  Split block of selection into multiple lines - `^ + ⇧ + L`
-4.  Select word with multiple occurrences - `^ + D`
-    Quick skip - `^ + K, ^ + D`
-5.  Selecting a line - `^ + L`
-6.  Expand selection to brackets - `^ + ⇧ + M`
-7.  Expand selection to indentation - `^ + ⇧ + J`
-8.  Expand selection to scope - `^ + ⇧ + space`
+    `Ctrl + Alt + Up` or `Ctrl + Alt + Down` / `Esc` for going back to single
+3.  Split block of selection into multiple lines - `Ctrl + Shift + L`
+4.  Select word with multiple occurrences - `Ctrl + D`
+    Quick skip - `Ctrl + K, Ctrl + D`
+5.  Selecting a line - `Ctrl + L`
+6.  Expand selection to brackets - `Ctrl + Shift + M`
+7.  Expand selection to indentation - `Ctrl + Shift + J`
+8.  Expand selection to scope - `Ctrl + Shift + Space`
 
 
 4. Navigation
 --------------
 
-1.  Goto symbol in project - `^ + ⇧ + R`
-2.  Goto definition - `⌥ + ^ + down`
-3.  Goto beginning / end of a line - `^ + A` / `^ + E`
-4.  Goto matching bracket - `^ + M`
-5.  Move back / forward in history - `^ + -` / `^ + ⇧ + -`
-6.  Code fold / unfold - `⌥ + ^ + [` / `⌥ + ^ + ]`
+1.  Goto symbol in project - `Ctrl + Shift + R`
+2.  Goto definition - `F12`
+3.  Goto beginning / end of a line - `Home` / `End`
+4.  Goto matching bracket - `Ctrl + M`
+5.  Move back / forward in history - `Alt + -` / `Alt + Shift + -`
+6.  Code fold / unfold - `Ctrl + Shift + [` / `Ctrl + Shift + ]`
 
 5. Find
 --------
 
-1.  Find - `^ + F`
-    Find next - `^ + G`
-    Find previous - `^ + ⇧ + G`
-    Find all - `⌥ + ⏎` (while find window is open)
-    Add selection to find - `^ + E`
-2.  Incremental find - `^ + I`
-    Incremental find previous - `^ + ⇧ + I`
-    Find all with incremental find - `⌥ + ⏎`
-3.  Replace panel - `^ + ⌥ + F`
-    Replace next - `^ + ⌥ + E`
-    Replace all - `^ + ⌥ + ⏎`
-    Add selection to replace - `^ + ⇧ + E`
-4.  Quick find - `⌥ + ^ + G`
-    Quick find previous - `⌥ + ^ + ⇧ + G`
-    Quick find all - `^ + ^ + G`
-5.  Find in project - `^ + ⇧ + F`
+1.  Find - `Ctrl + F`
+    Find next - `F3`
+    Find previous - `Shift + F3`
+    Find all - `Alt + Return` (while find window is open)
+    Use selection to find - `Ctrl + E`
+2.  Incremental find - `Ctrl + I`
+    Incremental find previous - `Ctrl + Shift + I`
+    Find all with incremental find - `Alt + Return` (while the panel is open)
+3.  Replace panel - `Ctrl + H`
+    Replace next - `Ctrl + Shift + H`
+    Replace all - `Ctrl + Alt + Return` (Only when replace panel is open)
+    Add selection to replace - `Ctrl + Shift + E`
+4.  Quick find - `Ctrl + F3`
+    Quick find previous - `Ctrl + Shift + F3`
+    Quick find all - `Alt + F3`
+5.  Find in project - `Ctrl + Shift + F`
 
 6. Others
 ----------
 
-Opening User settings - ^ + ,
-Pythong Console - ^ + `
+Opening User settings - `^ + ,`
+Python Console - `^ + Backticks`
+Command Palette - `Ctrl + Shift + P`
 
 
 

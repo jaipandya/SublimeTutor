@@ -45,7 +45,7 @@ windows
 
 ```
 
-Use selection for find
+Use selection to find
 -----------------------
 
 Shortcut - `Ctrl + E`
