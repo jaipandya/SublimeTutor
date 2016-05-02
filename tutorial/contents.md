@@ -72,9 +72,9 @@ Contents
 6. Others
 ----------
 
-Opening User settings - `Cmd + ,`
-Python Console - `Ctrl + Backticks`
-Command Palette - `Cmd + Shift + P`
+1. Opening User settings - `Cmd + ,`
+2. Python Console - `Ctrl + Backticks`
+3. Command Palette - `Cmd + Shift + P`
 
 
 

@@ -11,8 +11,8 @@ can easily undo these 'soft' actions as well.
 
 Shortcuts for soft undo and redo are:
 
-Soft undo - `Cmd + U`
-Soft redo - `Cmd + Shift + U`
+* Soft undo - `Cmd + U`
+* Soft redo - `Cmd + Shift + U`
 
 Exercise
 ---------

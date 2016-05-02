@@ -6,7 +6,7 @@ same time. Use `Cmd` key with left mouse button and click at multiple places in
 the document to put your cursor at all those places. Now, when you type 
 something, the text is appended at all the cursor positions.
 
-Multiple cursors - `Cmd key with left mouse button`
+* Multiple cursors - `Cmd key with left mouse button`
 
 Exercise
 ---------

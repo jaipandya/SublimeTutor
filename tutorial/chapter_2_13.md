@@ -4,7 +4,7 @@ Closing an HTML tag
 As this shortcut is specific to HTML tags. if you don't write HTML regularly
 you can probably skip this unit.
 
-Close an HTML tag - `Cmd + Option + .`
+* Close an HTML tag - `Cmd + Option + .`
 
 This shortcut comes in handy when creating new HTML elements. Most of the
 HTML elements have a opening and closing tag. Using this shortcut, once an

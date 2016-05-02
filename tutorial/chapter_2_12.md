@@ -9,7 +9,7 @@ comments.
 For different programming languages comment construct could be different. e.g.
 for `html` it is `<!-- comment -->` while for JavaScript it is `//` or `/* */`
 
-Toggle comments - `Cmd + /`
+* Toggle comments - `Cmd + /`
 
 Exercise
 ---------

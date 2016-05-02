@@ -7,10 +7,10 @@ There would always be cases when you would want to search for a specific term
 and get it replaced with some other term. In such cases, this shortcut would
 come in handy.
 
-Replace panel - `Cmd + Option + F`
-Replace next - `Cmd + Option + E`
-Replace all - `Ctrl + Option + Return` (Only when replace panel
-is open)
+* Replace panel - `Cmd + Option + F`
+* Replace next - `Cmd + Option + E`
+* Replace all - `Ctrl + Option + Return` (Only when replace panel
+  is open)
 
 Exercise
 ---------
@@ -53,7 +53,7 @@ which puts the selected term in the find panel for subsequent searches.
 
 In a similar way, this command puts the selected term in the replace field.
 
-Shortcut - `Cmd + Shift + E`
+* Shortcut - `Cmd + Shift + E`
 
 Let's try this in practice now.
 

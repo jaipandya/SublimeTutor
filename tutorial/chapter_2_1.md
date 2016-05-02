@@ -4,8 +4,8 @@ Insert line before / after
 You can directly add a line above or below your cursor position
 and move your cursor directly to that location.
 
-Insert line before - `Cmd + Shift + Return`
-Insert line after - `Cmd + Return`
+* Insert line before - `Cmd + Shift + Return`
+* Insert line after - `Cmd + Return`
 
 Exercise
 ---------

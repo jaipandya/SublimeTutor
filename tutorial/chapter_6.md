@@ -7,7 +7,7 @@ setting and its python console.
 Sublime Text Settings
 ======================
 
-Shortcut - `Cmd + ,`
+* Shortcut - `Cmd + ,`
 
 This gives you Sublime Text User settings. It is a json file where you can
 override the default Sublime Text settings. `Preferences -> Settings - Default`
@@ -33,7 +33,7 @@ Python Console
 If you want to play around with Sublime Text APIs or want to see the logs
 spit out by running a command, this is where you would want to go.
 
-Shortcut - 'Ctrl + ` (Backticks)'
+* Shortcut - 'Ctrl + ` (Backticks)'
 
 Exercise
 ---------
@@ -56,7 +56,7 @@ This is a frequently visited place for all the advanced users of Sublime Text
 You get a list of commands which come baked by default from Sublime HQ, as
 well as commands added by plugins.
 
-Shortcut - `Cmd + Shift + P`
+* Shortcut - `Cmd + Shift + P`
 
 Exercise
 ---------

@@ -5,7 +5,7 @@ Over here Sublime follows the default functionality of OSX to transpose letters
 of a word. This is different from the way Sublime Text 2 used to deal it, where
 you could transpose words as well.
 
-Transpose - `Ctrl + T`
+* Transpose - `Ctrl + T`
 
 Exercise
 ---------

@@ -1,14 +1,14 @@
 Delete word back / forward
 ===========================
 
-## Delete the word backward - `Option + Delete`
+* Delete the word backward - `Option + Delete`
 
 If the cursor is in the middle of a word, it deletes the word from the cursor 
 position to the beginning of this word. If the cursor is placed at the word 
 beginning or whitespace, then it deletes the previous word.
 
 
-## Delete the word forward - `fn + Option + Delete`
+* Delete the word forward - `fn + Option + Delete`
 
 If the cursor is in the middle of a word, it deletes the word from the cursor 
 position to the end of this word. If the cursor is placed at the word end or 

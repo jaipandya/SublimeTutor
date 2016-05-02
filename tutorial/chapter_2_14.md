@@ -1,7 +1,7 @@
 Wrap lines at ruler
 ====================
 
-wrap lines at ruler position - `Cmd + Option + Q`
+* Wrap lines at ruler position - `Cmd + Option + Q`
 
 This shortcut was mighty useful when I was writing this series of tutorial. I
 generally like to wrap paragraphs at 80 characters ruler limit. So I write

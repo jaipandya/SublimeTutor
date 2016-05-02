@@ -9,10 +9,10 @@ mode as well.
 For more advanced cases, we would like to open the `Find...` panel.
 
 
-Find - `Cmd + F`
-Find next - `Cmd + G`
-Find previous - `Cmd + Shift + G`
-Find all - `Alt + Return` (when find panel is open)
+* Find - `Cmd + F`
+* Find next - `Cmd + G`
+* Find previous - `Cmd + Shift + G`
+* Find all - `Alt + Return` (when find panel is open)
 
 Exercise
 ---------
@@ -49,7 +49,7 @@ windows
 Use selection for find
 -----------------------
 
-Shortcut - `Cmd + E`
+* Shortcut - `Cmd + E`
 
 This commands puts the selection or the word on which the cursor is pointing
 into the find buffer. So next time when you open find panel, or press `Cmd + G`

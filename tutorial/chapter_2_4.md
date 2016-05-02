@@ -6,12 +6,11 @@ location in forward or backward direction. What if you want to delete the whole
 line? This unit introduces you to a couple of shortcuts that you can use for
 the same purpose.
 
-Delete a line - `Ctrl + Shift + K`
-
-Cut a line - `Cmd + X`
-  If you put the cursor on any line and press `Cmd + X` then it would cut the
-  whole line and put it in the clipboard. You can later paste it using `Cmd + V`
-  as usual.
+* Delete a line - `Ctrl + Shift + K`
+* Cut a line - `Cmd + X`
+    If you put the cursor on any line and press `Cmd + X` then it would cut the
+    whole line and put it in the clipboard. You can later paste it using `Cmd + V`
+    as usual.
 
 Exercise 1
 -----------

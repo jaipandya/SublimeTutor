@@ -7,7 +7,7 @@ idea, how frequently you are going to use this shortcut.
 
 This is equivalent to `grep` command of the shell world.
 
-Shortcut - `Cmd + Shift + F`
+* Shortcut - `Cmd + Shift + F`
 
 Let us search for some terms project wide and come back to this chapter then.
 

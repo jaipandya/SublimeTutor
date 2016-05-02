@@ -4,8 +4,8 @@ Code folding / unfolding
 When you are working with nested code structures, you can see a folded view
 of your code to get a larger picture.
 
-Fold one level - `Cmd + Option + [`
-Unfold code one level - `Cmd + Option + ]`
+* Fold one level - `Cmd + Option + [`
+* Unfold code one level - `Cmd + Option + ]`
 
 Exercise
 ---------

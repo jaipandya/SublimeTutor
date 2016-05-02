@@ -1,8 +1,8 @@
 Indent / Unindent
 ==================
 
-Indent - `Cmd + ]`
-Unindent - `Cmd + [`
+* Indent - `Cmd + ]`
+* Unindent - `Cmd + [`
 
 These shortcuts indent / unindent the selected lines. If no line is selected
 then the current line is moved.

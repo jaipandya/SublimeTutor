@@ -5,8 +5,8 @@ If you want to have multiple cursors in a column, then `Cmd + click`
 could become cumbersome pretty soon. For this, there is a more convenient
 method that Sublime Text provides.
 
-Column selection using mouse - `Option + click and drag`
-Keyboard shortcut - `Ctrl + Shift + up|down`
+* Column selection using mouse - `Option + click and drag`
+* Keyboard shortcut - `Ctrl + Shift + up|down`
 
 On the current version of Mac OSX, this keyboard shortcut is already bound to
 mission control. In my case, I don't use mission control a lot, so I have

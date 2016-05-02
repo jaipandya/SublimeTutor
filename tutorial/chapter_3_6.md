@@ -4,7 +4,7 @@ Selecting content between the brackets
 While coding some stuff, it is generally a frequent requirement to select the
 content between a set of brackets. Sublime Text makes is really easy to do so.
 
-Shortcut - `Ctrl + Shift + M`
+* Shortcut - `Ctrl + Shift + M`
 
 Place your cursor anywhere between a pair of brackets and press
 `Ctrl + Shift + M` to select the content between the two brackets.

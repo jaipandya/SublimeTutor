@@ -6,7 +6,7 @@ currently selected term in the document with just one keystroke. These cases
 happen to be quite common in software development. This command does exactly
 that.
 
-Shortcut - `Cmd + Option + G`
+* Shortcut - `Cmd + Option + G`
 
 Select a term or put your cursor on a word and press `Cmd + Option + G` to find
 other occurrences of it in the document.
@@ -41,7 +41,7 @@ Quick find previous
 While quick find command executes in top to bottom order, quick find previous
 command does exactly the same thing but in the opposite order.
 
-Shortcut - `Cmd + Option + Shift + G`
+* Shortcut - `Cmd + Option + Shift + G`
 
 Exercise
 ---------
@@ -61,7 +61,7 @@ selected search term?
 
 Quick find all command will help us achieve that.
 
-Shortcut - `Cmd + Ctrl + G`
+* Shortcut - `Cmd + Ctrl + G`
  
 Exercise
 ---------

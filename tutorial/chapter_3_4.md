@@ -1,9 +1,9 @@
 Select word with multiple occurrences
 ======================================
 
-Select word once - `Cmd + D`
-Select occurrences of this word - Press `Cmd + D` multiple times for each
-occurrence
+* Select word once - `Cmd + D`
+* Select occurrences of this word - Press `Cmd + D` multiple times for each
+  occurrence
 
 If you want to quickly select all the occurrences of a word, this shortcut
 could come in handy. Put the cursor on the word that needs to be selected,

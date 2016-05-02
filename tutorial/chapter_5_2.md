@@ -8,9 +8,9 @@ the two.
 
 Let's learn the shortcuts first:
 
-Incremental find - `Cmd + I` (pressing again would find next)
-Incremental find previous - `Cmd + Shift + I`
-Incremental find all - `Option + Return` (when the find panel is open)
+* Incremental find - `Cmd + I` (pressing again would find next)
+* Incremental find previous - `Cmd + Shift + I`
+* Incremental find all - `Option + Return` (when the find panel is open)
 
 These commands work exactly as `Find...` except for just one difference. When
 we find something using `incremental find`, pressing Return directly

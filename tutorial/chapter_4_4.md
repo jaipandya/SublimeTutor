@@ -5,7 +5,7 @@ This one is super useful while writing code. When your cursor is at one
 bracket position and you want to move to other matching bracket, use this
 shortcut
 
-Shortcut - `Ctrl + M`
+* Shortcut - `Ctrl + M`
 
 Exercise
 ---------

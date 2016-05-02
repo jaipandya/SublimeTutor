@@ -1,7 +1,7 @@
 Expand selection to scope
 ==========================
 
-Shortcut - `Cmd + Shift + Space`
+* Shortcut - `Cmd + Shift + Space`
 
 I love this shortcut. This is super useful in a lot of conditions. The good
 part about this shortcut is that on every consecutive press it expands to the 
