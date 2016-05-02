@@ -1,6 +1,10 @@
 Wrap lines at ruler
 ====================
 
+You can use this shortcut to wrap them at a defined ruler position. You can use
+settings override to define ruler position. (settings override is introduced in
+the last module of this course)
+
 * Wrap lines at ruler position - `Cmd + Option + Q`
 
 This shortcut was mighty useful when I was writing this series of tutorial. I

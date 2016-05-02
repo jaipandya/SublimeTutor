@@ -43,8 +43,8 @@ This is last line
 ```
 
 Third block
-
 ------------
+
 ```
 This is first line
 I have been sandwiched between the two above and below <==

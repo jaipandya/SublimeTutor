@@ -1,10 +1,10 @@
 Selecting lines
 ================
 
-* Shortcut - `Cmd + L`
-
 If you want to select a line, use the `Cmd + L` shortcut. Pressing it again
 selects next line consecutively.
+
+* Shortcut - `Cmd + L`
 
 Exercise
 ---------

@@ -28,7 +28,7 @@ the toggle comments keyboard shortcut learned above to uncomment those lines.
   <!-- <li>second list item</li> -->
   <li>third list item</li>
   </ul>
-<!--   <div>
+  <!--   <div>
   </div> -->
 </div>
 ```
