@@ -239,7 +239,7 @@ p { margin: 10px 0; }
 		 	backface-visibility: hidden;
 }
 
-.layer div p {
+.layer div.fade p {
 	opacity: 0.3;
 	font-family: "Montserrat", arial, sans-serif;
 }
