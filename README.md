@@ -38,19 +38,37 @@ acquired skills are well persisted.
 Requirements
 -------------
 
-1. You have Sublime Text 3 installed on your system. If not, you can download
-   it from here: https://www.sublimetext.com/3
-2. You are a Mac user (Window / Linux users should also be okay with minimal 
-   changes, but for now the guide is only tested on Mac)
-3. Level - beginner / intermediate
+You have Sublime Text 3 installed on your system. If not, you can download it
+from here: https://www.sublimetext.com/3. In case if you are on version 2, you
+can clone this GIT repository on your system and follow the instructions in
+`tutorial` directory inside. Some shortcuts and features discussed would be
+ST3 only, but you'd know about it then.
+
+Having said that, there is no reason that you should be using Sublime Text 2. A
+lot of improvements have been made since the version 2 and the latest version
+is stable enough to do most of the things. Unless, your life depends on a plugin
+that is only supported by ST2. I can't help you then.
 
 Installation
 -------------
 
 Via [Package Control](https://Sublime.wbond.net/):
 
-Press `Cmd + Shift + P` to bring Package Control search dialog in front and search
-for `Sublime Tutor`
+1. Press `Cmd + Shift + P` to bring command palette in front
+2. Type `Install Package` and press enter.
+3. Search for `Sublime Tutor` and press enter to install the plugin.
+
+Note:
+
+Until Sublime Tutor makes its way into the official package control channel,
+you'll need to manually add this repository in Package Control and then search
+for `SublimeTutor`. 
+
+1. To add this repository, press `Cmd+ + Shift + P`, enter command
+   `Package Control: Add Repository` and enter this repository's URL in the
+   input field (https://github.com/jaipandya/sublimetutor)
+2. Once the repository is added, you can follow the usual installation steps
+   described above
 
 Manual Installation:
 
@@ -63,25 +81,32 @@ Manual Installation:
 4. Restart Sublime Text
 
 
-Symbols Used in this guide
----------------------------
-
-    Cmd – the Command Key symbol
-    Ctrl - the Control Key symbol
-    Option – the Option Key symbol
-    Shift – the Shift Key symbol
-    Esc – the ESC Key symbol
-    Return – the Return symbol
-    Delete – the Delete / Backspace symbol
-
 Getting Started
 ----------------
 
 If you haven't already, install Sublime Tutor using the installation steps
 given above.
 
-Once Sublime Tutor is installed, press `Ctrl + Option + K` keyboard shortcut to open
-this file in Sublime Text. Another option is to go to `Help > Sublime 
-Tutor` menu option to open this.
+Once Sublime Tutor is installed, press `Ctrl + Option + K` keyboard shortcut to
+open this file in Sublime Text. Another option is to go to 
+`Help > Sublime Tutor` menu option to open this.
+
+Via Command Palette:
+
+1. `Cmd + Shift + P` to get the command palette in front.
+2. Type `Sublime Tutor`, select the first command that comes up to start the
+   interactive guide.
+
+
+Symbols Used in this guide
+---------------------------
+
+    `Cmd` – Command Key
+    `Ctrl` - Control Key
+    `Option` – Option Key
+    `Shift` – Shift Key
+    `Esc` – Escape Key
+    `Return` – Return Key
+    `Delete` – Delete / Backspace Key
 
 [1]: https://git-scm.com/ "Git is a version control system"
