@@ -54,7 +54,8 @@ Installation
 
 Via [Package Control](https://Sublime.wbond.net/):
 
-1. Press `Cmd + Shift + P` to bring command palette in front
+1. Press <kbd>Cmd</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd> to bring command palette
+   in front
 2. Type `Install Package` and press enter.
 3. Search for `Sublime Tutor` and press enter to install the plugin.
 
@@ -64,9 +65,9 @@ Until Sublime Tutor makes its way into the official package control channel,
 you'll need to manually add this repository in Package Control and then search
 for `SublimeTutor`. 
 
-1. To add this repository, press `Cmd+ + Shift + P`, enter command
-   `Package Control: Add Repository` and enter this repository's URL in the
-   input field (https://github.com/jaipandya/sublimetutor)
+1. To add this repository, press <kbd>Cmd</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd>,
+   enter command `Package Control: Add Repository` and enter this repository's
+   URL in the input field (https://github.com/jaipandya/sublimetutor)
 2. Once the repository is added, you can follow the usual installation steps
    described above
 
@@ -87,13 +88,14 @@ Getting Started
 If you haven't already, install Sublime Tutor using the installation steps
 given above.
 
-Once Sublime Tutor is installed, press `Ctrl + Option + K` keyboard shortcut to
-open this file in Sublime Text. Another option is to go to 
+Once Sublime Tutor is installed, press <kbd>Ctrl</kbd>+<kbd>Option</kbd>+<kbd>K</kbd>
+keyboard shortcut to open this file in Sublime Text. Another option is to go to 
 `Help > Sublime Tutor` menu option to open this.
 
 Via Command Palette:
 
-1. `Cmd + Shift + P` to get the command palette in front.
+1. <kbd>Cmd</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd> to get the command palette in
+   front.
 2. Type `Sublime Tutor`, select the first command that comes up to start the
    interactive guide.
 
@@ -101,12 +103,12 @@ Via Command Palette:
 Symbols Used in this guide
 ---------------------------
 
-    `Cmd` – Command Key
-    `Ctrl` - Control Key
-    `Option` – Option Key
-    `Shift` – Shift Key
-    `Esc` – Escape Key
-    `Return` – Return Key
-    `Delete` – Delete / Backspace Key
+    `Cmd` – <kbd>Command</kbd> Key
+    `Ctrl` - <kbd>Control</kbd> Key
+    `Option` – <kbd>Option</kbd> Key
+    `Shift` – <kbd>Shift</kbd> Key
+    `Esc` – <kbd>Escape</kbd> Key
+    `Return` – <kbd>Return</kbd> Key
+    `Delete` – <kbd>Delete</kbd> / <kbd>Backspace</kbd> Key
 
 [1]: https://git-scm.com/ "Git is a version control system"
