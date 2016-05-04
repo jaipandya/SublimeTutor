@@ -103,12 +103,12 @@ Via Command Palette:
 Symbols Used in this guide
 ---------------------------
 
-    `Cmd` – <kbd>Command</kbd> Key
-    `Ctrl` - <kbd>Control</kbd> Key
-    `Option` – <kbd>Option</kbd> Key
-    `Shift` – <kbd>Shift</kbd> Key
-    `Esc` – <kbd>Escape</kbd> Key
-    `Return` – <kbd>Return</kbd> Key
-    `Delete` – <kbd>Delete</kbd> / <kbd>Backspace</kbd> Key
+* `Cmd` – <kbd>Command</kbd> Key
+* `Ctrl` - <kbd>Control</kbd> Key
+* `Option` – <kbd>Option</kbd> Key
+* `Shift` – <kbd>Shift</kbd> Key
+* `Esc` – <kbd>Escape</kbd> Key
+* `Return` – <kbd>Return</kbd> Key
+* `Delete` – <kbd>Delete</kbd> / <kbd>Backspace</kbd> Key
 
 [1]: https://git-scm.com/ "Git is a version control system"
