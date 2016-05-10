@@ -50,60 +50,6 @@ function initializeSite() {
         }
     });
 
-    // Contact Form
-    $(function() {
-        $('#contact').validate({
-
-            rules: {
-                name: {
-                    required: true,
-                    minlength: 2
-                },
-                email: {
-                    required: true,
-                    email: true
-                },
-                message: {
-                    required: true
-                }
-            },
-
-            messages: {
-                name: {
-                    required: "come on, you have a name don't you?",
-                    minlength: "your name must consist of at least 2 characters"
-                },
-                email: {
-                    required: "no email, no message"
-                },
-                message: {
-                    required: "um...yea, you have to write something to send this form.",
-                    minlength: "thats all? really?"
-                }
-            },
-            submitHandler: function(form) {
-                $(form).ajaxSubmit({
-                    type:"POST",
-                    data: $(form).serialize(),
-                    url:"contact.php",
-                    success: function() {
-                        $('#contact :input').attr('disabled', 'disabled');
-                        $('#contact').fadeTo( "slow", 0.15, function() {
-                            $(this).find(':input').attr('disabled', 'disabled');
-                            $(this).find('label').css('cursor','default');
-                            $('#success').fadeIn();
-                        });
-                    },
-                    error: function() {
-                        $('#contact').fadeTo( "slow", 0.15, function() {
-                            $('#error').fadeIn();
-                        });
-                    }
-                });
-            }
-        });
-    });
-
     // MailChimp Integration
     ajaxMailChimpForm($("#subscribe-form"), $("#subscribe-result"));
     // Turn the given MailChimp form into an ajax version of it.
@@ -140,6 +86,7 @@ function initializeSite() {
         // Submit the form with an ajax/jsonp request.
         // Based on http://stackoverflow.com/a/15120409/215821
         function submitSubscribeForm($form, $resultElement) {
+            $form.find("input[type='submit']").prop('disabled', true);
             $.ajax({
                 type: "GET",
                 url: $form.attr("action"),
@@ -157,12 +104,14 @@ function initializeSite() {
                         if (data.msg && data.msg.indexOf("already subscribed") >= 0) {
                             message = "You're already subscribed. Thank you.";
                         }
+                        $form.fadeOut();
                         $resultElement.hide();
                         $resultElement.html(message);
                         $resultElement.fadeIn();
                         $resultElement.removeClass('notification-error');
                         $resultElement.addClass('notification-success');
                     } else {
+                        $form.fadeOut();
                         $resultElement.hide();
                         $resultElement.html("Thank you! You must confirm the subscription in your inbox.");
                         $resultElement.fadeIn();
@@ -171,6 +120,7 @@ function initializeSite() {
                     }
                 }
             });
+
     }
 
 };
