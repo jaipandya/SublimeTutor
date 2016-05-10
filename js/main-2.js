@@ -99,25 +99,21 @@ function initializeSite() {
                     // According to jquery docs, this is never called for cross-domain JSONP requests
                 },
                 success: function(data){
+                    $form.find('input').each(function(index, elem){ $(elem).fadeOut() });
                     if (data.result != "success") {
                         var message = data.msg || "Sorry. Unable to subscribe. Please try again later.";
                         if (data.msg && data.msg.indexOf("already subscribed") >= 0) {
                             message = "You're already subscribed. Thank you.";
                         }
-                        $form.fadeOut();
                         $resultElement.hide();
                         $resultElement.html(message);
-                        $resultElement.fadeIn();
-                        $resultElement.removeClass('notification-error');
-                        $resultElement.addClass('notification-success');
                     } else {
-                        $form.fadeOut();
                         $resultElement.hide();
                         $resultElement.html("Thank you! You must confirm the subscription in your inbox.");
-                        $resultElement.fadeIn();
-                        $resultElement.removeClass('notification-error');
-                        $resultElement.addClass('notification-success');
                     }
+                    $resultElement.fadeIn();
+                    $resultElement.removeClass('notification-error');
+                    $resultElement.addClass('notification-success');
                 }
             });
 
