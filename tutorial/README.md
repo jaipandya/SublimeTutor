@@ -73,10 +73,10 @@ Navigate to the first chapter
 
 The first feature you'll learn is 'Goto anything' shortcut. Use `Cmd + P` and 
 then type `1`, this would give you a list of files matched. Select
-the first option (`1.md`) using `Down` (down) arrow key followed by `Return` (Return).
+the first option (`1.md`) using `Down` arrow key followed by `Return`.
 
-When you press `Down` arrow key, Sublime show you a preview of the contents of the
-file. You can exit it anytime by pressing `Esc` (escape) key on you keyboard.
+When you press `Down` arrow key, Sublime show you a preview of the contents of
+the file. You can exit it anytime by pressing `Esc` key on you keyboard.
 
 Tip:
 
