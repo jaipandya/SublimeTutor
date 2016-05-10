@@ -30,7 +30,7 @@ Exercise 2
 -----------
 
 The block below has some words that need to be deleted. Move your cursor to the
-end of the word that needs to be deleted and use `Cmd + Delete` shortcut to
+end of the word that needs to be deleted and use `Option + Delete` shortcut to
 remove that word.
 
 ```
