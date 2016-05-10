@@ -54,12 +54,14 @@ Installation
 
 Via [Package Control](https://Sublime.wbond.net/):
 
-1. Press <kbd>Cmd</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd> to bring command palette
+1. Install [Package Control](https://Sublime.wbond.net/) if already not installed:
+   https://packagecontrol.io/installation#st3
+2. Press <kbd>Cmd</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd> to bring command palette
    in front
-2. Type `Install Package` and press enter.
-3. Search for `Sublime Tutor` and press enter to install the plugin.
+3. Type `Install Package` and press enter.
+4. Search for `Sublime Tutor` and press enter to install the plugin.
 
-Note:
+### Note:
 
 Until Sublime Tutor makes its way into the official package control channel,
 you'll need to manually add this repository in Package Control and then search
@@ -71,14 +73,17 @@ for `SublimeTutor`.
 2. Once the repository is added, you can follow the usual installation steps
    described above
 
-Manual Installation:
+### Manual Installation:
 
 1. Make sure you have [git][1] already installed.
 2. `cd` into the `Packages` directory of Sublime Text 3. On Mac, it usually 
    resides at the following path: `~/Library/Application Support/Sublime Text 3
-   /Packages/`
+   /Packages/`. Alternatively you can open in via a menu item:
+   `Preferences > Browse Packages...`
 3. Once you are inside Packages directory, clone this repository:
-   `git clone git@github.org:jai/sublimetutor.git`
+   `git clone git@github.org:jai/sublimetutor.git`. Alternatively download and
+   extract the latest release for your platform here:
+   https://github.com/jaipandya/SublimeTutor/releases
 4. Restart Sublime Text
 
 
