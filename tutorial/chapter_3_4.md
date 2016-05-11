@@ -15,7 +15,7 @@ Exercise
 ---------
 
 In the block given below, select all the occurrences of the word `phone`
-and change it to `android`. 
+and change it to `android`.
 
 1. Place your cursor on the word `phone`.
 2. Press `Cmd + D` as many times as it appears in the list.
@@ -48,10 +48,11 @@ Exercise
 ---------
 
 In the block given below, select all the occurrences of the word `phone`
-and change it to `android`. 
+and change it to `android`.
 
 1. Place your cursor on the word `phone`.
-2. Press `Cmd + D` as many times as it appears in the list.
+2. Select the word with the mouse so that `phone` is now highlighted.
+3. Press `Cmd + D` as many times as it appears in the list.
 3. When 'phone' in 'iphone' gets selected, skip it using `Cmd + K, Cmd + D`.
 4. Once all of them are selected, delete them and replace with `android`.
 
@@ -72,3 +73,7 @@ phone
 windows
 
 ```
+
+Pro Tip: To mitigate the need to use the skip shortcut, select the initial
+word using the `Cmd + D` shortcut. This switches the matching from fuzzy
+matching to word boundary matching and so `iphone` will not be matched.
