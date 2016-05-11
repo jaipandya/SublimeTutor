@@ -6,7 +6,7 @@ Copy and pasting with a twist
 1. Selection
 
 Select an area, press `Ctrl + C` to copy its contents. It is now in your clip-
-board. You can use `Ctrl + P` to paste it anywhere. This is how copy and paste
+board. You can use `Ctrl + V` to paste it anywhere. This is how copy and paste
 works system wide. Fair enough.
 
 2. Line
