@@ -28,6 +28,6 @@ Revision
 
 * Delete to beginning of the line - `Cmd + Delete`
 * Delete to end of the line - `Ctrl + K`
-* Delete word back - `Cmd + Delete`
+* Delete word back - `Option + Delete`
 * Delete a line - `Ctrl + Shift + K`
 * Cut a line - `Cmd + X`

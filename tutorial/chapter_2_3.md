@@ -31,7 +31,7 @@ chapter. (select all, copy and paste have usual system level shortcuts)
 Revision
 ---------
 
-* Delete word back - `Cmd + Delete`
-* Delete word forward - `Cmd + fn + Delete`
+* Delete word back - `Option + Delete`
+* Delete word forward - `fn + Option + Delete`
 * Insert line after - `Cmd + Return`
 * Insert line before - `Cmd + Shift + Return`
