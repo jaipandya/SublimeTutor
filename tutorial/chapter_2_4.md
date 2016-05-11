@@ -57,5 +57,5 @@ Revision
 
 * Delete to beginning of the line - `Cmd + Delete`
 * Delete to end of the line - `Ctrl + K`
-* Delete word back - `Cmd + Delete`
-* Delete word forward - `Cmd + fn + Delete`
+* Delete word back - `Option + Delete`
+* Delete word forward - `fn + Option + Delete`
