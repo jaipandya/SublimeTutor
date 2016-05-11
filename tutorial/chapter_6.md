@@ -41,7 +41,7 @@ Exercise
 To see all the command that gets executed when you press a shortcut or select
 a menu item, do the following.
 
-1. Open the python consoel - `Ctrl + Backticks`
+1. Open the python console - `Ctrl + Backticks`
 2. Type `Sublime.log_commands(True)` in the input box and press enter
 3. Now whatever you do, Sublime will spit out the command name in the output 
    box.
