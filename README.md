@@ -106,3 +106,25 @@ Symbols Used in this guide
 * `Delete` – <kbd>Delete</kbd> / <kbd>Backspace</kbd> Key
 
 [1]: https://git-scm.com/ "Git is a version control system"
+
+
+Contributing
+-------------
+
+1. Give feedback.
+   If you went through the course and think a particular thing can be done in
+   a different way, you want a feature covered, or there was something that you
+   specially liked, please let me know via a tweet (twitter.com/jaipandya) or
+   email (hello at jai dot im)
+2. Issues
+   Found an issue? Typo, error or a topic needs more details, please create an
+   issue by going to https://github.com/jaipandya/sublimetutor/issues
+2. Pull request
+   Are you comfortable with git? If you know solution to any of the issues
+   listed above, fork the repository, make your changes and create a PR with
+   your changes. Refer to the branches section below while making these changes.
+
+### Branches
+
+All osx platform related changes go in the `master` branch of this repository
+while all windows / linux related changes go in `win/linux` branch.
