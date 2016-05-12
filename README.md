@@ -61,17 +61,6 @@ Via [Package Control](https://Sublime.wbond.net/):
 3. Type `Install Package` and press enter.
 4. Search for `Sublime Tutor` and press enter to install the plugin.
 
-### Note:
-
-Until Sublime Tutor makes its way into the official package control channel,
-you'll need to manually add this repository in Package Control and then search
-for `SublimeTutor`. 
-
-1. To add this repository, press <kbd>Cmd</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd>,
-   enter command `Package Control: Add Repository` and enter this repository's
-   URL in the input field (https://github.com/jaipandya/sublimetutor)
-2. Once the repository is added, you can follow the usual installation steps
-   described above
 
 ### Manual Installation:
 
