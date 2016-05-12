@@ -49,8 +49,8 @@ Installation
 
 Via [Package Control](https://Sublime.wbond.net/):
 
-Press `^ + ⇧ + P` to bring Package Control search dialog in front and search
-for `Sublime Tutor`
+Press `Ctrl + Shift + P` to bring Package Control search dialog in front and
+search for `Sublime Tutor`
 
 Manual Installation:
 
@@ -62,26 +62,14 @@ Manual Installation:
    `git clone git@github.org:jai/sublimetutor.git`
 4. Restart Sublime Text
 
-
-Symbols Used in this guide
----------------------------
-
-    ^ - the Control Key symbol
-    ⌥ – the Alt / Option Key symbol
-    ⇧ – the Shift Key symbol
-    ⎋ – the ESC Key symbol
-    ⇪ – the Capslock symbol
-    ⏎ – the Return symbol
-    ⌫ – the Delete / Backspace symbol
-
 Getting Started
 ----------------
 
 If you haven't already, install Sublime Tutor using the installation steps
 given above.
 
-Once Sublime Tutor is installed, press `^ + ⌥ + K` keyboard shortcut to open
-this file in Sublime Text. Another option is to go to `Help > Sublime 
+Once Sublime Tutor is installed, press `Ctrl + Alt + K` keyboard shortcut to
+open this file in Sublime Text. Another option is to go to `Help > Sublime 
 Tutor` menu option to open this.
 
 [1]: https://git-scm.com/ "Git is a version control system"

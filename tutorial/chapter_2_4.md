@@ -37,7 +37,7 @@ Exercise 2
 
 There are six unique lines written below, you need to sort them and make sure
 all their duplicates are deleted. So in the end the remaining list should have
-just 6 items. To do this, use `Ctrl + X` to cut a line, `Alt + Return` to enter
+just 6 items. To do this, use `Ctrl + X` to cut a line, `Ctrl + Return` to enter
 a new line below a certain line, `Ctrl + V` to paste that line back. Once 
 they are sorted, delete the lines which are not required using
 `Ctrl + Shift + K`.
@@ -57,7 +57,7 @@ Revision
 ---------
 
 * Delete to beginning of the line - `Ctrl + Shift + Backspace`
-* Delete to end of the line - `Ctrl + K`
+* Delete to end of the line - `Ctrl + K K`
 * Paste from history - `Ctrl + K, Ctrl + V`
 
 Move to next chapter now.

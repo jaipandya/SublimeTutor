@@ -1,14 +1,14 @@
 Joining lines
 ==============
 
-Sublime Text makes it conveniently easy for you two join two lines into one.
+Sublime Text makes it conveniently easy for you to join two lines into one.
 
 Join two lines - `Ctrl + J`
 
 Exercise
 ---------
 
-You can notice pairs of lines below. Join the pair of lines into one to form 
+You can notice pairs of lines below. Join the pair of lines into one to form
 one long sentence. Put the cursor anywhere on the first line and press
 `Ctrl + J`
 

@@ -41,7 +41,7 @@ Shortcuts you learned in this module
 * Insert line before - `Ctrl + Shift + Return`
 * Insert line after - `Ctrl + Return`
 * Delete to beginning of the line - `Ctrl + Shift + Backspace`
-* Delete to end of the line - `Ctrl + K`
+* Delete to end of the line - `Ctrl + K K`
 * Delete a line - `Ctrl + Shift + K`
 * Cut a line - `Ctrl + X`
 * Soft undo - `Ctrl + U`

@@ -2,7 +2,8 @@ Delete to end / beginning of the line
 ======================================
 
 * Delete to beginning of the line - `Ctrl + Shift + Backspace`
-* Delete to end of the line - `Ctrl + K`
+* Delete to end of the line - `Ctrl + K K` (press `K` twice while `Ctrl` is
+  pressed)
 
 
 Exercise
