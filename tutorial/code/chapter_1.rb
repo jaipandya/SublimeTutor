@@ -11,7 +11,7 @@
 #
 # 1. Press `Cmd + R` to get a list of symbols in the current file
 # 2. Type `F` to filter the class definition from the list of symbols
-# 3. Press Return `Return` to go to `Foo` class
+# 3. Press `Return` to go to `Foo` class
 # 4. Rename the class name from `Foo` to `Bar` (`Foo` is already selected)
 # 5. Now press `Cmd + R` again and go to the definition of `bar1`
 # 6. Rename the method name from `bar1` to `bar_1`
