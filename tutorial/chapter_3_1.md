@@ -75,5 +75,5 @@ That was good. You are already on the road to becoming multiple selection
 expert in Sublime Text. Press `Esc` key anytime to switch back to single
 selection mode anytime.
 
-Let's go to the next chapter chapter_3_1.md which will introduce us to column
+Let's go to the next chapter chapter_3_2.md which will introduce us to column
 selection techniques.
