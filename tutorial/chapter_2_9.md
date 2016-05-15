@@ -8,13 +8,6 @@ with just one keystroke?
 
 `F5` to the rescue.
 
-Note: in some setups the shortcut may be mapped to `Ctrl + F5` without the Fn
-key, which will perform a case-sensitive sort. If the case-insensitive sort
-has no shortcut assigned (see under the menu by navigating to Edit > Sort Lines)
-you can map this yourself by adding your choice of keys to your "user key bindings
-file". Open this by navigating to the menu item via
-"Sublime Text > Preferences > Key Bindings - User"
-
 Unlike other text transformation commands, this one uses function keys to
 do the magic. To remember, correlate `5` with the shape of `S` in `S`orting.
 
