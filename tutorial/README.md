@@ -49,7 +49,7 @@ Symbols Used in this guide
 Getting Started
 ----------------
 
-You can use `Ctrl + Option + K` keyboard anytime shortcut to open sublime tutor.
+You can use `Ctrl + Option + K` keyboard shortcut anytime to open sublime tutor.
 Another option is to go to `Help > Sublime Tutor` menu option to open this.
 
 Tip: Invoke Sublime Text 3 from OSX command line:
