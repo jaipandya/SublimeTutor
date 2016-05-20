@@ -40,7 +40,7 @@ There are a some words fun that don't belong paper in this sentence.
 Revision
 ---------
 
-You studied couple of shortcuts to insert a line before and after. Place your
+You studied a couple of shortcuts to insert a line before and after. Place your
 cursor on the line with `<==` below. Use the shortcut to add line before and
 then add a line after.
 
