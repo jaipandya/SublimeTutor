@@ -21,7 +21,7 @@ Exercise
 2. Search for the term `phone` in this document
 3. Cycle through all the occurrences using `F3`, press this multiple times
    until you get comfortable with this command.
-4. Cycle in the opposite order using `Alt + F3`, press this multiple times
+4. Cycle in the opposite order using `Shift + F3`, press this multiple times
    until you get comfortable with this command.
 5. Now press `Alt + F3` to find all the instances of `phone` and enter
    `multiple selection` mode described in earlier module.
