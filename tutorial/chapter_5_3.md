@@ -35,11 +35,11 @@ to replace it with an empty string.
 
 ```
 
-__________
+~~~~~~~~~~
 
-__________
+~~~~~~~~~~
 
-__________
+~~~~~~~~~~
 
 ~~~~~~~~~~
 
@@ -60,14 +60,12 @@ Let's try this in practice now.
 Exercise
 ---------
 
-1. In the exercise block above, select the first line that contains 
-   underscores (Use the word selection command you learned in previous 
-   chapters for that).
-2. Now first press `Cmd + E` so 10 hyphens take the place of find term.
+1. In the exercise block above, place your cursor anywhere on the first line
+   that contains a series of `underscore` characters.
+2. Now first press `Cmd + E` so 10 underscores take the place of find term.
 3. Now go to the fourth line which has series of `tilda` characters in it.
-4. Press `Cmd + D` to select this term.
-5. Press `Cmd + Shift + E`, this copies an empty string in the replace field of
-   replace panel.
-4. Now press `Cmd + Option + E` three times, this should replace all three
-   strings with an empty one.
+5. Press `Cmd + Shift + E`, this copies the series of tilda characters in the
+   replace field of replace panel.
+4. Now press `Cmd + Option + E` four times, this should replace all three
+   strings with the series of tilda.
    
