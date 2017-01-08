@@ -8,6 +8,7 @@ generally like to wrap paragraphs at 80 characters ruler limit. So I write
 paragraphs with long sentences and later apply this shortcut to wrap them at
 column 80.
 
+
 Exercise
 ---------
 

@@ -14,6 +14,7 @@ For more advanced cases, we would like to open the `Find...` panel.
 * Find previous - `Shift + F3`
 * Find all - `Alt + F3` or `Alt + Return` when find panel is open
 
+
 Exercise
 ---------
 
@@ -45,14 +46,16 @@ windows
 
 ```
 
+
 Use selection to find
------------------------
+----------------------
 
 Shortcut - `Ctrl + E`
 
 This commands puts the selection or the word on which the cursor is pointing
 into the find buffer. So next time when you open find panel, or press `F3`
 this search term is used for finding stuff.
+
 
 Exercise
 ---------

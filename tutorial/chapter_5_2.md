@@ -19,6 +19,7 @@ regular find `Esc` key plays that role.
 I'm not recommending to practice it. Though, if you wish you have the
 following exercise.
 
+
 Exercise
 ---------
 
@@ -29,8 +30,8 @@ Exercise
 4. Press `Ctrl + I` and type `phone` again.
 3. Cycle through all the occurrences using `Ctrl + I`, press this multiple times
    until you get comfortable with this command.
-4. Cycle in the opposite order using `Ctrl + Shift + I`, press this multiple times
-   until you get comfortable with this command.
+4. Cycle in the opposite order using `Ctrl + Shift + I`, press this multiple
+   times until you get comfortable with this command.
 5. Now press `Alt + Return` to find all the instances of `phone` and enter
    `multiple selection` mode described in earlier module.
 6. Press `Return` to exit the multiple selection mode.

@@ -7,6 +7,7 @@ of your code to get a larger picture.
 * Fold one level - `Ctrl + Shift + [`
 * Unfold code one level - `Ctrl + Shift + ]`
 
+
 Exercise
 ---------
 
@@ -33,7 +34,6 @@ Let's try this with the following HTML code structure.
     </div>
   </body>
 </html>
-
 
 ```
 

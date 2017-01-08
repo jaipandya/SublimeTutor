@@ -11,11 +11,12 @@ selected, now press `Ctrl + D` as many times as it appears in the document.
 This puts us in multiple cursor mode and we can do some editing operations
 on the selected occurrences.
 
+
 Exercise
 ---------
 
 In the block given below, select all the occurrences of the word `phone`
-and change it to `android`. 
+and change it to `android`.
 
 1. Place your cursor on the word `phone`.
 2. Press `Ctrl + D` as many times as it appears in the list.
@@ -37,18 +38,20 @@ windows
 
 ```
 
+
 Quick skip word
 ----------------
 
 While you use `Ctrl + D` to select multiple occurrences of a word, if there is
-a word that you don't want to select, use `Ctrl + K followed by `Ctrl + D` to skip
-the word under cursor.
+a word that you don't want to select, use `Ctrl + K followed by `Ctrl + D` to
+skip the word under cursor.
+
 
 Exercise
 ---------
 
 In the block given below, select all the occurrences of the word `phone`
-and change it to `android`. 
+and change it to `android`.
 
 1. Place your cursor on the word `phone`.
 2. Select the word with the mouse so that `phone` is now highlighted.

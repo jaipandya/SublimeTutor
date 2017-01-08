@@ -11,6 +11,7 @@ for `HTML` it is `<!-- comment -->` while for JavaScript it is `//` or `/* */`
 
 Toggle comments - `Ctrl + /`
 
+
 Exercise
 ---------
 
@@ -20,8 +21,8 @@ comments.
 In the block given below, some of the lines are wrapped in HTML comments. Use
 the toggle comments keyboard shortcut learned above to uncomment those lines.
 
-
 ```
+
 <div>
   <ul>
   <!-- <li>first list item</li> -->
@@ -31,6 +32,7 @@ the toggle comments keyboard shortcut learned above to uncomment those lines.
 <!--   <div>
   </div> -->
 </div>
+
 ```
 
 Sublime wraps / unwraps them in HTML comments because this particular file is

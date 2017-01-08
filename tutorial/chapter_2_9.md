@@ -11,15 +11,15 @@ with just one keystroke?
 Unlike other text transformation commands, this one uses function keys to
 do the magic. To remember, correlate `5` with the shape of `S` in `S`orting.
 
+
 Exercise
 ---------
 
 Let's do the same exercise again using this shortcut now.
 
 1. First, drag select the block. Use `F9` directly to sort all these lines.
-2. Now delete the lines using `delete line` shortcut you learned in unit 4 of 
+2. Now delete the lines using `delete line` shortcut you learned in unit 4 of
    this module.
-
 
 ```
 

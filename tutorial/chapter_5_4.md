@@ -11,12 +11,12 @@ Shortcut - `Ctrl + F3`
 Select a term or put your cursor on a word and press `Ctrl + F3` to find other
 occurrences of it in the document.
 
+
 Exercise
 ---------
 
 1. In the list given below, put your cursor on the term `phone` and then use
-   the shortcut `Ctrl + F3` to cycle through all other occurrences of this 
-   word.
+   the shortcut `Ctrl + F3` to cycle through all other occurrences of this word.
 2. Do the same with all other terms (windows, iOS, OSX...) in the list.
 
 ```
@@ -35,6 +35,7 @@ windows
 
 ```
 
+
 Quick find previous
 ====================
 
@@ -42,7 +43,8 @@ While quick find command executes in top to bottom order, quick find previous
 command does exactly the same thing but in the opposite order.
 
 Shortcut - `Ctrl + Shift + F3`
- 
+
+
 Exercise
 ---------
 
@@ -62,7 +64,8 @@ selected search term?
 Quick find all command will help us achieve that.
 
 Shortcut - `Alt + F3`
- 
+
+
 Exercise
 ---------
 

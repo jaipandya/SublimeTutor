@@ -6,6 +6,7 @@ Shortcut - `Ctrl + L`
 If you want to select a line, use the `Ctrl + L` shortcut. Pressing it again
 selects next line consecutively.
 
+
 Exercise
 ---------
 

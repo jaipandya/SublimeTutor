@@ -11,6 +11,7 @@ come in handy.
 * Replace next - `Ctrl + Shift + H`
 * Replace all - `Ctrl + Alt + Return` (Only when replace panel is open)
 
+
 Exercise
 ---------
 
@@ -31,7 +32,6 @@ to replace it with an empty string.
     string.
 11. Press `Ctrl + Z` multiple times to go back to the original state.
 
-
 ```
 
 __________
@@ -43,6 +43,7 @@ __________
 ~~~~~~~~~~
 
 ```
+
 
 Use selection for replace
 --------------------------
@@ -56,16 +57,17 @@ Shortcut - `Ctrl + Shift + E`
 
 Let's try this in practice now.
 
+
 Exercise
 ---------
 
-1. In the exercise block above, select the first line that contains 
-   underscores (Use the word selection command you learned in previous 
+1. In the exercise block above, select the first line that contains
+   underscores (Use the word selection command you learned in previous
    chapters for that).
 2. Now first press `Ctrl + E` so 10 hyphens take the place of find term.
 3. Now go to the fourth line which has series of tilda `~` characters in it.
 4. Press `Ctrl + D` to select this term.
 5. Press `Ctrl + Shift + E`, this copies an empty string in the replace field
    of replace panel.
-4. Now press `Ctrl + Shift + E` three times, this should replace all three
+6. Now press `Ctrl + Shift + E` three times, this should replace all three
    strings with an empty one.

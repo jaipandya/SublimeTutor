@@ -9,11 +9,12 @@ Shortcut - `Ctrl + Shift + M`
 Place your cursor anywhere between a pair of brackets and press
 `Ctrl + Shift + M` to select the content between the two brackets.
 
+
 Exercise
 ---------
 
 In the code segment below, select the content written in the brackets
-of the `while` condition, and replace it with `!done`. For selecting the 
+of the `while` condition, and replace it with `!done`. For selecting the
 content between the two brackets, use the shortcut `Ctrl + Shift + M`.
 
 ```

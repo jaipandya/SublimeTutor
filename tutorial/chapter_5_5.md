@@ -11,6 +11,7 @@ Shortcut - `Ctrl + Shift + F`
 
 Let us search for some terms project wide and come back to this chapter then.
 
+
 Exercise
 ---------
 

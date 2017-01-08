@@ -6,6 +6,7 @@ understanding of the features supported by Sublime Text 3. There are two other
 frequently used commands which are specific to Sublime Text setting and its
 python console.
 
+
 Sublime Text Settings
 ======================
 
@@ -14,6 +15,7 @@ Shortcut - Click on the menu item: `Preferences > Settings - Default`
 This gives you Sublime Text Default settings. It is a json file where you can
 see all the default settings. If you want to override them, have a look at
 `Preferences > Settings - User` where user overridden settings are placed.
+
 
 Exercise
 ---------
@@ -37,6 +39,7 @@ spit out by running a command, this is where you would want to go.
 
 Shortcut - `Ctrl + Backtick` (Backtick is placed on the same key as `~`)
 
+
 Exercise
 ---------
 
@@ -45,10 +48,11 @@ a menu item, do the following.
 
 1. Open the python consoel - ' Ctrl + ` '
 2. Type `Sublime.log_commands(True)` in the input box and press enter
-3. Now whatever you do, Sublime will spit out the command name in the output 
+3. Now whatever you do, Sublime will spit out the command name in the output
    box.
 4. When you want to switch this functionality off, type
    `Sublime.log_commands(False)` in the input box and press enter.
+
 
 Command Palette
 ================
@@ -58,6 +62,7 @@ You get a list of commands which come baked by default from Sublime HQ, as
 well as commands added by plugins.
 
 Shortcut - `Ctrl + Shift + P`
+
 
 Exercise
 ---------
@@ -70,6 +75,7 @@ If you haven't seen it yet, there is a command entry for Sublime Tutor there.
 
 You can spend some time gazing through the commands listed there and feel free
 to play with them.
+
 
 Conclusion
 ===========

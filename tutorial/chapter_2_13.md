@@ -8,8 +8,9 @@ Close an HTML tag - `Alt + .`
 
 This shortcut comes in handy when creating new HTML elements. Most of the
 HTML elements have a opening and closing tag. Using this shortcut, once an
-open tag is created, in the same scope next if this shortcut is used, it 
+open tag is created, in the same scope next if this shortcut is used, it
 inserts corresponding closing tag at the cursor position.
+
 
 Exercise
 ---------
