@@ -9,8 +9,8 @@ come in handy.
 
 * Replace panel - `Cmd + Option + F`
 * Replace next - `Cmd + Option + E`
-* Replace all - `Ctrl + Option + Return` (Only when replace panel
-  is open)
+* Replace all - `Ctrl + Option + Return` (Only when replace panel is open)
+
 
 Exercise
 ---------
@@ -45,6 +45,7 @@ to replace it with an empty string.
 
 ```
 
+
 Use selection for replace
 --------------------------
 
@@ -57,6 +58,7 @@ In a similar way, this command puts the selected term in the replace field.
 
 Let's try this in practice now.
 
+
 Exercise
 ---------
 
@@ -68,4 +70,3 @@ Exercise
    replace field of replace panel.
 4. Now press `Cmd + Option + E` four times, this should replace all three
    strings with the series of tilda.
-   

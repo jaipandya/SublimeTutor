@@ -5,6 +5,7 @@ Sublime Text makes it conveniently easy for you to join two lines into one.
 
 * Join two lines - `Cmd + J`
 
+
 Exercise
 ---------
 
@@ -13,6 +14,7 @@ one long sentence. Put the cursor anywhere on the first line and press
 `Cmd + J`
 
 ```
+
 This is a candidate for joining with
 another sentence written on next line number.
 
@@ -21,7 +23,9 @@ two lines.
 
 Join this line with
 this line to form a longer line.
+
 ```
+
 
 Revision
 ---------

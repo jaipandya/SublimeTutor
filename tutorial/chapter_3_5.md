@@ -6,6 +6,7 @@ selects next line consecutively.
 
 * Shortcut - `Cmd + L`
 
+
 Exercise
 ---------
 

@@ -7,6 +7,7 @@ of your code to get a larger picture.
 * Fold one level - `Cmd + Option + [`
 * Unfold code one level - `Cmd + Option + ]`
 
+
 Exercise
 ---------
 
@@ -33,6 +34,5 @@ Let's try this with the following HTML code structure.
     </div>
   </body>
 </html>
-
 
 ```

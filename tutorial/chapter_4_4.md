@@ -1,11 +1,12 @@
 Goto matching bracket
 ======================
 
-This one is super useful while writing code. When your cursor is at one 
+This one is super useful while writing code. When your cursor is at one
 bracket position and you want to move to other matching bracket, use this
 shortcut
 
 * Shortcut - `Ctrl + M`
+
 
 Exercise
 ---------
@@ -19,7 +20,7 @@ This can be best described using some code block with brackets.
 ```
 
 function person(firstName, lastName, age, eyeColor) {
-    this.firstName = firstName;  
+    this.firstName = firstName;
     this.lastName = lastName;
     this.age = age;
     this.eyeColor = eyeColor;
@@ -27,6 +28,5 @@ function person(firstName, lastName, age, eyeColor) {
         this.lastName = name;
     }
 }
-
 
 ```

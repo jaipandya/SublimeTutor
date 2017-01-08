@@ -10,6 +10,7 @@ There are two shortcuts for this command. You can use anyone of them. I
 personally like the first flavor more because both the keys in `Ctrl + A` are
 easily in my reach while arrow keys tend to be slightly far.
 
+
 Goto end of a line
 ===================
 
@@ -21,6 +22,7 @@ most frequently used commands.
 As the case with `Goto beginning of a line` command, this command also has two
 shortcuts, you are free to memorize any of them.
 
+
 Exercise
 ---------
 
@@ -29,7 +31,6 @@ Exercise
 3. Move your cursor to the beginning (`Ctrl + A`) of that sentence
 4. Move your cursor to the end (`Ctrl + E`) of that sentence
 5. Move to the next line and repeat
-
 
 ```
 

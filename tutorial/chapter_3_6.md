@@ -9,11 +9,12 @@ content between a set of brackets. Sublime Text makes is really easy to do so.
 Place your cursor anywhere between a pair of brackets and press
 `Ctrl + Shift + M` to select the content between the two brackets.
 
+
 Exercise
 ---------
 
 The the code segment written below select the content written in the brackets
-of the `while` condition, and replace it with `!done`. For selecting the 
+of the `while` condition, and replace it with `!done`. For selecting the
 content between the two brackets, use the shortcut `Ctrl + Shift + M`.
 
 ```

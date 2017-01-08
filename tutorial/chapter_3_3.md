@@ -8,11 +8,12 @@ This splits it into one selection per line.
 Let's try this in practice by following the same exercise from the previous
 units.
 
+
 Exercise
 ---------
 
 In the list given below add an asterisk followed by space (`* `) at the
-beginning of each item. 
+beginning of each item.
 
 1. Drag select the whole block (from first item to the last one)
 2. Press `Cmd + Shift + L`, this splits the selections into multiple lines.
