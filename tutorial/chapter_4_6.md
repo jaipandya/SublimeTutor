@@ -20,7 +20,7 @@ Let's try this with the following HTML code structure.
 4. Now use the shortcut for unfolding code `Cmd + Option + ]` until full code
    is visible.
 
-```
+```html
 
 <!DOCTYPE html>
 <html>

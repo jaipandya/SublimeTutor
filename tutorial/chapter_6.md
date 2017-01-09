@@ -20,7 +20,7 @@ Exercise
 Try this command by typing `Cmd + ,` and add the key value pair given below on
 on the top level:
 
-```
+```json
 "spell_check": true
 ```
 

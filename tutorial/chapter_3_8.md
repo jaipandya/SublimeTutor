@@ -16,7 +16,7 @@ Exercise
 3. The selection will increase on every consecutive keystroke. (i.e. Keep the
    `Cmd` and `Shift` keys depressed and hit the `Space` key multiple times)
 
-```
+```js
 
 var CommentBox = React.createClass({
   render: function() {

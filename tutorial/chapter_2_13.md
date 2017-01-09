@@ -22,7 +22,7 @@ Exercise
 3. For <div> tag, move to next empty line after `</ul>` element and press
    `Cmd + Option + .` to generate </div> at that position.
 
-```
+```html
 
 <div>
 <ul>

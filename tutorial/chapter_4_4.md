@@ -17,7 +17,7 @@ This can be best described using some code block with brackets.
 2. Use `Ctrl + M` to move to the matching curly brace position
 3. Do the same with the other such pair
 
-```
+```js
 
 function person(firstName, lastName, age, eyeColor) {
     this.firstName = firstName;

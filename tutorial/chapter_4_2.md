@@ -15,7 +15,7 @@ Exercise
 2. Put your cursor on `Foo` and press `Goto definition` shortcut.
 3. The same thing for `bar1` and `bar2` below.
 
-```
+```ruby
 
 foo = Foo.new
 foo.bar1
