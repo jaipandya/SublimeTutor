@@ -16,7 +16,7 @@ Exercise
 3. The same thing for `bar1` and `bar2` below.
 4. Once you are done with this exercise, open chapter_4_3.md.
 
-```
+```ruby
 
 foo = Foo.new
 foo.bar1

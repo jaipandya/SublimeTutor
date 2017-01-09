@@ -17,7 +17,7 @@ In the code segment below, select the content written in the brackets
 of the `while` condition, and replace it with `!done`. For selecting the
 content between the two brackets, use the shortcut `Ctrl + Shift + M`.
 
-```
+```js
 
 var done = false;
 var counter = 1;

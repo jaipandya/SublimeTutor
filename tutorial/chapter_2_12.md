@@ -21,7 +21,7 @@ comments.
 In the block given below, some of the lines are wrapped in HTML comments. Use
 the toggle comments keyboard shortcut learned above to uncomment those lines.
 
-```
+```html
 
 <div>
   <ul>

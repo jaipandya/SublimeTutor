@@ -17,7 +17,7 @@ Exercise
    (i.e. Keep the `Ctrl` and `Shift` keys depressed and hit the `Space` key
    multiple times)
 
-```
+```js
 
 var CommentBox = React.createClass({
   render: function() {
