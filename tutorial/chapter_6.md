@@ -2,7 +2,7 @@ Other commands
 ===============
 
 There are two other frequently used commands which are specific to Sublime Text
-setting and its python console.
+setting and its Python console.
 
 
 Sublime Text Settings
@@ -43,12 +43,12 @@ Exercise
 To see all the command that gets executed when you press a shortcut or select
 a menu item, do the following.
 
-1. Open the python console - `Ctrl + Backticks`
-2. Type `Sublime.log_commands(True)` in the input box and press enter
+1. Open the Python console - `Ctrl + Backticks`
+2. Type `sublime.log_commands(True)` in the input box and press enter
 3. Now whatever you do, Sublime will spit out the command name in the output
    box.
 4. When you want to switch this functionality off, type
-   `Sublime.log_commands(False)` in the input box and press enter.
+   `sublime.log_commands(False)` in the input box and press enter.
 
 
 Command Palette

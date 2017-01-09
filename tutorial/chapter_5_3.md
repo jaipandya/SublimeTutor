@@ -27,19 +27,19 @@ to replace it with an empty string.
 7. Undo everything that you did (`Cmd + Z`)
 8. Type `Cmd + Option + F` to open find and replace terminal
 9. In the find field type 10 underscores
-9. Make sure that the replace field is empty
-10. Now press `Ctrl + Option + Return` to replace all the instances with empty
+10. Make sure that the replace field is empty
+11. Now press `Ctrl + Option + Return` to replace all the instances with empty
     string.
-11. Press `Cmd + Z` multiple times to go back to the original state.
+12. Press `Cmd + Z` multiple times to go back to the original state.
 
 
 ```
 
-~~~~~~~~~~
+__________
 
-~~~~~~~~~~
+__________
 
-~~~~~~~~~~
+__________
 
 ~~~~~~~~~~
 
@@ -66,7 +66,7 @@ Exercise
    that contains a series of `underscore` characters.
 2. Now first press `Cmd + E` so 10 underscores take the place of find term.
 3. Now go to the fourth line which has series of `tilda` characters in it.
-5. Press `Cmd + Shift + E`, this copies the series of tilda characters in the
+4. Press `Cmd + Shift + E`, this copies the series of tilda characters in the
    replace field of replace panel.
-4. Now press `Cmd + Option + E` four times, this should replace all three
+5. Now press `Cmd + Option + E` four times, this should replace all three
    strings with the series of tilda.

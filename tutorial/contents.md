@@ -19,7 +19,7 @@ Contents
 6.  Upper / lower case - `Cmd + K, Cmd + U` / `Cmd + K, Cmd + L`
 7.  Joining Lines - `Cmd + J`
 8.  Bubble the line up / down - `Ctrl + Cmd + up` / `Ctrl + Cmd + down`
-9.  Sort a line - `F5`
+9.  Sort lines - `F5`
 10. Duplicating a line - `Cmd + Shift + D`
 11. Indent - Unindent - `Cmd + ]`, `Cmd + [`
 12. Commenting a line - `Cmd + /`
