@@ -27,10 +27,10 @@ to replace it with an empty string.
 7. Undo everything that you did (`Ctrl + Z`)
 8. Type `Ctrl + H` to open find and replace terminal
 9. In the find field type 10 underscores
-9. Make sure that the replace field is empty
-10. Now press `Ctrl + Alt + Return` to replace all the instances with empty
+10. Make sure that the replace field is empty
+11. Now press `Ctrl + Alt + Return` to replace all the instances with empty
     string.
-11. Press `Ctrl + Z` multiple times to go back to the original state.
+12. Press `Ctrl + Z` multiple times to go back to the original state.
 
 ```
 

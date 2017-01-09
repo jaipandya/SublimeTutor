@@ -8,7 +8,7 @@ that Sublime Text provides.
 Column selection using mouse - `Shift + right click and drag`
 Keyboard shortcut - `Ctrl + Alt + Up` or `Ctrl + Alt + Down`
 
-For linux users, this one is slightly different for you:
+For Linux users, this one is slightly different for you:
 Keyboard shortcut - `Alt + Shift + Up` or `Alt + Shift + Down`
 
 

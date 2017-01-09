@@ -9,7 +9,7 @@ with just one keystroke?
 `F9` to the rescue.
 
 Unlike other text transformation commands, this one uses function keys to
-do the magic. To remember, correlate `5` with the shape of `S` in `S`orting.
+do the magic. To remember, correlate `9` with the shape of `S` in `S`orting.
 
 
 Exercise

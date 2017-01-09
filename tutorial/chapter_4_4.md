@@ -26,7 +26,7 @@ function person(firstName, lastName, age, eyeColor) {
     this.eyeColor = eyeColor;
     this.changeName = function (name) {
         this.lastName = name;
-    }
+    };
 }
 
 ```

@@ -13,13 +13,13 @@ Contents
 
 1.  Insert line before / after - `Ctrl + Shift + Return` / `Ctrl + Return`
 2.  Copy line / Paste from history - `Ctrl + C` / `Ctrl + K, Ctrl + V`
-3.  Delete to beginning / end - `Ctrl + Shift + Backspace` / `Ctrl + K`
+3.  Delete to beginning / end - `Ctrl + Shift + Backspace` / `Ctrl + K K`
 4.  Delete / Cut a line - `Ctrl + Shift + K` / `Ctrl + X`
 5.  Soft Undo / Redo - `Ctrl + U` / `Ctrl + Shift + U`
 6.  Upper / lower case - `Ctrl + K, Ctrl + U` / `Ctrl + K, Ctrl + L`
 7.  Joining Lines - `Ctrl + J`
 8.  Bubble the line up / down - `Ctrl + Shift + up` / `Ctrl + Shift + down`
-9.  Sort a line - `F9`
+9.  Sort lines - `F9`
 10. Duplicating a line - `Ctrl + Shift + D`
 11. Indent - Unindent - `Ctrl + ]`, `Ctrl + [`
 12. Commenting a line - `Ctrl + /`
@@ -74,6 +74,6 @@ Contents
 6. Others
 ----------
 
-Opening User settings - `^ + ,`
-Python Console - `^ + Backticks`
+Opening User settings - `Ctrl + ,`
+Python Console - `Ctrl + Backticks`
 Command Palette - `Ctrl + Shift + P`

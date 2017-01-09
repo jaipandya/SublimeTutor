@@ -29,7 +29,7 @@ Revision
 ---------
 
 * Delete to beginning of the line - `Ctrl + Shift + Backspace`
-* Delete to end of the line - `Ctrl + K`
+* Delete to end of the line - `Ctrl + K K`
 * Delete a line - `Ctrl + Shift + K`
 * Cut a line - `Ctrl + X`
 
