@@ -8,12 +8,13 @@ Contents
 2. Goto Symbol: `Ctrl + R`
 3. Goto Line: `Ctrl + G`
 
+
 2. Editing text
 ----------------
 
 1.  Insert line before / after - `Ctrl + Shift + Return` / `Ctrl + Return`
 2.  Copy line / Paste from history - `Ctrl + C` / `Ctrl + K, Ctrl + V`
-3.  Delete to beginning / end - `Ctrl + Shift + Backspace` / `Ctrl + K`
+3.  Delete to beginning / end - `Ctrl + Shift + Backspace` / `Ctrl + K K`
 4.  Delete / Cut a line - `Ctrl + Shift + K` / `Ctrl + X`
 5.  Soft Undo / Redo - `Ctrl + U` / `Ctrl + Shift + U`
 6.  Upper / lower case - `Ctrl + K, Ctrl + U` / `Ctrl + K, Ctrl + L`
@@ -27,13 +28,16 @@ Contents
 14. Wrap line at ruler - `Alt + Q`
 15. Transpose - `Ctrl + T`
 
+
 3. Selection
 -------------
 
 1.  Multiple selection - `Ctrl + clicks at multiple places`
 2.  Column Selection
-    `Ctrl + Alt + Up` or `Ctrl + Alt + Down` / `Esc` for going back to single
-3.  Split block of selection into multiple lines - `Ctrl + Shift + L`
+    `Ctrl + Alt + Up` and `Ctrl + Alt + Down` (or `Alt + Shift + Up` and `Alt
+     + Shift + Down` for Linux) or `Shift + Right-Mouse drag`/ `Esc` for going back to single
+3.  Split block of selection into multiple lines - select a block of text, 
+    then `Ctrl + Shift + L`
 4.  Select word with multiple occurrences - `Ctrl + D`
     Quick skip - `Ctrl + K, Ctrl + D`
 5.  Selecting a line - `Ctrl + L`
@@ -51,6 +55,7 @@ Contents
 4.  Goto matching bracket - `Ctrl + M`
 5.  Move back / forward in history - `Alt + -` / `Alt + Shift + -`
 6.  Code fold / unfold - `Ctrl + Shift + [` / `Ctrl + Shift + ]`
+
 
 5. Find
 --------
@@ -72,13 +77,13 @@ Contents
     Quick find all - `Alt + F3`
 5.  Find in project - `Ctrl + Shift + F`
 
+
 6. Others
 ----------
 
 Opening User settings - `^ + ,`
 Python Console - `^ + Backticks`
 Command Palette - `Ctrl + Shift + P`
-
 
 
 
