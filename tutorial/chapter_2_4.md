@@ -36,10 +36,9 @@ Exercise 2
 
 There are six unique lines written below, you need to sort them and make sure
 all their duplicates are deleted. So in the end the remaining list should have
-just 6 items. To do this, use `Cmd + X` to cut a line, `Cmd + Return` to
-enter a new line below a certain line, `Cmd + V` to paste that line back. Once
-they are sorted, delete the lines which are not required using
-`Ctrl + Shift + K`.
+just 6 items. To do this, use `Cmd + X` to cut a line including its line break,
+`Cmd + V` to paste that line back. Once they are sorted, delete the lines which 
+are not required using `Ctrl + Shift + K`.
 
 
 6. This is line number six
