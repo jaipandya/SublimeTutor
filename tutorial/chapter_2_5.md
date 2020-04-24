@@ -2,8 +2,8 @@ Soft Undo / Redo
 =================
 
 Shortcuts for `undo` and `redo` commands are `Ctrl + Z` and `Ctrl + Y`
-which is a standard on Mac. But here, we are talking about 'soft' undo and redo
-actions.
+which is a standard on Win/Linux. But here, we are talking about 'soft' undo
+and redo actions.
 
 Sublime has ability to track your cursor position in the history. So, when you
 move your cursor from one position to another, or select something, Sublime can
