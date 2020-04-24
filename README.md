@@ -71,7 +71,7 @@ Via [Package Control](https://Sublime.wbond.net/):
    /Packages/`. Alternatively you can open in via a menu item:
    `Preferences > Browse Packages...`
 3. Once you are inside Packages directory, clone this repository:
-   `git clone git@github.org:jai/sublimetutor.git`. Alternatively download and
+   `git clone git@github.com:jaipandya/SublimeTutor.git`. Alternatively download and
    extract the latest release for your platform here:
    https://github.com/jaipandya/SublimeTutor/releases
 4. Restart Sublime Text

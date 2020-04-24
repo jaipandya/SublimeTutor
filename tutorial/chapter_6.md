@@ -90,6 +90,6 @@ Also, Sublime Text Unofficial Documentation is a great resource for learning
 all the features in detail and advanced features.
 
 If you have queries, suggestions or feedback, please send them to me at my email
-ID: jai@mutabl.es
+ID: hello@jai.im
 
 I wish you all the best on your journey with Sublime Text.
