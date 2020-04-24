@@ -7,6 +7,7 @@ you could transpose words as well.
 
 * Transpose - `Ctrl + T`
 
+
 Exercise
 ---------
 
@@ -17,12 +18,16 @@ For example, in the first word `transpoes` which should actually be `transpose`
 place your cursor between the letters `e` and `s` and use the shortcut
 `Ctrl + T`
 
+```
 
 1. transpoes
 2. exercies
 3. shortctu
 4. edscribed
 5. usblime
+
+```
+
 
 Shortcuts you learned in this module
 -------------------------------------

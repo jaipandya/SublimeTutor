@@ -9,6 +9,7 @@ handy shortcut that Sublime Text provides.
 * Bubble the line up - `Ctrl + Cmd + up`
 * Bubble the line down - `Ctrl + Cmd + down`
 
+
 Exercise
 ---------
 
@@ -18,7 +19,6 @@ Let's do the same exercise again using these shortcuts now.
    in this unit (`Ctrl + Cmd + up`, `Ctrl + Cmd + down`)
 2. Now delete the lines using the shortcut to delete line you learned in unit 4
    of this module. Let's see if you still remember that or not?
-
 
 ```
 
@@ -34,6 +34,7 @@ Let's do the same exercise again using these shortcuts now.
 
 ```
 
+
 Revision
 ---------
 
@@ -41,6 +42,7 @@ Toggle the case of all the words given below. If the existing case is lower
 then make it upper, if the existing case is upper, then make it lower.
 
 ```
+
 TOGGLE
 case
 OF
@@ -50,4 +52,5 @@ WORDS
 of
 this
 BLOCK
+
 ```

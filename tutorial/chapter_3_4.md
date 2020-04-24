@@ -11,6 +11,7 @@ now press `Cmd + D` as many times as it appears in the document. This puts us
 in multiple cursor mode and we do some editing operations on the selected
 occurrences.
 
+
 Exercise
 ---------
 
@@ -37,12 +38,14 @@ windows
 
 ```
 
+
 Quick skip word
 ----------------
 
 While you use `Cmd + D` to select multiple occurrences of a word, if there is a
-word that you don't want to select, use `Cmd + K followed by Cmd + D` to skip the
-word under cursor.
+word that you don't want to select, use `Cmd + K followed by Cmd + D` to skip
+the word under cursor.
+
 
 Exercise
 ---------

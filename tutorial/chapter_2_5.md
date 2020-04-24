@@ -14,6 +14,7 @@ Shortcuts for soft undo and redo are:
 * Soft undo - `Cmd + U`
 * Soft redo - `Cmd + Shift + U`
 
+
 Exercise
 ---------
 
@@ -22,6 +23,7 @@ words, select some area, then again delete some words. Once you are done with
 that, use soft undo with `Cmd + U` shortcut to delete all this. Then try redoing
 it with `Cmd + Shift + U` and then undo that action again and come in the
 original position.
+
 
 Revision
 ---------

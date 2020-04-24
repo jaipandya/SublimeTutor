@@ -7,6 +7,7 @@ of your code to get a larger picture.
 * Fold one level - `Cmd + Option + [`
 * Unfold code one level - `Cmd + Option + ]`
 
+
 Exercise
 ---------
 
@@ -19,7 +20,7 @@ Let's try this with the following HTML code structure.
 4. Now use the shortcut for unfolding code `Cmd + Option + ]` until full code
    is visible.
 
-```
+```html
 
 <!DOCTYPE html>
 <html>
@@ -33,6 +34,5 @@ Let's try this with the following HTML code structure.
     </div>
   </body>
 </html>
-
 
 ```

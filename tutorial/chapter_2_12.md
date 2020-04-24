@@ -11,6 +11,7 @@ for `html` it is `<!-- comment -->` while for JavaScript it is `//` or `/* */`
 
 * Toggle comments - `Cmd + /`
 
+
 Exercise
 ---------
 
@@ -33,7 +34,6 @@ function Person(){
 }
 
 var p = new Person();
-
 
 ```
 

@@ -11,6 +11,7 @@ This is equivalent to `grep` command of the shell world.
 
 Let us search for some terms project wide and come back to this chapter then.
 
+
 Exercise
 ---------
 

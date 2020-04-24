@@ -7,6 +7,7 @@ Indent / Unindent
 These shortcuts indent / unindent the selected lines. If no line is selected
 then the current line is moved.
 
+
 Exercise
 ---------
 

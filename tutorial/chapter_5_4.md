@@ -11,6 +11,7 @@ that.
 Select a term or put your cursor on a word and press `Cmd + Option + G` to find
 other occurrences of it in the document.
 
+
 Exercise
 ---------
 
@@ -35,6 +36,7 @@ windows
 
 ```
 
+
 Quick find previous
 ====================
 
@@ -42,6 +44,7 @@ While quick find command executes in top to bottom order, quick find previous
 command does exactly the same thing but in the opposite order.
 
 * Shortcut - `Cmd + Option + Shift + G`
+
 
 Exercise
 ---------
@@ -62,7 +65,8 @@ selected search term?
 Quick find all command will help us achieve that.
 
 * Shortcut - `Cmd + Ctrl + G`
- 
+
+
 Exercise
 ---------
 
