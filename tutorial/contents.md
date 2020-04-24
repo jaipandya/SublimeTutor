@@ -35,8 +35,9 @@ Contents
 1.  Multiple selection - `Ctrl + clicks at multiple places`
 2.  Column Selection
     `Ctrl + Alt + Up` and `Ctrl + Alt + Down` (or `Alt + Shift + Up` and `Alt
-     + Shift + Down` for Linux) or `Shift + Right-Mouse drag`/ `Esc` for going back to single
-3.  Split block of selection into multiple lines - select a block of text, 
+    + Shift + Down` for Linux) or `Shift + Right-Mouse drag`/ `Esc` for going
+    back to single
+3.  Split block of selection into multiple lines - select a block of text,
     then `Ctrl + Shift + L`
 4.  Select word with multiple occurrences - `Ctrl + D`
     Quick skip - `Ctrl + K, Ctrl + D`
