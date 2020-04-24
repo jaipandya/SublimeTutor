@@ -36,3 +36,19 @@ var p = new Person();
 
 
 ```
+
+
+Sublime Text would wrap and unwrap given text in comment block depending upon
+the type of file used.
+
+Try changing the syntax from `Markdown` to `JavaScript` or `Ruby` by clicking
+clicking at the lower right corner of Sublime Text. Play with this command a
+bit then.
+
+Another way of changing the language is through command palette. (Formal intro
+will follow later in the last module). Press `Ctrl + Shift + P` and type
+`syntax ruby` to select Ruby language from the list of languages.
+
+While writing programs and code, commenting shortcut frequently comes in handy
+when you want to debug a section of the program. Comment out the lines of code
+that you suspect, run the program again, possibly some clue lies there.
