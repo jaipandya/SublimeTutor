@@ -48,7 +48,7 @@ Symbols Used in this guide
 Getting Started
 ----------------
 
-You can use `Ctrl + Alt + K` keyboard anytime shortcut to open sublime tutor.
+You can use `Ctrl + Alt + K` keyboard shortcut anytime to open sublime tutor.
 Another option is to go to `Help > Sublime Tutor` menu option to open this.
 
 Tip: Invoke Sublime Text 3 from OSX command line:
@@ -56,7 +56,7 @@ Tip: Invoke Sublime Text 3 from OSX command line:
 Make a symlink to `subl`. Assuming you've placed Sublime Text in `Applications`
 folder on Mac, and that you have ~/bin directory in your `PATH`, you can run:
 
-    $ ln -s "/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl" /usr/local/bin/Sublime
+    $ ln -s "/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl" /usr/local/bin/sublime
 
 Now you can use `sublime` command in your terminal to open Sublime Text 3. If 
 you put a `.` after the command, it will open the current directory in Sublime.
