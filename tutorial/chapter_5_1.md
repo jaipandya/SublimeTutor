@@ -14,6 +14,7 @@ For more advanced cases, we would like to open the `Find...` panel.
 * Find previous - `Cmd + Shift + G`
 * Find all - `Alt + Return` (when find panel is open)
 
+
 Exercise
 ---------
 
@@ -46,6 +47,7 @@ windows
 
 ```
 
+
 Use selection for find
 -----------------------
 
@@ -55,10 +57,10 @@ This commands puts the selection or the word on which the cursor is pointing
 into the find buffer. So next time when you open find panel, or press `Cmd + G`
 this search term is used for finding stuff.
 
+
 Exercise
 ---------
 
 In the text block given above, put your cursor on the word `ubuntu` and then
 press `Cmd + G`, you'll notice that it now finds `ubuntu` word on subsequent
 hits.
-

@@ -15,6 +15,7 @@ same, go to `Preferences -> Keyboard -> Shortcuts -> Mission Control` and
 uncheck `Mission Control` shortcut. Alternatively, you could also change the
 key-binding for column selection in Sublime Text to something else.
 
+
 Exercise
 ---------
 

@@ -11,6 +11,7 @@ with just one keystroke?
 Unlike other text transformation commands, this one uses function keys to
 do the magic. To remember, correlate `5` with the shape of `S` in `S`orting.
 
+
 Exercise
 ---------
 
@@ -20,7 +21,6 @@ Let's do the same exercise again using this shortcut now.
    (which is `fn + F5` on Macbook keyboard)
 2. Now delete the lines using `delete line` shortcut you learned in unit 4 of
    this module.
-
 
 ```
 

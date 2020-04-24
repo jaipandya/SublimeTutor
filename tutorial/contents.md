@@ -19,7 +19,7 @@ Contents
 6.  Upper / lower case - `Cmd + K, Cmd + U` / `Cmd + K, Cmd + L`
 7.  Joining Lines - `Cmd + J`
 8.  Bubble the line up / down - `Ctrl + Cmd + up` / `Ctrl + Cmd + down`
-9.  Sort a line - `F5`
+9.  Sort lines - `F5`
 10. Duplicating a line - `Cmd + Shift + D`
 11. Indent - Unindent - `Cmd + ]`, `Cmd + [`
 12. Commenting a line - `Cmd + /`
@@ -30,48 +30,47 @@ Contents
 3. Selection
 -------------
 
-1.  Multiple selection
-2.  Column Selection
-      http://stackoverflow.com/a/23893819/410367
-      `Ctrl + Shift + up` / `Ctrl + Shift + down` / `Esc` to exit mul. selection
-3.  Split block of selection into multiple lines - `Cmd + Shift + L`
-4.  Select word with multiple occurrences - `Cmd + D`
-    Quick skip - `Cmd + K, Cmd + D`
-5.  Selecting a line - `Cmd + L`
-6.  Expand selection to brackets - `Ctrl + Shift + M`
-7.  Expand selection to indentation - `Cmd + Shift + J`
-8.  Expand selection to scope - `Cmd + Shift + Space`
-
+1. Multiple selection
+2. Column Selection
+     http://stackoverflow.com/a/23893819/410367
+     `Ctrl + Shift + up` / `Ctrl + Shift + down` / `Esc` to exit mul. selection
+3. Split block of selection into multiple lines - `Cmd + Shift + L`
+4. Select word with multiple occurrences - `Cmd + D`
+   Quick skip - `Cmd + K, Cmd + D`
+5. Selecting a line - `Cmd + L`
+6. Expand selection to brackets - `Ctrl + Shift + M`
+7. Expand selection to indentation - `Cmd + Shift + J`
+8. Expand selection to scope - `Cmd + Shift + Space`
 
 4. Navigation
 --------------
 
-1.  Goto symbol in project - `Cmd + Shift + R`
-2.  Goto definition - `Option + Cmd + down`
-3.  Goto beginning / end of a line - `Ctrl + A` / `Ctrl + E`
-4.  Goto matching bracket - `Ctrl + M`
-5.  Move back / forward in history - `Ctrl + -` / `Ctrl + Shift + -`
-6.  Code fold / unfold - `Option + Cmd + [` / `Option + Cmd + ]`
+1. Goto symbol in project - `Cmd + Shift + R`
+2. Goto definition - `Option + Cmd + down`
+3. Goto beginning / end of a line - `Ctrl + A` / `Ctrl + E`
+4. Goto matching bracket - `Ctrl + M`
+5. Move back / forward in history - `Ctrl + -` / `Ctrl + Shift + -`
+6. Code fold / unfold - `Option + Cmd + [` / `Option + Cmd + ]`
 
 5. Find
 --------
 
-1.  Find - `Cmd + F`
-    Find next - `Cmd + G`
-    Find previous - `Cmd + Shift + G`
-    Find all - `Option + Return` (while find panel is open)
-    Add selection to find - `Cmd + E`
-2.  Incremental find - `Cmd + I`
-    Incremental find previous - `Cmd + Shift + I`
-    Find all with incremental find - `Option + Return` (while panel is open)
-3.  Replace panel - `Cmd + Option + F`
-    Replace next - `Cmd + Option + E`
-    Replace all - `Ctrl + Option + Return`
-    Add selection to replace - `Cmd + Shift + E`
-4.  Quick find - `Option + Cmd + G`
-    Quick find previous - `Option + Cmd + Shift + G`
-    Quick find all - `Ctrl + Cmd + G`
-5.  Find in project - `Cmd + Shift + F`
+1. Find - `Cmd + F`
+   Find next - `Cmd + G`
+   Find previous - `Cmd + Shift + G`
+   Find all - `Option + Return` (while find panel is open)
+   Add selection to find - `Cmd + E`
+2. Incremental find - `Cmd + I`
+   Incremental find previous - `Cmd + Shift + I`
+   Find all with incremental find - `Option + Return` (while panel is open)
+3. Replace panel - `Cmd + Option + F`
+   Replace next - `Cmd + Option + E`
+   Replace all - `Ctrl + Option + Return`
+   Add selection to replace - `Cmd + Shift + E`
+4. Quick find - `Option + Cmd + G`
+   Quick find previous - `Option + Cmd + Shift + G`
+   Quick find all - `Ctrl + Cmd + G`
+5. Find in project - `Cmd + Shift + F`
 
 6. Others
 ----------
@@ -79,7 +78,3 @@ Contents
 1. Opening User settings - `Cmd + ,`
 2. Python Console - `Ctrl + Backticks`
 3. Command Palette - `Cmd + Shift + P`
-
-
-
-

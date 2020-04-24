@@ -1,5 +1,5 @@
 Delete / Cut a line
-===========================
+====================
 
 In the previous chapter you learned how to delete a line from the cursor
 location in forward or backward direction. What if you want to delete the whole
@@ -9,8 +9,9 @@ the same purpose.
 * Delete a line - `Ctrl + Shift + K`
 * Cut a line - `Cmd + X`
     If you put the cursor on any line and press `Cmd + X` then it would cut the
-    whole line and put it in the clipboard. You can later paste it using `Cmd + V`
-    as usual.
+    whole line and put it in the clipboard. You can later paste it using
+    `Cmd + V` as usual.
+
 
 Exercise 1
 -----------
@@ -19,6 +20,7 @@ There are some lines written below, some of them are repeated. You need to make
 sure that all the lines appear only once. Use the command `Ctrl + Shift + K` to
 delete those lines.
 
+```
 
 1. This is line number one
 2. This is line number two
@@ -29,6 +31,8 @@ delete those lines.
 5. This is line number five
 6. This is line number six
 6. This is line number six
+
+```
 
 
 Exercise 2
@@ -36,11 +40,11 @@ Exercise 2
 
 There are six unique lines written below, you need to sort them and make sure
 all their duplicates are deleted. So in the end the remaining list should have
-just 6 items. To do this, use `Cmd + X` to cut a line, `Cmd + Return` to
-enter a new line below a certain line, `Cmd + V` to paste that line back. Once
-they are sorted, delete the lines which are not required using
-`Ctrl + Shift + K`.
+just 6 items. To do this, use `Cmd + X` to cut a line including its line break,
+`Cmd + V` to paste that line back. Once they are sorted, delete the lines which 
+are not required using `Ctrl + Shift + K`.
 
+```
 
 6. This is line number six
 1. This is line number one
@@ -51,6 +55,9 @@ they are sorted, delete the lines which are not required using
 2. This is line number two
 2. This is line number two
 3. This is line number three
+
+```
+
 
 Revision
 ---------
