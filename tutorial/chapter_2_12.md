@@ -14,21 +14,25 @@ for `html` it is `<!-- comment -->` while for JavaScript it is `//` or `/* */`
 Exercise
 ---------
 
-As this file is written using markdown syntax, comments take the form of HTML
-comments.
-
-In the block given below, some of the lines are wrapped in HTML comments. Use
-the toggle comments keyboard shortcut learned above to uncomment those lines.
+In the block given below, some of the lines are wrapped in JavasScript comments
+`//`. Use the toggle comments keyboard shortcut learned above to uncomment
+those lines.
 
 
-```
-<div>
-  <ul>
-  <!-- <li>first list item</li> -->
-  <!-- <li>second list item</li> -->
-  <li>third list item</li>
-  </ul>
-  <!--   <div>
-  </div> -->
-</div>
+```Javascript
+
+function Person(){
+
+  this.age = 0;
+  // console.log(this.age);
+
+  setInterval(() => {
+  	// console.log(this.age);
+    this.age++;
+  }, 1000);
+}
+
+var p = new Person();
+
+
 ```
