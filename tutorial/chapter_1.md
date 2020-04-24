@@ -3,7 +3,7 @@ Goto Anything (`Ctrl + P`)
 
 Give yourself a pat on the back. You just used your first keyboard shortcut.
 
-This is Probably the most frequently used command in Sublime Text. While a
+This is probably the most frequently used command in Sublime Text. While a
 project is open, you can use this command to move from one file to another,
 search symbols defined in a file, go to a specific line number.
 

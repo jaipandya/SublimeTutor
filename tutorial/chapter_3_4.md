@@ -41,8 +41,8 @@ Quick skip word
 ----------------
 
 While you use `Ctrl + D` to select multiple occurrences of a word, if there is
-a word that you don't want to select, use `Ctrl + K followed by `Ctrl + D` to skip
-the word under cursor.
+a word that you don't want to select, use `Ctrl + K` followed by `Ctrl + D` to
+skip the word under cursor.
 
 Exercise
 ---------
