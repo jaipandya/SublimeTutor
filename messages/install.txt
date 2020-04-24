@@ -21,7 +21,7 @@ can alternatively use the shortcut: `Ctrl + Alt + K`
 The tutor was tested on a Mac for Sublime Text 3. I'm in the process of testing
 / porting it for other platforms meanwhile.
 
-If you have questions, please feel free to reach me at hello@jai.im. I'm a
-part of a very cool hacker collective http://mutabl.es. In case you have an
-interesting project and you are looking for a helping hand, feel free to reach
-us.
+If you have questions, please feel free to reach me at hello@jai.im. I run
+a small software consultancy company Mutables (https://www.mutables.co). In
+case you have an interesting project and you are looking for a helping hand,
+feel free to reach us.

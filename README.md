@@ -59,7 +59,11 @@ Manual Installation:
    resides at the following path: `~/Library/Application Support/Sublime Text 3
    /Packages/`
 3. Once you are inside Packages directory, clone this repository:
-   `git clone git@github.org:jai/sublimetutor.git`
+   `git clone git@github.com:jaipandya/SublimeTutor.git`. Alternatively
+   download and extract the latest release for your platform here:
+   `https://github.com/jaipandya/SublimeTutor/releases`
+
+
 4. Restart Sublime Text
 
 Getting Started

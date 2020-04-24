@@ -32,6 +32,7 @@ to replace it with an empty string.
     string.
 12. Press `Ctrl + Z` multiple times to go back to the original state.
 
+
 ```
 
 __________
@@ -61,9 +62,8 @@ Let's try this in practice now.
 Exercise
 ---------
 
-1. In the exercise block above, select the first line that contains
-   underscores (Use the word selection command you learned in previous
-   chapters for that).
+1. In the exercise block above, put your cursor on the first line that
+   contains a series of underscores.
 2. Now first press `Ctrl + E` so 10 hyphens take the place of find term.
 3. Now go to the fourth line which has series of tilda `~` characters in it.
 4. Press `Ctrl + D` to select this term.

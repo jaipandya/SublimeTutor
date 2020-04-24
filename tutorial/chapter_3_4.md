@@ -43,9 +43,8 @@ Quick skip word
 ----------------
 
 While you use `Ctrl + D` to select multiple occurrences of a word, if there is
-a word that you don't want to select, use `Ctrl + K followed by `Ctrl + D` to
+a word that you don't want to select, use `Ctrl + K` followed by `Ctrl + D` to
 skip the word under cursor.
-
 
 Exercise
 ---------
@@ -58,6 +57,7 @@ and change it to `android`.
 3. Press `Ctrl + D` as many times as it appears in the list.
 4. When 'phone' in 'iphone' gets selected, skip it using `Ctrl + K, Ctrl + D`.
 5. Once all of them are selected, delete them and replace with `android`.
+
 
 ```
 
