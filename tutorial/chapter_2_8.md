@@ -2,9 +2,10 @@ Bubble the line up / down
 ==========================
 
 If you remember from chapter 2.4 exercise 2, in order to sort the lines you
-had to cut the lines first and insert a new line above/below and then paste
-the line back. If all you wanted to do was to move the complete line above
-or below, you could use this handy shortcut that Sublime Text provides.
+had to cut the lines first and then paste the line back. If all you wanted 
+to do was to move the complete line above or below, you could use this 
+handy shortcut that Sublime Text provides.
+
 
 * Bubble the line up - `Ctrl + Shift + Up`
 * Bubble the line down - `Ctrl + Shift + Down`
