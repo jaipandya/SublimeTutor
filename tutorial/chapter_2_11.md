@@ -42,3 +42,5 @@ Another way would be quicker.
               10 tenth line eighth level
 
 ```
+Tip: If you like another alternative here, you could use `tab` key for indenting
+and `shift` + `tab` unindenting. I leave the choice to you.
