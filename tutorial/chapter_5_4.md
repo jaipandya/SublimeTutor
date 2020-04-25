@@ -47,7 +47,7 @@ Exercise
 ---------
 
 1. In the list given above, use the quick find previous shortcut
-   (`Ctrl + Shift + F3) to cycle through other occurrences of a term in the
+   (`Ctrl + Shift + F3`) to cycle through other occurrences of a term in the
    opposite order.
 2. Do this for each term.
 
