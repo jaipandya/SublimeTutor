@@ -14,6 +14,7 @@ Shortcuts for soft undo and redo are:
 * Soft undo - `Ctrl + U`
 * Soft redo - `Ctrl + Shift + U`
 
+
 Exercise
 ---------
 
@@ -23,11 +24,12 @@ that, use soft undo with `Ctrl + U` shortcut to delete all this. Then try
 redoing it with `Ctrl + Shift + U` and then undo that action again and come in
 the original position.
 
+
 Revision
 ---------
 
 * Delete to beginning of the line - `Ctrl + Shift + Backspace`
-* Delete to end of the line - `Ctrl + K`
+* Delete to end of the line - `Ctrl + K K`
 * Delete a line - `Ctrl + Shift + K`
 * Cut a line - `Ctrl + X`
 

@@ -7,6 +7,7 @@ and move your cursor directly to that location.
 * Insert line before - `Ctrl + Shift + Return`
 * Insert line after - `Ctrl + Return`
 
+
 Exercise
 ---------
 
@@ -17,39 +18,51 @@ Exercise
 3. Each block should now look as the block below:
 
 ```
+
 This is first line
 
 I have been sandwiched between the two above and below <==
 
 This is last line
+
 ```
+
 
 First block
 ------------
 
 ```
+
 This is first line
 I have been sandwiched between the two above and below <==
 This is last line
+
 ```
+
 
 Second block
-------------
+-------------
 
 ```
+
 This is first line
 I have been sandwiched between the two above and below <==
 This is last line
+
 ```
+
 
 Third block
 ------------
 
 ```
+
 This is first line
 I have been sandwiched between the two above and below <==
 This is last line
+
 ```
 
-Now proceed to next chapter with the familiar `Goto Anything` shortcut. The 
+
+Now proceed to next chapter with the familiar `Goto Anything` shortcut. The
 filename is chapter_2_2.md

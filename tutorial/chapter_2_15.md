@@ -7,6 +7,7 @@ you could transpose words as well.
 
 Transpose - `Ctrl + T`
 
+
 Exercise
 ---------
 
@@ -16,11 +17,15 @@ shortcut described above to fix the issues.
 For example, in the first word `transpoes` which should actually be `transpose`
 place your cursor between the letters `e` and `s` and then press `Ctrl + T`
 
+```
+
 1. transpoes
 2. exercies
 3. shortctu
 4. edscribed
 5. usblime
+
+```
 
 This gets us to the end of module 2. We learned a lot of new editing related
 commands. Now, try to use them at work, while you are coding, working on your

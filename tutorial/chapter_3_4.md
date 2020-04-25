@@ -11,11 +11,12 @@ selected, now press `Ctrl + D` as many times as it appears in the document.
 This puts us in multiple cursor mode and we can do some editing operations
 on the selected occurrences.
 
+
 Exercise
 ---------
 
 In the block given below, select all the occurrences of the word `phone`
-and change it to `android`. 
+and change it to `android`.
 
 1. Place your cursor on the word `phone`.
 2. Press `Ctrl + D` as many times as it appears in the list.
@@ -37,6 +38,7 @@ windows
 
 ```
 
+
 Quick skip word
 ----------------
 
@@ -48,13 +50,14 @@ Exercise
 ---------
 
 In the block given below, select all the occurrences of the word `phone`
-and change it to `android`. 
+and change it to `android`.
 
 1. Place your cursor on the word `phone`.
 2. Select the word with the mouse so that `phone` is now highlighted.
 3. Press `Ctrl + D` as many times as it appears in the list.
 4. When 'phone' in 'iphone' gets selected, skip it using `Ctrl + K, Ctrl + D`.
 5. Once all of them are selected, delete them and replace with `android`.
+
 
 ```
 

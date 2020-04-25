@@ -1,7 +1,8 @@
 Copy and pasting with a twist
 ==============================
 
-## Copy
+Copy
+-----
 
 1. Selection
 
@@ -14,29 +15,36 @@ works system wide. Fair enough.
 What if you don't have anything selected? Pressing `Ctrl + C` now copies the
 line at which the cursor is currently positioned.
 
-## Exercise
+
+Exercise
+---------
 
 1. Let's put our learnings to some action. Copy first single quoted word in the
-block given below, then paste on line 31. Follow this process for all other 
-singly quoted words.
+   block given below, then paste on line 31. Follow this process for all other
+   singly quoted words.
 
 ```
+
 In a 'split' second, '65-million' years ago, a huge, 'plummeting' asteroid
 wiped out the entire 'race' of 'dinosaurs'.
 
 So, save your work 'often'. It could 'happen' again.
+
 ```
 
 Paste the words here =>
 
-2. You copied all the words pretty well. Now, from the same block above, copy the second line and paste it below.
+2. You copied all the words pretty well. Now, from the same block above, copy
+   the second line and paste it below.
 
-Paste the line here => 
+Paste the line here =>
 
-## Paste with a twist
+
+Paste with a twist
+-------------------
 
 What if I told you now, repeat the process you followed above and paste it
-below? Well, that would be some work. But there is a way to cut down some of 
+below? Well, that would be some work. But there is a way to cut down some of
 it.
 
 Sublime sports a feature that lets you access your clipboard history and paste
@@ -49,9 +57,9 @@ Now use this shortcut to paste all the stuff one by one below:
 
 Paste all the words here =>
 
---------
 
-## Revision
+Revision
+---------
 
 * Goto Anything - `Ctrl + P`
 * Goto Symbol - `Ctrl + R`

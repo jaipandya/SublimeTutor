@@ -9,10 +9,11 @@ locations.
 
 Multiple cursors - `Ctrl` key with the left mouse button
 
+
 Exercise
 ---------
 
-In the list given below, add an asterisk followed by space (`* `) in the 
+In the list given below, add an asterisk followed by space (`* `) in the
 beginning of each item. Use `Ctrl + click` method for it. Keep `Ctrl` key
 pressed and click at the beginning of each list item to place your cursor
 there. When it is done, type `* `
@@ -29,6 +30,7 @@ space
 
 ```
 
+
 Multiple selection
 ===================
 
@@ -37,6 +39,7 @@ trick to select text at multiple places. Press `Ctrl` key and then drag select
 multiple blocks of text in the document. Once you are in multiple selection
 mode, you can also use the usual `Shift + (up|down|left|right)` shortcuts to
 select blocks of text.
+
 
 Exercise
 ---------

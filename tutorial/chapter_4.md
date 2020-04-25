@@ -2,7 +2,7 @@ Navigation
 ===========
 
 We had a brief introduction to `Goto Anything` command in the first module of
-this course, and it has been our friend ever since to move from one unit to 
+this course, and it has been our friend ever since to move from one unit to
 another.
 
 We'll be learning about its cousins in this module, this should certainly make

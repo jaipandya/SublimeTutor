@@ -6,6 +6,7 @@ it and put it in your muscle memory.
 
 Shortcut - `Home`
 
+
 Goto end of a line
 ===================
 
@@ -13,6 +14,7 @@ This is exact opposite of the command above. This also happens to be one of the
 most frequently used commands.
 
 Shortcut - `End`
+
 
 Exercise
 ---------
@@ -22,7 +24,6 @@ Exercise
 3. Move your cursor to the beginning (`Home`) of that sentence
 4. Move your cursor to the end (`End`) of that sentence
 5. Move to the next line and repeat
-
 
 ```
 

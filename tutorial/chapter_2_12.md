@@ -11,6 +11,7 @@ for `HTML` it is `<!-- comment -->` while for JavaScript it is `//` or `/* */`
 
 Toggle comments - `Ctrl + /`
 
+
 Exercise
 ---------
 

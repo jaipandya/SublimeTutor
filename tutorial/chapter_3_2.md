@@ -8,7 +8,7 @@ that Sublime Text provides.
 Column selection using mouse - `Shift + right click and drag`
 Keyboard shortcut - `Ctrl + Alt + Up` or `Ctrl + Alt + Down`
 
-For linux users, this one is slightly different for you:
+For Linux users, this one is slightly different for you:
 Keyboard shortcut - `Alt + Shift + Up` or `Alt + Shift + Down`
 
 
@@ -23,7 +23,7 @@ beginning of each item. Put your cursor at the beginning of the word `tab`.
 Then press `Ctrl + Alt + Down`. This will put you into column selection mode.
 Now keep selecting more rows on column 1 as you hold the `down` arrow key.
 Once the first column of every item is selected, type `* ` (asterisk followed
-by space).  
+by space).
 
 ```
 
