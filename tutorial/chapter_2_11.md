@@ -47,3 +47,6 @@ your own code blocks. With that, we just found a friend that will stay with us
 for long.
 
 Next - chapter_2_12.md
+
+Tip: If you like another alternative here, you could use `tab` key for indenting
+and `shift` + `tab` unindenting. I leave the choice to you.
