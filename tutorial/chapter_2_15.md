@@ -2,8 +2,9 @@ Transpose Letter
 =================
 
 Over here Sublime follows the default functionality of OSX to transpose letters
-of a word. This is different from the way Sublime Text 2 used to deal it, where
-you could transpose words as well.
+of a word. On top of this you can also transpose words, but we'll keep that for
+later once you get introduced to multiple selection. Let's practice transposing
+letters for now.
 
 * Transpose - `Ctrl + T`
 

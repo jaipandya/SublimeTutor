@@ -57,3 +57,32 @@ option
 space <==
 
 ```
+
+
+Transposing with multiple selection
+====================================
+
+In the last chapter, we saw how to transpose letters. Which is quite handy.
+The superpowers of Sublime Text come out in open when you learn to transpose
+words, or blocks of text. It is like magic!
+
+
+Exercise
+---------
+
+In the JavaScript block given below, horse and pigeon have been accidentally
+placed away from their blocks. You could use the transpose selections
+shortcut that you just learnt, to fix this problem.
+
+Just like what you did in the previous exercise, use `Cmd` key to drag select
+the two words `horse` and `pigeon` first. Once both the words are select and
+you can cursor at the end of both words (affirming multiple selection mode),
+Use the transpose shortcut (`Ctrl + T`) to fix the issue.
+
+
+```js
+
+let birds = ['parrot', 'owl', 'hummingbird', 'woodpecker', 'horse']
+let animals = ['cat', 'dog', 'lion', 'elephant', 'pigeon']
+
+```
