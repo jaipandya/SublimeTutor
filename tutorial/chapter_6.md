@@ -10,8 +10,8 @@ Sublime Text Settings
 
 * Shortcut - `Cmd + ,`
 
-This gives you Sublime Text User settings. It is a json file where you can
-override the default Sublime Text settings. `Preferences -> Settings - Default`
+This gives you Sublime Text settings. It is a json file where you can
+override the default Sublime Text settings. `Preferences -> Settings`
 
 
 Exercise
