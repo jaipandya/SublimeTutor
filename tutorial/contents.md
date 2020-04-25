@@ -8,6 +8,7 @@ Contents
 2. Goto Symbol: `Ctrl + R`
 3. Goto Line: `Ctrl + G`
 
+
 2. Editing text
 ----------------
 
@@ -27,19 +28,24 @@ Contents
 14. Wrap line at ruler - `Alt + Q`
 15. Transpose - `Ctrl + T`
 
+
 3. Selection
 -------------
 
 1. Multiple selection - `Ctrl + clicks at multiple places`
 2. Column Selection
-   `Ctrl + Alt + Up` or `Ctrl + Alt + Down` / `Esc` for going back to single
-3. Split block of selection into multiple lines - `Ctrl + Shift + L`
+   `Ctrl + Alt + Up` and `Ctrl + Alt + Down` (or `Alt + Shift + Up` and
+   `Alt + Shift + Down` for Linux) or `Shift + Right-Mouse drag`/ `Esc` for
+   going back to single
+3. Split block of selection into multiple lines - select a block of text,
+   then `Ctrl + Shift + L`
 4. Select word with multiple occurrences - `Ctrl + D`
    Quick skip - `Ctrl + K, Ctrl + D`
 5. Selecting a line - `Ctrl + L`
 6. Expand selection to brackets - `Ctrl + Shift + M`
 7. Expand selection to indentation - `Ctrl + Shift + J`
 8. Expand selection to scope - `Ctrl + Shift + Space`
+
 
 4. Navigation
 --------------
@@ -50,6 +56,7 @@ Contents
 4. Goto matching bracket - `Ctrl + M`
 5. Move back / forward in history - `Alt + -` / `Alt + Shift + -`
 6. Code fold / unfold - `Ctrl + Shift + [` / `Ctrl + Shift + ]`
+
 
 5. Find
 --------
@@ -70,6 +77,7 @@ Contents
    Quick find previous - `Ctrl + Shift + F3`
    Quick find all - `Alt + F3`
 5. Find in project - `Ctrl + Shift + F`
+
 
 6. Others
 ----------

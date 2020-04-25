@@ -15,7 +15,7 @@ There are multiple lines in the block given below. Each line is indented at a
 different level. Use the shortcut learned above so that all the lines start at
 column number 4 (four spaces)
 
-There are two way to do it.
+There are two ways to do it.
 
 1. Indent every line individually except for 8,9,10.
 2. For 8,9,10 select all three and then use `Ctrl + [` five times to indent it
@@ -24,7 +24,7 @@ There are two way to do it.
 Another way would be quicker.
 
 1. Select the whole block
-2. Now use unindent command (`Ctrl + [`) untill all statements are indented at
+2. Now use unindent command (`Ctrl + [`) until all statements are indented at
    first column. Now indent (`Ctrl + ]`) twice to move the whole block to
    column 4
 
@@ -48,3 +48,6 @@ your own code blocks. With that, we just found a friend that will stay with us
 for long.
 
 Next - chapter_2_12.md
+
+Tip: If you like another alternative here, you could use `tab` key for indenting
+and `shift` + `tab` unindenting. I leave the choice to you.

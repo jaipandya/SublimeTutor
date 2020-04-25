@@ -1,0 +1,7 @@
+This version brings a lot of fixes to commands and shortcuts being used here.
+Largely reported by the community and a lot of it was made possible because
+of various contributors on github. I hope this edition helps you in your
+journey to learn Sublime Text and become a more productive user.
+
+If you come across any issue, please send a feedback email to
+hello+sublimetutor@jai.im or report it at the github repository. Thank you.

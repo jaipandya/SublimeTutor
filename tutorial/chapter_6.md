@@ -10,21 +10,23 @@ Python console.
 Sublime Text Settings
 ======================
 
-Shortcut - Click on the menu item: `Preferences > Settings - Default`
+Shortcut - Click on the menu item: `Preferences > Settings`
 
 This gives you Sublime Text Default settings. It is a json file where you can
 see all the default settings. If you want to override them, have a look at
-`Preferences > Settings - User` where user overridden settings are placed.
+`Preferences > Settings` where user overridden settings are placed.
 
 
 Exercise
 ---------
 
-Open `Setting - User` and add the key value pair given below on the top
+Open `Setting` and add the key value pair given below on the top
 level.
 
 ```json
+
 "spell_check": true
+
 ```
 
 This will enable spell check in this document. Try typing something now, if the
