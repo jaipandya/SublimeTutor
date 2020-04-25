@@ -23,6 +23,6 @@ Exercise
    will be highlighted. Double clicking on a line with highlighted search term
    will automatically open the file and take us to the corresponding line
    number.
-4. Try this will 4-5 different search terms and make yourself comfortable with
+4. Try this with 4-5 different search terms and make yourself comfortable with
    this command.
-5. When you done playing around with this, move to next module.
+5. When you are done playing around with this, move to next module.
