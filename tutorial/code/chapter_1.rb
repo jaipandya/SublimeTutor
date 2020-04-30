@@ -36,7 +36,7 @@ end
 # 3. Now change the quoted word to `bar_1`
 # 4. Type the number `27` and press `Return` to reach this line
 # 5. Now change the quoted word to `bar_2`
-# 6. When you are done with all the changes, press `Ctrl + Z` multiple
+# 6. When you are done with all the changes, press `Cmd + Z` multiple
 #    times to get back to the original state. We plan to use them again
 #    later in this tutorial.
 
