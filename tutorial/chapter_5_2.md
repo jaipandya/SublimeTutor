@@ -8,6 +8,7 @@ the two.
 
 Let's learn the shortcuts first:
 
+* incremental find - `Ctrl + I` (pressing the first time opens the find panel)
 * Incremental find - `Ctrl + I` (pressing again would find next)
 * Incremental find previous - `Ctrl + Shift + I`
 
@@ -51,3 +52,9 @@ phone
 windows
 
 ```
+
+p.s. As you would have noticed, I am a bit opinionated on the usage of these
+shortcuts. I would rather use `Ctrl + E` in conjunction with `Ctrl + G` as an
+alternative. You learned these commands in the previous chapter. Make a habit
+of using them.
+
