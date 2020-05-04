@@ -69,5 +69,5 @@ Exercise
 4. Press `Ctrl + D` to select this term.
 5. Press `Ctrl + Shift + E`, this copies an empty string in the replace field
    of replace panel.
-6. Now press `Ctrl + Shift + E` three times, this should replace all three
+6. Now press `Ctrl + Shft + H` three times, this should replace all three
    strings with an empty one.
