@@ -8,6 +8,7 @@ the two.
 
 Let's learn the shortcuts first:
 
+* incremental find - `Cmd + I` (pressing the first time, opens the find panel)
 * Incremental find - `Cmd + I` (pressing again would find next)
 * Incremental find previous - `Cmd + Shift + I`
 * Incremental find all - `Option + Return` (when the find panel is open)
@@ -52,3 +53,8 @@ phone
 windows
 
 ```
+
+p.s. I have opinioins on the usage of this shortcut, you would have noticed.
+I would rather suggest you use the regular `Find...` that you learned in the
+previous chapter. `Cmd + E` and `Cmd + G` could be some of the most
+frequently used shortcuts on my keyboard.
