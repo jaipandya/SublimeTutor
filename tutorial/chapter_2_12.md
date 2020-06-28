@@ -2,7 +2,7 @@ Comment / Uncomment
 ====================
 
 Commenting is an important feature of almost every programming language. These
-are the parts of the language that are targeting for a human and the compiler /
+are the parts of the language that are targeted for a human and the compiler /
 interpreter ignores them. Sublime Text provides a shortcut to mark lines as
 comments.
 
